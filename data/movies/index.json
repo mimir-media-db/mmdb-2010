@@ -1,0 +1,26 @@
+[
+  {
+    "id": "m_inception_2010",
+    "title": "Inception",
+    "year": 2010,
+    "type": "movie",
+    "runtime_minutes": 148,
+    "path": "data/movies/inception-2010.json"
+  },
+  {
+    "id": "m_the_social_network_2010",
+    "title": "The Social Network",
+    "year": 2010,
+    "type": "movie",
+    "runtime_minutes": 120,
+    "path": "data/movies/the-social-network-2010.json"
+  },
+  {
+    "id": "m_toy_story_3_2010",
+    "title": "Toy Story 3",
+    "year": 2010,
+    "type": "movie",
+    "runtime_minutes": 103,
+    "path": "data/movies/toy-story-3-2010.json"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "m_toy_story_3_2010",
+  "title": "Toy Story 3",
+  "year": 2010,
+  "release_date": "2010-06-18",
+  "type": "movie",
+  "runtime_minutes": 103,
+  "original_language": "en",
+  "countries": ["US"],
+  "summary": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college.",
+  "genres": ["animation", "adventure", "comedy"],
+  "directors": ["p_lee_unkrich"],
+  "external_ids": {
+    "wikidata": "Q171048",
+    "imdb": "tt0435761",
+    "tmdb": 10193
+  },
+  "last_updated": "2026-01-19"
+}

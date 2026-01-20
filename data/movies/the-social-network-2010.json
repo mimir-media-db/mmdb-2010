@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "m_the_social_network_2010",
+  "title": "The Social Network",
+  "year": 2010,
+  "release_date": "2010-10-01",
+  "type": "movie",
+  "runtime_minutes": 120,
+  "original_language": "en",
+  "countries": ["US"],
+  "summary": "The story of Facebook's founding and the lawsuits that followed.",
+  "genres": ["drama", "biography"],
+  "directors": ["p_david_fincher"],
+  "external_ids": {
+    "wikidata": "Q185888",
+    "imdb": "tt1285016",
+    "tmdb": 37799
+  },
+  "last_updated": "2026-01-19"
+}

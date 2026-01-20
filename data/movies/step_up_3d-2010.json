@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_step_up_3d_2010",
+  "title": "Step Up 3D",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81037",
+    "imdb": "tt1193631",
+    "tmdb": 41233
+  },
+  "last_updated": "2026-01-20",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 111
+}

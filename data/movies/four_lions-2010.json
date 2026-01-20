@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_lions_2010",
+  "title": "Four Lions",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5590",
+    "imdb": "tt1341167",
+    "tmdb": 37495
+  },
+  "last_updated": "2026-01-20",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

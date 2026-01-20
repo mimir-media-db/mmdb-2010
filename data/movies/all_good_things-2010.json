@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_good_things_2010",
+  "title": "All Good Things",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49903",
+    "imdb": "tt1175709",
+    "tmdb": 46503
+  },
+  "last_updated": "2026-01-20",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 101
+}

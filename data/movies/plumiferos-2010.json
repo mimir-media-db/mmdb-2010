@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plumiferos_2010",
+  "title": "Plumíferos",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46916",
+    "imdb": "tt0811021",
+    "tmdb": 71080
+  },
+  "last_updated": "2026-01-20",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_airbender_2010",
+  "title": "The Last Airbender",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11593",
+    "imdb": "tt0938283",
+    "tmdb": 10196
+  },
+  "last_updated": "2026-01-20",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 99
+}

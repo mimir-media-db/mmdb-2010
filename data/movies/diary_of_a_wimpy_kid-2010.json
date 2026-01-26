@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_wimpy_kid_2010",
+  "title": "Diary of a Wimpy Kid",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74671",
+    "imdb": "tt1196141",
+    "tmdb": 33217
+  },
+  "last_updated": "2026-01-20",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

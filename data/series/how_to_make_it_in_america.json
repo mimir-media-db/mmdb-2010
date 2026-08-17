@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_how_to_make_it_in_america",
+  "title": "How to Make It in America",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1145602",
+    "imdb": "tt1299365",
+    "tmdb": 32023
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_how_i_met_your_mother",
+  "title": "How I Met Your Mother",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4208862",
+    "imdb": "tt3276070",
+    "tmdb": 85267
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

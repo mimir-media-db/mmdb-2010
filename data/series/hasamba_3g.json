@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hasamba_3g",
+  "title": "Hasamba 3G",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q10951421",
+    "imdb": "tt2876178",
+    "tmdb": 38926
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

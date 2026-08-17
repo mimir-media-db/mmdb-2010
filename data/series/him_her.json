@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_him_her",
+  "title": "Him & Her",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3135707",
+    "imdb": "tt1493923",
+    "tmdb": 33829
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hawaii_five0",
+  "title": "Hawaii Five-0",
+  "start_year": 2010,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q728443",
+    "imdb": "tt1600194",
+    "tmdb": 32798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 240
+}

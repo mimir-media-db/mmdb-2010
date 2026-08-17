@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hunter",
+  "title": "The Hunter",
+  "start_year": 2010,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3221077",
+    "imdb": "tt1405799",
+    "tmdb": 66976
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

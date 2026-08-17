@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kuchenne_rewolucje",
+  "title": "Kuchenne rewolucje",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6441477",
+    "imdb": "tt6819568",
+    "tmdb": 45099
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 29,
+  "total_episodes": 392
+}

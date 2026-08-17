@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_127_hours_2010",
+  "title": "127 Hours",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q174371",
+    "imdb": "tt1542344",
+    "tmdb": 44115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-05",
+  "runtime_minutes": 94
+}

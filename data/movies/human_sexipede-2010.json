@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_human_sexipede_2010",
+  "title": "The Human Sexipede",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3987630",
+    "imdb": "tt1733297",
+    "tmdb": 617863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

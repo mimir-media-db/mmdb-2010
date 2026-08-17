@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hawi_2010",
+  "title": "Hawi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5573100",
+    "imdb": "tt1776201",
+    "tmdb": 570519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 122
+}

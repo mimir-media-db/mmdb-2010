@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunter_prey_2010",
+  "title": "Hunter Prey",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2357642",
+    "imdb": "tt1270291",
+    "tmdb": 41360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_darling_2010",
+  "title": "Hello Darling",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5708661",
+    "imdb": "tt1191118",
+    "tmdb": 83319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

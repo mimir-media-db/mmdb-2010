@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heartcatch_pretty_cure_the_movie_fashion_show_in_paris_2010",
+  "title": "HeartCatch Pretty Cure! The Movie: Fashion Show in Paris?",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3720632",
+    "imdb": "tt1753757",
+    "tmdb": 59467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 71
+}

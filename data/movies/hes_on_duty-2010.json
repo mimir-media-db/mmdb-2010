@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hes_on_duty_2010",
+  "title": "He's on Duty",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5688652",
+    "imdb": "tt1838458",
+    "tmdb": 92324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 110
+}

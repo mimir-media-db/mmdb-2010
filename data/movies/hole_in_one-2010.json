@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hole_in_one_2010",
+  "title": "Hole in One",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3139312",
+    "imdb": "tt1263800",
+    "tmdb": 45781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

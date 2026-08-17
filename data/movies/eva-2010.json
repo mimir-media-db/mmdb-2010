@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eva_2010",
+  "title": "Eva",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3623949",
+    "imdb": "tt1105740",
+    "tmdb": 46734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

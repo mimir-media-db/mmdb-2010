@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exquisite_corpse_2010",
+  "title": "Exquisite Corpse",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5421764",
+    "imdb": "tt1319712",
+    "tmdb": 93226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 102
+}

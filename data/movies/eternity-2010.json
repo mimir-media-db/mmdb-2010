@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eternity_2010",
+  "title": "Eternity",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4911831",
+    "imdb": "tt1740482",
+    "tmdb": 121046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

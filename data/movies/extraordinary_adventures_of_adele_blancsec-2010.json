@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extraordinary_adventures_of_adele_blancsec_2010",
+  "title": "The Extraordinary Adventures of Adèle Blanc-Sec",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q380349",
+    "imdb": "tt1179025",
+    "tmdb": 35552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_tus_manos_2010",
+  "title": "En Tus Manos",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5375017",
+    "imdb": "tt1595648",
+    "tmdb": 428973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

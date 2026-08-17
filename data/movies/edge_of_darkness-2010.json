@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edge_of_darkness_2010",
+  "title": "Edge of Darkness",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q760093",
+    "imdb": "tt1226273",
+    "tmdb": 12201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elena_undone_2010",
+  "title": "Elena Undone",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4174688",
+    "imdb": "tt1575539",
+    "tmdb": 56743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

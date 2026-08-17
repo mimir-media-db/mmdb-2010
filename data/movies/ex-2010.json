@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ex_2010",
+  "title": "Ex",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4198002",
+    "imdb": "tt1611818",
+    "tmdb": 54534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 95
+}

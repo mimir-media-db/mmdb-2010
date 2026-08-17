@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pasta",
+  "title": "Pasta",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q496290",
+    "imdb": "tt2181460",
+    "tmdb": 32220
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

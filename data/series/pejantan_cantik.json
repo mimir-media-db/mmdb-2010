@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pejantan_cantik",
+  "title": "Pejantan Cantik",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q19752386",
+    "tmdb": 51776
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

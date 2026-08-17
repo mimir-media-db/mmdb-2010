@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pacific",
+  "title": "The Pacific",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q598499",
+    "imdb": "tt0374463",
+    "tmdb": 16997
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

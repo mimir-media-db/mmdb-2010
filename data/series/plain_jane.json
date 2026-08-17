@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_plain_jane",
+  "title": "Plain Jane",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q616099",
+    "imdb": "tt1669773",
+    "tmdb": 32822
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

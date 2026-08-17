@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_python_hunters",
+  "title": "Python Hunters",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7263922",
+    "imdb": "tt1688573",
+    "tmdb": 41357
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prisoners_of_war",
+  "title": "Prisoners of War",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2085782",
+    "imdb": "tt1676462",
+    "tmdb": 51157
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

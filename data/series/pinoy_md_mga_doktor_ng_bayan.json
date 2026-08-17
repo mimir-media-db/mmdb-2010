@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pinoy_md_mga_doktor_ng_bayan",
+  "title": "Pinoy M.D. Mga Doktor ng Bayan",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7196447",
+    "imdb": "tt1982452",
+    "tmdb": 39584
+  },
+  "last_updated": "2026-08-17"
+}

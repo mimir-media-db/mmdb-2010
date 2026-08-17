@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pilyang_kerubin",
+  "title": "Pilyang Kerubin",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7194552",
+    "imdb": "tt1671996",
+    "tmdb": 32454
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 60
+}

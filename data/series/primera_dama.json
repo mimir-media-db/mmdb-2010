@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_primera_dama",
+  "title": "Primera dama",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3403221",
+    "imdb": "tt1712435",
+    "tmdb": 97918
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 127
+}

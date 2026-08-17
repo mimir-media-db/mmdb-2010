@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_public_atorni_asunto_o_areglo",
+  "title": "Public Atorni: Asunto o Areglo",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7257318",
+    "tmdb": 34483
+  },
+  "last_updated": "2026-08-17"
+}

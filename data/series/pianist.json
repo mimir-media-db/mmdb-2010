@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pianist",
+  "title": "Pianist",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7190065",
+    "imdb": "tt2816270",
+    "tmdb": 256839
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1
+}

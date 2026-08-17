@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_i_loved_you_2010",
+  "title": "If I loved You",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4177183",
+    "imdb": "tt3575404",
+    "tmdb": 70144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

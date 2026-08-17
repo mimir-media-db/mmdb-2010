@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_will_follow_2010",
+  "title": "I Will Follow",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5979790",
+    "imdb": "tt1624426",
+    "tmdb": 72946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

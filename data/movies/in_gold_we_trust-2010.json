@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_gold_we_trust_2010",
+  "title": "In Gold We Trust",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q246720",
+    "imdb": "tt1534084",
+    "tmdb": 52349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

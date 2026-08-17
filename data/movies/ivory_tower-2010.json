@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ivory_tower_2010",
+  "title": "Ivory Tower",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6099705",
+    "imdb": "tt1674708",
+    "tmdb": 98585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 75
+}

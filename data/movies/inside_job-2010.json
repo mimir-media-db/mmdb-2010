@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_job_2010",
+  "title": "Inside Job",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q645931",
+    "imdb": "tt1645089",
+    "tmdb": 44639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 105
+}

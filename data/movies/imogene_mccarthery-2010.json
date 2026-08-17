@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imogene_mccarthery_2010",
+  "title": "Imogène McCarthery",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3149151",
+    "imdb": "tt1376421",
+    "tmdb": 49510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 82
+}

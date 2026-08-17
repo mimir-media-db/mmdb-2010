@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_irreversi_2010",
+  "title": "Irreversi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6073764",
+    "imdb": "tt0782047",
+    "tmdb": 43921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

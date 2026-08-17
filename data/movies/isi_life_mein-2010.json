@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_isi_life_mein_2010",
+  "title": "Isi Life Mein",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6080773",
+    "imdb": "tt1781838",
+    "tmdb": 52899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

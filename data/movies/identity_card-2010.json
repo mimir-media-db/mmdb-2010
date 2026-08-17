@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_identity_card_2010",
+  "title": "Identity Card",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q328937",
+    "imdb": "tt1773000",
+    "tmdb": 55637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 137
+}

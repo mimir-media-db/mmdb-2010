@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imani_2010",
+  "title": "Imani",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6003303",
+    "imdb": "tt1679594",
+    "tmdb": 313137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 82
+}

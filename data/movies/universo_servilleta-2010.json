@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_universo_servilleta_2010",
+  "title": "Universo Servilleta",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6156910",
+    "imdb": "tt1743259",
+    "tmdb": 117643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 110
+}

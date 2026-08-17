@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_canzone_per_te_2010",
+  "title": "Una canzone per te",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4004160",
+    "imdb": "tt1572782",
+    "tmdb": 48637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 102
+}

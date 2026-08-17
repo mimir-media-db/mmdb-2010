@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uc_harfliler_marid_2010",
+  "title": "Üç Harfliler: Marid",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6073771",
+    "imdb": "tt1718711",
+    "tmdb": 133667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

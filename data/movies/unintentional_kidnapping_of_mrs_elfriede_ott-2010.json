@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unintentional_kidnapping_of_mrs_elfriede_ott_2010",
+  "title": "The Unintentional Kidnapping of Mrs. Elfriede Ott",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1219626",
+    "imdb": "tt1663636",
+    "tmdb": 59255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 110
+}

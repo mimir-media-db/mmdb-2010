@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unkraut_im_paradies_2010",
+  "title": "Unkraut im Paradies",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2496567",
+    "imdb": "tt1277952",
+    "tmdb": 130833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

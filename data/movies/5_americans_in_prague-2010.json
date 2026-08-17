@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5_americans_in_prague_2010",
+  "title": "5 Americans in Prague",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9553758",
+    "imdb": "tt2165537",
+    "tmdb": 384116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 139
+}

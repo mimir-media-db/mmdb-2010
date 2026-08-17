@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_disguise_2010",
+  "title": "Love in Disguise",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q165685",
+    "imdb": "tt1646214",
+    "tmdb": 49704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

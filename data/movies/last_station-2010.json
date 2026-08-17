@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_station_2010",
+  "title": "Last station",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7560717",
+    "imdb": "tt1600441",
+    "tmdb": 602826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_the_bullets_fly_2010",
+  "title": "Let the Bullets Fly",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2633399",
+    "imdb": "tt1533117",
+    "tmdb": 51533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 132
+}

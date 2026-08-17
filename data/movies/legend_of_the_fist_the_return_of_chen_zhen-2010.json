@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_fist_the_return_of_chen_zhen_2010",
+  "title": "Legend of the Fist: The Return of Chen Zhen",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2087602",
+    "imdb": "tt1456661",
+    "tmdb": 47854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 105
+}

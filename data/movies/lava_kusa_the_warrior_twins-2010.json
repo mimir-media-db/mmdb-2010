@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lava_kusa_the_warrior_twins_2010",
+  "title": "Lava Kusa: The Warrior Twins",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6502199",
+    "imdb": "tt1607568",
+    "tmdb": 54657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

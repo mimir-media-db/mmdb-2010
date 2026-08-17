@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_vibes_2010",
+  "title": "Love Vibes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q900885",
+    "imdb": "tt1512184",
+    "tmdb": 62390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 107
+}

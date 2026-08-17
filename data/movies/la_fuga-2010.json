@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fuga_2010",
+  "title": "La fuga",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966770",
+    "imdb": "tt1567129",
+    "tmdb": 178209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leave_them_laughing_2010",
+  "title": "Leave Them Laughing",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6510606",
+    "imdb": "tt1521002",
+    "tmdb": 1148865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_it_be_2010",
+  "title": "Let It Be",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3801240",
+    "imdb": "tt1617123",
+    "tmdb": 101244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 102
+}

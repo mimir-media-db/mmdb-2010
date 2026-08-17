@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_loathing_lulu_ayano_2010",
+  "title": "Love & Loathing & Lulu & Ayano",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4251193",
+    "imdb": "tt1693776",
+    "tmdb": 125493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 105
+}

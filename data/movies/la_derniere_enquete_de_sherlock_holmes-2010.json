@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_derniere_enquete_de_sherlock_holmes_2010",
+  "title": "La Dernière Enquête de Sherlock Holmes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208204",
+    "imdb": "tt1715829",
+    "tmdb": 413515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

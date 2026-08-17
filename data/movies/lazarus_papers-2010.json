@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lazarus_papers_2010",
+  "title": "The Lazarus Papers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4186675",
+    "imdb": "tt1247400",
+    "tmdb": 68712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_make_a_movie_2010",
+  "title": "Let's Make a Movie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6532496",
+    "imdb": "tt1744850",
+    "tmdb": 129656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_is_born_ip_man_2010",
+  "title": "The Legend Is Born – Ip Man",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3125235",
+    "imdb": "tt1641638",
+    "tmdb": 44249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lafangey_parindey_2010",
+  "title": "Lafangey Parindey",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3216082",
+    "imdb": "tt1606267",
+    "tmdb": 44613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 126
+}

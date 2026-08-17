@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_island_of_dvid_2010",
+  "title": "Legend of the island of Dvid",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4256934",
+    "imdb": "tt1620523",
+    "tmdb": 386911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

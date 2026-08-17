@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_sister_2010",
+  "title": "Little Sister",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6651937",
+    "imdb": "tt1410270",
+    "tmdb": 205832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

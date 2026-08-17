@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loveloss_2010",
+  "title": "Love/Loss",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3264116",
+    "imdb": "tt1673419",
+    "tmdb": 348521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

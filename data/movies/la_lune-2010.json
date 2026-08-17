@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_lune_2010",
+  "title": "La Lune",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3220203",
+    "imdb": "tt3300488",
+    "tmdb": 1475322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

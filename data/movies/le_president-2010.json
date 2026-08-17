@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_president_2010",
+  "title": "Le président",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3226058",
+    "imdb": "tt1790762",
+    "tmdb": 57396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 98
+}

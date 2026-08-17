@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_slaps_la_bellezza_del_somaro_2010",
+  "title": "Love & Slaps (La bellezza del somaro)",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3821435",
+    "imdb": "tt1523493",
+    "tmdb": 58204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 116
+}

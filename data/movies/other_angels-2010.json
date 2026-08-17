@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_other_angels_2010",
+  "title": "Other Angels",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6098821",
+    "imdb": "tt2073093",
+    "tmdb": 177692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-17"
+}

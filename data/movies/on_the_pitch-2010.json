@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_pitch_2010",
+  "title": "On the Pitch",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19483660",
+    "imdb": "tt3971968",
+    "tmdb": 48355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-27"
+}

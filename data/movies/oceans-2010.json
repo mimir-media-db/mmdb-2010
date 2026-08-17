@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oceans_2010",
+  "title": "Oceans",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q597788",
+    "imdb": "tt0765128",
+    "tmdb": 36970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-25",
+  "runtime_minutes": 99
+}

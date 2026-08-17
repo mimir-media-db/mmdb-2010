@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_naal_varum_2010",
+  "title": "Oru Naal Varum",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7105135",
+    "imdb": "tt1873591",
+    "tmdb": 181475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

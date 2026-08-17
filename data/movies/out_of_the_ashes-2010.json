@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_the_ashes_2010",
+  "title": "Out of the Ashes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7111686",
+    "imdb": "tt1691334",
+    "tmdb": 104821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 86
+}

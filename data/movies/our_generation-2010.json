@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_generation_2010",
+  "title": "Our Generation",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126820",
+    "imdb": "tt1843234",
+    "tmdb": 370568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

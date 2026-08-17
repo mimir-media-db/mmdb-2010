@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_stand_2010",
+  "title": "One Night Stand",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19161888",
+    "tmdb": 338579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-04"
+}

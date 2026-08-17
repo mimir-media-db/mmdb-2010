@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_segredo_de_miguel_zuzarte_2010",
+  "title": "O Segredo de Miguel Zuzarte",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10339770",
+    "imdb": "tt1659210",
+    "tmdb": 1112629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

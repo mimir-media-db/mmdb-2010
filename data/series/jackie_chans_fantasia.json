@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jackie_chans_fantasia",
+  "title": "Jackie Chan's Fantasia",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q20503055",
+    "imdb": "tt26934504",
+    "tmdb": 261567
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jerseylicious",
+  "title": "Jerseylicious",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3285784",
+    "imdb": "tt1583417",
+    "tmdb": 33984
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 102
+}

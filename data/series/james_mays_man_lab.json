@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_james_mays_man_lab",
+  "title": "James May's Man Lab",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12032421",
+    "imdb": "tt1750269",
+    "tmdb": 34362
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 13
+}

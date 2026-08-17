@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_again_2010",
+  "title": "You Again",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q524212",
+    "imdb": "tt1414382",
+    "tmdb": 38303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 106
+}

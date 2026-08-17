@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_all_are_captains_2010",
+  "title": "You All Are Captains",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3530318",
+    "imdb": "tt1646984",
+    "tmdb": 110218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

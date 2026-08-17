@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_get_lamp_the_text_adventure_documentary_2010",
+  "title": "GET LAMP: The Text Adventure Documentary",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5553976",
+    "imdb": "tt1756529",
+    "tmdb": 47689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

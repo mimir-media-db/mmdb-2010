@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gandu_2010",
+  "title": "Gandu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5520783",
+    "imdb": "tt1841611",
+    "tmdb": 92472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golakani_kirkuk_the_flowers_of_kirkuk_2010",
+  "title": "Golakani Kirkuk - The Flowers of Kirkuk",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3790824",
+    "imdb": "tt1781820",
+    "tmdb": 56958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 115
+}

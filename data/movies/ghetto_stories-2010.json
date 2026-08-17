@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghetto_stories_2010",
+  "title": "Ghetto Stories",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5556578",
+    "imdb": "tt1777573",
+    "tmdb": 51065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

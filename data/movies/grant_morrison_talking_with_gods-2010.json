@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grant_morrison_talking_with_gods_2010",
+  "title": "Grant Morrison: Talking with Gods",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5596357",
+    "imdb": "tt1570101",
+    "tmdb": 55322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

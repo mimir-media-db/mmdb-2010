@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_great_river_2010",
+  "title": "Great River",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5599871",
+    "imdb": "tt1664655"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

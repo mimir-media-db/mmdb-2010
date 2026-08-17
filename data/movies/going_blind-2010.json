@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_going_blind_2010",
+  "title": "Going Blind",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5577763",
+    "imdb": "tt1196941",
+    "tmdb": 322927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

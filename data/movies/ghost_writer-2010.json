@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_writer_2010",
+  "title": "The Ghost Writer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q157879",
+    "imdb": "tt1139328",
+    "tmdb": 11439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 128
+}

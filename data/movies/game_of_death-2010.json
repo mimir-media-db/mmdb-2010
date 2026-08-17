@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_game_of_death_2010",
+  "title": "Game of Death",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5519947",
+    "imdb": "tt1446072",
+    "tmdb": 46541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

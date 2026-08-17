@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_the_distance_2010",
+  "title": "Going the Distance",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1506412",
+    "imdb": "tt1322312",
+    "tmdb": 38073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 102
+}

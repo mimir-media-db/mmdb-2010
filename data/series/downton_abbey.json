@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_downton_abbey",
+  "title": "Downton Abbey",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q83071",
+    "imdb": "tt1606375",
+    "tmdb": 33907
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 52
+}

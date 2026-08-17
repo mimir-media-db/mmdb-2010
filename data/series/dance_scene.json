@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dance_scene",
+  "title": "The Dance Scene",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7728812",
+    "imdb": "tt1942686",
+    "tmdb": 38287
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

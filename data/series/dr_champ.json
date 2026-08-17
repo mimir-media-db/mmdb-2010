@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_champ",
+  "title": "Dr. Champ",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q493287",
+    "imdb": "tt2462572",
+    "tmdb": 47131
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

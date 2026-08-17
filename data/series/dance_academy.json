@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dance_academy",
+  "title": "Dance Academy",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1159304",
+    "imdb": "tt1551948",
+    "tmdb": 32515
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 70
+}

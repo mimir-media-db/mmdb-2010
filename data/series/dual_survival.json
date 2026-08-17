@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dual_survival",
+  "title": "Dual Survival",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q1170488",
+    "imdb": "tt1673441",
+    "tmdb": 32997
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 84
+}

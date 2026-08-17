@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_daves_one_night_stand",
+  "title": "Dave's One Night Stand",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5228187",
+    "imdb": "tt1769615",
+    "tmdb": 34305
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 20
+}

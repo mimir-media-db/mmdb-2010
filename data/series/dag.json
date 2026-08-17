@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dag",
+  "title": "Dag",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q10465845",
+    "imdb": "tt1711386",
+    "tmdb": 37016
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_deep",
+  "title": "The Deep",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7729541",
+    "imdb": "tt1525182",
+    "tmdb": 32763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

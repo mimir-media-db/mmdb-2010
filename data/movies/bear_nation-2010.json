@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bear_nation_2010",
+  "title": "Bear Nation",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246146",
+    "imdb": "tt1545021",
+    "tmdb": 110561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 82
+}

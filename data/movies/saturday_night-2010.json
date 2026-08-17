@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saturday_night_2010",
+  "title": "Saturday Night",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170385",
+    "imdb": "tt1580427",
+    "tmdb": 295069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-14"
+}

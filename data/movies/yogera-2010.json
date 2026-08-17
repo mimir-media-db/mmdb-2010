@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_yogera_2010",
+  "title": "Yogera",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073954",
+    "imdb": "tt2040603"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-22"
+}

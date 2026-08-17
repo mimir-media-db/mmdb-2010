@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_macho_like_me_2010",
+  "title": "Macho Like Me",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2648839"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-09",
+  "runtime_minutes": 75
+}

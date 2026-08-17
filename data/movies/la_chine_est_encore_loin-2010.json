@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_chine_est_encore_loin_2010",
+  "title": "La Chine est encore loin",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18214390",
+    "imdb": "tt1593713",
+    "tmdb": 576204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

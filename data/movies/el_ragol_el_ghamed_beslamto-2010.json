@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_ragol_el_ghamed_beslamto_2010",
+  "title": "El Ragol El Ghamed Beslamto",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12187712",
+    "imdb": "tt9036874",
+    "tmdb": 62969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-09"
+}

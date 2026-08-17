@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ik_kudi_punjab_di_2010",
+  "title": "Ik Kudi Punjab Di",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983088",
+    "imdb": "tt1825812",
+    "tmdb": 82573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revanche_2010",
+  "title": "Revanche",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q699132",
+    "imdb": "tt1173745",
+    "tmdb": 15451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-29",
+  "runtime_minutes": 121
+}

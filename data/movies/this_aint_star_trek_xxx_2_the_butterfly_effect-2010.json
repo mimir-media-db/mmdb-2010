@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_aint_star_trek_xxx_2_the_butterfly_effect_2010",
+  "title": "This Ain’t Star Trek XXX 2: The Butterfly Effect",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137303536",
+    "imdb": "tt1598174",
+    "tmdb": 43183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-06",
+  "runtime_minutes": 136
+}

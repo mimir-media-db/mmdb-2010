@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hearty_paws_2_2010",
+  "title": "Hearty Paws 2",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q624633",
+    "imdb": "tt1954642",
+    "tmdb": 249938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-21"
+}

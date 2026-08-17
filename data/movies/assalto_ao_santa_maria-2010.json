@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assalto_ao_santa_maria_2010",
+  "title": "Assalto ao Santa Maria",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16494747",
+    "imdb": "tt1202513",
+    "tmdb": 112474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 104
+}

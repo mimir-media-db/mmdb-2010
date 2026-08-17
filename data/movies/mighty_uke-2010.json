@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mighty_uke_2010",
+  "title": "Mighty Uke",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17109754",
+    "imdb": "tt1479293",
+    "tmdb": 173938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

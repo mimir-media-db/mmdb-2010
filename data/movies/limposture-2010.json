@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_limposture_2010",
+  "title": "L'Imposture",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123270076",
+    "imdb": "tt1981006",
+    "tmdb": 865407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastic_water_babes_2010",
+  "title": "The Fantastic Water Babes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10896650",
+    "imdb": "tt1500694",
+    "tmdb": 58768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

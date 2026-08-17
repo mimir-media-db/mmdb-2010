@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_obama_anak_menteng_2010",
+  "title": "Obama Anak Menteng",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7074606",
+    "imdb": "tt1686786",
+    "tmdb": 532783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-01"
+}

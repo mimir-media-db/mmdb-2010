@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gesar_bards_tale_2010",
+  "title": "A Gesar Bard's Tale",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11892335",
+    "imdb": "tt1764577",
+    "tmdb": 109862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

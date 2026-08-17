@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nallavan_2010",
+  "title": "Nallavan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13112821",
+    "imdb": "tt1836070",
+    "tmdb": 492283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-09"
+}

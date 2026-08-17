@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taboo_2010",
+  "title": "Taboo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10377738",
+    "imdb": "tt6889526",
+    "tmdb": 631117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 123
+}

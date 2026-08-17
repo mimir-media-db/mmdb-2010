@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_6_commandments_2010",
+  "title": "The Devil's 6 Commandments",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600661",
+    "imdb": "tt1528806",
+    "tmdb": 79330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sneha_geetham_2010",
+  "title": "Sneha Geetham",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999954",
+    "imdb": "tt1808480",
+    "tmdb": 77713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-16"
+}

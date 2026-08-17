@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_carosello_2010",
+  "title": "Ice Carosello",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10533393",
+    "imdb": "tt1784472",
+    "tmdb": 586870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

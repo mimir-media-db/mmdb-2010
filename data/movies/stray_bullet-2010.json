@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stray_bullet_2010",
+  "title": "Stray Bullet",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7622557",
+    "imdb": "tt1726871",
+    "tmdb": 54530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

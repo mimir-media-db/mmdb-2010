@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agora_2010",
+  "title": "Agora",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q395411",
+    "imdb": "tt1186830",
+    "tmdb": 26428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-18",
+  "runtime_minutes": 126
+}

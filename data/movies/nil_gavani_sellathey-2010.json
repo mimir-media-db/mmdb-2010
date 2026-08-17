@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nil_gavani_sellathey_2010",
+  "title": "Nil Gavani Sellathey",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7036783",
+    "imdb": "tt3590150",
+    "tmdb": 146756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-17"
+}

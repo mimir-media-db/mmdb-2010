@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_the_ballad_of_a_lucky_man_2010",
+  "title": "Farewell: The Ballad of a Lucky Man",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12649444",
+    "imdb": "tt1334532",
+    "tmdb": 282015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

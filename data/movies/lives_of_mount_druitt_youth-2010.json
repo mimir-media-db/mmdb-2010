@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lives_of_mount_druitt_youth_2010",
+  "title": "The Lives of Mount Druitt Youth",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7747813",
+    "imdb": "tt1665011",
+    "tmdb": 286740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

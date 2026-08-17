@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_was_a_god_in_bosnia_2010",
+  "title": "I Was a God in Bosnia",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20006278",
+    "imdb": "tt8785576",
+    "tmdb": 968383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

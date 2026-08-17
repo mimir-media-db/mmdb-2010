@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gachiban_max_2010",
+  "title": "GACHI-BAN MAX",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15695982",
+    "imdb": "tt2460424",
+    "tmdb": 998898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 70
+}

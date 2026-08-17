@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cisza_2010",
+  "title": "Cisza",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11690687",
+    "imdb": "tt1794758",
+    "tmdb": 261996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-28"
+}

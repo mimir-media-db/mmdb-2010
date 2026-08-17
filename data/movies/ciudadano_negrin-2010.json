@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ciudadano_negrin_2010",
+  "title": "Ciudadano Negrín",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96627300",
+    "imdb": "tt3339650",
+    "tmdb": 235706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-25",
+  "runtime_minutes": 83
+}

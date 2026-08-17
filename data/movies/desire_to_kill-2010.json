@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desire_to_kill_2010",
+  "title": "Desire To Kill",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16189257",
+    "imdb": "tt1798181",
+    "tmdb": 115100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26"
+}

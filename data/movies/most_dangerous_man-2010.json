@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_most_dangerous_man_2010",
+  "title": "The Most Dangerous Man",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111607049",
+    "imdb": "tt1974398",
+    "tmdb": 79872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

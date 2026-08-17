@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jalachhayam_2010",
+  "title": "Jalachhayam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13112142",
+    "imdb": "tt7251758",
+    "tmdb": 655748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-06"
+}

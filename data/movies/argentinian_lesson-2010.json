@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_argentinian_lesson_2010",
+  "title": "Argentinian Lesson",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19267249",
+    "imdb": "tt2145561",
+    "tmdb": 245113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

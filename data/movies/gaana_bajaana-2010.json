@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gaana_bajaana_2010",
+  "title": "Gaana Bajaana",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5515209",
+    "imdb": "tt3107520"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-29"
+}

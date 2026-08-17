@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheers_2010",
+  "title": "Cheers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132002611",
+    "tmdb": 141161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-01",
+  "runtime_minutes": 50
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gainsbourg_2010",
+  "title": "Gainsbourg",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q287001",
+    "imdb": "tt1329457",
+    "tmdb": 31900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-20",
+  "runtime_minutes": 135
+}

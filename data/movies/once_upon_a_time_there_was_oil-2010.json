@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_there_was_oil_2010",
+  "title": "Once upon a time there was oil",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899210",
+    "imdb": "tt2013236",
+    "tmdb": 1203731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 15
+}

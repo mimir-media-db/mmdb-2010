@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rosa_morena_2010",
+  "title": "Rosa Morena",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7367087",
+    "imdb": "tt1252516",
+    "tmdb": 79835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-22",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_july_32nd_2010",
+  "title": "July 32nd",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19349150",
+    "imdb": "tt2768818",
+    "tmdb": 56581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-22"
+}

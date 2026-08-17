@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coconut_sweet_2010",
+  "title": "Coconut Sweet",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10267768",
+    "imdb": "tt1859479",
+    "tmdb": 627388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 20
+}

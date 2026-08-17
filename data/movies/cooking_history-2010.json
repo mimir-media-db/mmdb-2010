@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cooking_history_2010",
+  "title": "Cooking History",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1129613",
+    "imdb": "tt1436000",
+    "tmdb": 126009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-01",
+  "runtime_minutes": 88
+}

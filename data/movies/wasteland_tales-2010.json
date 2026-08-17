@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wasteland_tales_2010",
+  "title": "Wasteland Tales",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496526",
+    "imdb": "tt1735235",
+    "tmdb": 515309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 72
+}

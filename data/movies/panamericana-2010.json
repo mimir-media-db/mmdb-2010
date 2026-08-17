@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_panamericana_2010",
+  "title": "Panamericana",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12155856",
+    "imdb": "tt1539146",
+    "tmdb": 44906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-09",
+  "runtime_minutes": 99
+}

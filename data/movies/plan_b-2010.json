@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plan_b_2010",
+  "title": "Plan B",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2423376",
+    "imdb": "tt1408972",
+    "tmdb": 44282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-06",
+  "runtime_minutes": 103
+}

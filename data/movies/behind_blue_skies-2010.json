@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_blue_skies_2010",
+  "title": "Behind Blue Skies",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1194323",
+    "imdb": "tt1510918",
+    "tmdb": 46953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-15",
+  "runtime_minutes": 112
+}

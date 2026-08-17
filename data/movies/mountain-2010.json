@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mountain_2010",
+  "title": "The Mountain",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86726538",
+    "imdb": "tt1783391",
+    "tmdb": 226006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

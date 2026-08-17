@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_zoo_2010",
+  "title": "Dancing Zoo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20445470",
+    "imdb": "tt6769902",
+    "tmdb": 417227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-02"
+}

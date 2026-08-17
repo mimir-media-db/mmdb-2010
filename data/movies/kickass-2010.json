@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kickass_2010",
+  "title": "Kick-Ass",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2201",
+    "imdb": "tt1250777",
+    "tmdb": 23483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-12",
+  "runtime_minutes": 117
+}

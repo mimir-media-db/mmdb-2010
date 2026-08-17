@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_qeros_hombres_de_altura_2010",
+  "title": "Q'eros: Hombres de Altura",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141056955",
+    "tmdb": 705995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 14
+}

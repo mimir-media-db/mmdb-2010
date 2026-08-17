@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pollachi_mappillai_2010",
+  "title": "Pollachi Mappillai",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17073170",
+    "imdb": "tt4317586",
+    "tmdb": 111788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chitrasutram_2010",
+  "title": "Chitrasutram",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16957866",
+    "imdb": "tt1861293",
+    "tmdb": 257288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

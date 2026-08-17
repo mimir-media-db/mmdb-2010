@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_presidents_day_2010",
+  "title": "President's Day",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040683",
+    "imdb": "tt1581336",
+    "tmdb": 130165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-15",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hansi_deu_ek_phera_2010",
+  "title": "Hansi Deu Ek Phera",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47465281",
+    "imdb": "tt8022710"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 210
+}

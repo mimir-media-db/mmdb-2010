@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freeway_2010",
+  "title": "The Freeway",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755433",
+    "imdb": "tt2258651",
+    "tmdb": 389202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

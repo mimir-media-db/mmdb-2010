@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_high_school_girl_zombie_2010",
+  "title": "High School Girl Zombie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11446398",
+    "imdb": "tt1616537",
+    "tmdb": 95195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_therapy_2010",
+  "title": "Therapy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12331012",
+    "imdb": "tt1425624",
+    "tmdb": 25540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-25",
+  "runtime_minutes": 99
+}

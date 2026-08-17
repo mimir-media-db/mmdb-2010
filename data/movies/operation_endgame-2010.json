@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_endgame_2010",
+  "title": "Operation: Endgame",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2001714",
+    "imdb": "tt1268987",
+    "tmdb": 41135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-05",
+  "runtime_minutes": 87
+}

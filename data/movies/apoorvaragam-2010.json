@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_apoorvaragam_2010",
+  "title": "Apoorvaragam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4780491",
+    "imdb": "tt1687850",
+    "tmdb": 151635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-16"
+}

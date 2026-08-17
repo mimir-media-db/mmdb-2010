@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_menculik_miyabi_2010",
+  "title": "Menculik Miyabi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6583199",
+    "imdb": "tt1653884",
+    "tmdb": 115391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-06",
+  "runtime_minutes": 85
+}

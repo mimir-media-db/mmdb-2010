@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feeding_frenzy_2010",
+  "title": "Feeding Frenzy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64699526",
+    "imdb": "tt1706365",
+    "tmdb": 103970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

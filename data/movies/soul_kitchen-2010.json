@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_kitchen_2010",
+  "title": "Soul Kitchen",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q312538",
+    "imdb": "tt1244668",
+    "tmdb": 31175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-21",
+  "runtime_minutes": 100
+}

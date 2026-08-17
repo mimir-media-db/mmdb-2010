@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bury_the_hatchet_2010",
+  "title": "Bury the Hatchet",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12104831",
+    "imdb": "tt0875702",
+    "tmdb": 230257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 120
+}

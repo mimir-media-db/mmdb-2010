@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_york_i_love_you_2010",
+  "title": "New York, I Love You",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44935",
+    "imdb": "tt0808399",
+    "tmdb": 12572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-28",
+  "runtime_minutes": 103
+}

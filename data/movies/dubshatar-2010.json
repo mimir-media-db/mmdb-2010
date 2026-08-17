@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dubshatar_2010",
+  "title": "Dubshatar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13058083",
+    "imdb": "tt5213252",
+    "tmdb": 526068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_klown_2010",
+  "title": "Klown",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1758576",
+    "imdb": "tt1680136",
+    "tmdb": 48748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-16",
+  "runtime_minutes": 94
+}

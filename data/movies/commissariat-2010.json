@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_commissariat_2010",
+  "title": "Commissariat",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20724438",
+    "imdb": "tt1686025",
+    "tmdb": 576179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

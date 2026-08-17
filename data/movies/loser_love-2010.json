@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loser_love_2010",
+  "title": "Loser Love",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13022831",
+    "imdb": "tt1906468",
+    "tmdb": 65011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-30"
+}

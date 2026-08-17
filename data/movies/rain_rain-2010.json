@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rain_rain_2010",
+  "title": "Rain & Rain",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16920030",
+    "tmdb": 831870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-16"
+}

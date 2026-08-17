@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hong_kong_confidential_2010",
+  "title": "Hong Kong Confidential",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10732446",
+    "imdb": "tt1572146",
+    "tmdb": 117530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-14",
+  "runtime_minutes": 92
+}

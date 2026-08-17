@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_diwana_2010",
+  "title": "Diwana",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45701552",
+    "imdb": "tt1745688"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-14"
+}

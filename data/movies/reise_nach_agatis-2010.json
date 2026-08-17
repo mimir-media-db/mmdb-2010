@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_reise_nach_agatis_2010",
+  "title": "Reise nach Agatis",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134609141"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 73
+}

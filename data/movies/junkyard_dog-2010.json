@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_junkyard_dog_2010",
+  "title": "Junkyard Dog",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814592",
+    "imdb": "tt1229405",
+    "tmdb": 49970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

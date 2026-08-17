@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_persecution_2010",
+  "title": "Persécution",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3376112",
+    "imdb": "tt1303230",
+    "tmdb": 57534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26",
+  "runtime_minutes": 99
+}

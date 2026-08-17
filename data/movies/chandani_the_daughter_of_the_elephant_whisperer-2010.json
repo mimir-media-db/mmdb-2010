@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chandani_the_daughter_of_the_elephant_whisperer_2010",
+  "title": "Chandani - The daughter of the elephant whisperer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1061694",
+    "imdb": "tt1612264",
+    "tmdb": 258889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-04",
+  "runtime_minutes": 86
+}

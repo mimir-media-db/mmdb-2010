@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_my_umbrella_2010",
+  "title": "Me and My Umbrella",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10277944",
+    "imdb": "tt0768187",
+    "tmdb": 65105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

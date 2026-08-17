@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salt_2010",
+  "title": "Salt",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q628139",
+    "imdb": "tt0944835",
+    "tmdb": 27576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-19",
+  "runtime_minutes": 101
+}

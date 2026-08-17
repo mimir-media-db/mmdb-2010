@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_wright_2010",
+  "title": "Just Wright",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2656371",
+    "imdb": "tt1407061",
+    "tmdb": 38093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-14",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_rites_of_ransom_pride_2010",
+  "title": "The Last Rites of Ransom Pride",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7745977",
+    "imdb": "tt1268970",
+    "tmdb": 46562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 83
+}

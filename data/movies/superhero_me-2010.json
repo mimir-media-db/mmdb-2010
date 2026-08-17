@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_superhero_me_2010",
+  "title": "Superhero Me",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63248284",
+    "imdb": "tt1621977",
+    "tmdb": 214082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-20",
+  "runtime_minutes": 84
+}

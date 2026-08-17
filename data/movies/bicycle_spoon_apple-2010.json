@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bicycle_spoon_apple_2010",
+  "title": "Bicycle, Spoon, Apple",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8247682",
+    "imdb": "tt1710542",
+    "tmdb": 57536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_2010",
+  "title": "The Final",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2073341",
+    "imdb": "tt1390535",
+    "tmdb": 34583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-29",
+  "runtime_minutes": 93
+}

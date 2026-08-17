@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_palace_2010",
+  "title": "The Palace",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116006544",
+    "imdb": "tt1778919",
+    "tmdb": 352446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 10
+}

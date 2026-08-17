@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cancer_the_forbidden_cures_2010",
+  "title": "Cancer: The Forbidden Cures",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137856433",
+    "imdb": "tt3290338",
+    "tmdb": 62665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-20",
+  "runtime_minutes": 93
+}

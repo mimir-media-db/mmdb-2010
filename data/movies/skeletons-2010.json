@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skeletons_2010",
+  "title": "Skeletons",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7534444",
+    "imdb": "tt1425933",
+    "tmdb": 46909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_hum_lallan_bol_rahe_hain_2010",
+  "title": "Hello! Hum Lallan Bol Rahe Hain",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5708453",
+    "imdb": "tt1673391",
+    "tmdb": 312674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-15"
+}

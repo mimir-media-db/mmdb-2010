@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thenmerku_paruvakaatru_2010",
+  "title": "Thenmerku Paruvakaatru",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7781398",
+    "imdb": "tt1931589",
+    "tmdb": 79336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_tum_kitem_kortolo_aslo_2010",
+  "title": "Tum Kitem Kortolo Aslo?",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738199"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

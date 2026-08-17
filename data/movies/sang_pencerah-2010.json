@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sang_pencerah_2010",
+  "title": "Sang Pencerah",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7417755",
+    "imdb": "tt1748192",
+    "tmdb": 221367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-08"
+}

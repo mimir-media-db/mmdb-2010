@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_will_happen_before_you_die_2010",
+  "title": "Everything Will Happen Before You Die",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121289198",
+    "imdb": "tt1351141",
+    "tmdb": 193119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

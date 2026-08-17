@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chicago_8_2010",
+  "title": "The Chicago 8",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7722390",
+    "imdb": "tt1511476",
+    "tmdb": 180318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

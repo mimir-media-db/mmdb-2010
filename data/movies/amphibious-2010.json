@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amphibious_2010",
+  "title": "Amphibious",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3614660",
+    "imdb": "tt1540761",
+    "tmdb": 83877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-12",
+  "runtime_minutes": 83
+}

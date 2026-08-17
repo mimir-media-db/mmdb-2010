@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_zwei_leben_des_daniel_shore_2010",
+  "title": "Die zwei Leben des Daniel Shore",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1219954",
+    "imdb": "tt1037230",
+    "tmdb": 85748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-11",
+  "runtime_minutes": 95
+}

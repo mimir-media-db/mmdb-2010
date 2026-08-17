@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_szinglik_ejszakaja_2010",
+  "title": "Szinglik éjszakája",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12816317",
+    "imdb": "tt1530545",
+    "tmdb": 71812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-25"
+}

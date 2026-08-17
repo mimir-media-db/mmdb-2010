@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_down_for_life_2010",
+  "title": "Down for Life",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5302942",
+    "imdb": "tt1056477",
+    "tmdb": 44953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-01",
+  "runtime_minutes": 92
+}

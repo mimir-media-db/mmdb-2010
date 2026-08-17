@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tere_bin_laden_2010",
+  "title": "Tere Bin Laden",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7701699",
+    "imdb": "tt1629391",
+    "tmdb": 42323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

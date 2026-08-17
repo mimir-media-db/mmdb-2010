@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_journey_to_africa_2010",
+  "title": "Magic Journey to Africa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11705049",
+    "imdb": "tt1247681",
+    "tmdb": 61868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-07",
+  "runtime_minutes": 56
+}

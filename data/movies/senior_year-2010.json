@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_senior_year_2010",
+  "title": "Senior Year",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7450723",
+    "imdb": "tt1770732",
+    "tmdb": 286754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 94
+}

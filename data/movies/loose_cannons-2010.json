@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loose_cannons_2010",
+  "title": "Loose Cannons",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225893",
+    "imdb": "tt1405810",
+    "tmdb": 40794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-15",
+  "runtime_minutes": 110
+}

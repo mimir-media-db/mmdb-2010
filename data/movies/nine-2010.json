@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_2010",
+  "title": "Nine",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q752989",
+    "imdb": "tt0875034",
+    "tmdb": 10197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-04",
+  "runtime_minutes": 118
+}

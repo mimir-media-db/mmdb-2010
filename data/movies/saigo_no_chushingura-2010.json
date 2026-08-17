@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saigo_no_chushingura_2010",
+  "title": "Saigo no Chūshingura",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11091756",
+    "imdb": "tt1554522",
+    "tmdb": 82916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skaz_o_rozovom_zaitse_2010",
+  "title": "Skaz o Rozovom Zaitse",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4421335",
+    "imdb": "tt1859588",
+    "tmdb": 100972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26",
+  "runtime_minutes": 105
+}

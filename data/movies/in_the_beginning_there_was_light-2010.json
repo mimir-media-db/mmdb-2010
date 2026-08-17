@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_beginning_there_was_light_2010",
+  "title": "In the Beginning There Was Light",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q451182",
+    "imdb": "tt1593636",
+    "tmdb": 706905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-13",
+  "runtime_minutes": 95
+}

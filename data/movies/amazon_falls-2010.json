@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amazon_falls_2010",
+  "title": "Amazon Falls",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61851095",
+    "imdb": "tt1541610",
+    "tmdb": 220459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

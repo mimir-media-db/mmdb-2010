@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inertes_2010",
+  "title": "Inertes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140230599",
+    "imdb": "tt1610487",
+    "tmdb": 337524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

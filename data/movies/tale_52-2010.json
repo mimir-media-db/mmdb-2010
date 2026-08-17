@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_52_2010",
+  "title": "Tale 52",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3136539",
+    "imdb": "tt1170397",
+    "tmdb": 112833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-02",
+  "runtime_minutes": 97
+}

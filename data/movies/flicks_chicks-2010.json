@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flicks_chicks_2010",
+  "title": "Flick's Chicks",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56304148",
+    "imdb": "tt1277400",
+    "tmdb": 69883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

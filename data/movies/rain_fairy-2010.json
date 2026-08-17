@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rain_fairy_2010",
+  "title": "The Rain Fairy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15586322",
+    "imdb": "tt0775461",
+    "tmdb": 51604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-11",
+  "runtime_minutes": 100
+}

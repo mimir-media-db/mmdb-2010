@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_killed_captain_alex_2010",
+  "title": "Who Killed Captain Alex?",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7997286",
+    "imdb": "tt1813757",
+    "tmdb": 316776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 64
+}

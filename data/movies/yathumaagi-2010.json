@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yathumaagi_2010",
+  "title": "Yathumaagi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8050233",
+    "imdb": "tt4316024",
+    "tmdb": 258583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

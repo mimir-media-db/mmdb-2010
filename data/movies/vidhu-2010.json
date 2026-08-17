@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vidhu_2010",
+  "title": "Vidhu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30600930",
+    "imdb": "tt1816708",
+    "tmdb": 809125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-10"
+}

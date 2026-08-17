@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rainbow_town_2010",
+  "title": "Rainbow Town",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72872708",
+    "imdb": "tt1683938"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

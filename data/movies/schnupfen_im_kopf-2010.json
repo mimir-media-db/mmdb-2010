@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_schnupfen_im_kopf_2010",
+  "title": "Schnupfen im Kopf",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718614",
+    "imdb": "tt1601455",
+    "tmdb": 76160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

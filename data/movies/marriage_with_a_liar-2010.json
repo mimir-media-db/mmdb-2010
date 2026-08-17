@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marriage_with_a_liar_2010",
+  "title": "Marriage With a Liar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10943955",
+    "imdb": "tt1810618",
+    "tmdb": 63369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

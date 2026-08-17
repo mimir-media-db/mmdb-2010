@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_french_kissers_2010",
+  "title": "The French Kissers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q745690",
+    "imdb": "tt1314237",
+    "tmdb": 18896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-01",
+  "runtime_minutes": 88
+}

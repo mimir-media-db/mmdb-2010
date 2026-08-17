@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1001_hemmeligheder_for_brn_og_ikke_for_voksne_2010",
+  "title": "1001 Hemmeligheder for børn og ikke for voksne",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20755816",
+    "imdb": "tt1928097",
+    "tmdb": 710194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 14
+}

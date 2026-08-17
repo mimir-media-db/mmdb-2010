@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sea_the_truth_2010",
+  "title": "Sea the Truth",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87756951",
+    "imdb": "tt3254040",
+    "tmdb": 272215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 60
+}

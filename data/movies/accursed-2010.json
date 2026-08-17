@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_accursed_2010",
+  "title": "The Accursed",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113564919",
+    "imdb": "tt1666300",
+    "tmdb": 474102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-04"
+}

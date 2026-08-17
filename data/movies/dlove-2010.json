@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dlove_2010",
+  "title": "D’Love",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590268",
+    "imdb": "tt1718757",
+    "tmdb": 656223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-29"
+}

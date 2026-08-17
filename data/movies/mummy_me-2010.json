@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mummy_me_2010",
+  "title": "Mummy & Me",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6935448",
+    "imdb": "tt1671474",
+    "tmdb": 158777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-21"
+}

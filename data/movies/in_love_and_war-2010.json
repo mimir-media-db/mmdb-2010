@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_love_and_war_2010",
+  "title": "In Love and War",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33553306",
+    "imdb": "tt1833044"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 8
+}

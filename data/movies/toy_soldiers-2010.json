@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_toy_soldiers_2010",
+  "title": "Toy Soldiers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20713762",
+    "imdb": "tt3294794"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

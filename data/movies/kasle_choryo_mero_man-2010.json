@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kasle_choryo_mero_man_2010",
+  "title": "Kasle Choryo Mero Man",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47465230",
+    "imdb": "tt7210246",
+    "tmdb": 493472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-15",
+  "runtime_minutes": 158
+}

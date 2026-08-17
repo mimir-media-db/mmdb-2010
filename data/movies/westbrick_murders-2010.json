@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_westbrick_murders_2010",
+  "title": "Westbrick Murders",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11296345",
+    "imdb": "tt0903036",
+    "tmdb": 34640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

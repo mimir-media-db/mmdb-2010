@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_don_seenu_2010",
+  "title": "Don Seenu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15702316",
+    "imdb": "tt1692189",
+    "tmdb": 52944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

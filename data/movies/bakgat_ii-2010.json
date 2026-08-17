@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bakgat_ii_2010",
+  "title": "Bakgat! II",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13034300",
+    "imdb": "tt1630031",
+    "tmdb": 65413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-10",
+  "runtime_minutes": 98
+}

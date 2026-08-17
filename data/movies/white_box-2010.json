@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_white_box_2010",
+  "title": "White Box",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718664"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

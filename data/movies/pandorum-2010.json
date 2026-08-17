@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pandorum_2010",
+  "title": "Pandorum",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q314942",
+    "imdb": "tt1188729",
+    "tmdb": 19898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-11",
+  "runtime_minutes": 109
+}

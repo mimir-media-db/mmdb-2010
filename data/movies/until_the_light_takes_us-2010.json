@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_until_the_light_takes_us_2010",
+  "title": "Until the Light Takes Us",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1575287",
+    "imdb": "tt1014809",
+    "tmdb": 36124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-12",
+  "runtime_minutes": 93
+}

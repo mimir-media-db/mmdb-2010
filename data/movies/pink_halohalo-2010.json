@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pink_halohalo_2010",
+  "title": "Pink Halo-Halo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104159633",
+    "imdb": "tt1686086",
+    "tmdb": 472868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-11"
+}

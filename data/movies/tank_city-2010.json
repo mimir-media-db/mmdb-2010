@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tank_city_2010",
+  "title": "Tank City",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729595",
+    "imdb": "tt1598697",
+    "tmdb": 67631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-20",
+  "runtime_minutes": 58
+}

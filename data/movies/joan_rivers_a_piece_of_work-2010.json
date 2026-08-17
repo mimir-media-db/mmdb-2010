@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joan_rivers_a_piece_of_work_2010",
+  "title": "Joan Rivers: A Piece of Work",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6205401",
+    "imdb": "tt1568150",
+    "tmdb": 41397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-25",
+  "runtime_minutes": 85
+}

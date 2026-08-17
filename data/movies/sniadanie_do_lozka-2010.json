@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sniadanie_do_lozka_2010",
+  "title": "Sniadanie do lózka",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9395680",
+    "imdb": "tt1783781",
+    "tmdb": 58635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-10",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rideau_rouge_a_raisko_2010",
+  "title": "Rideau rouge à Raïsko",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18633950",
+    "imdb": "tt5009726",
+    "tmdb": 1091077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

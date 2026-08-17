@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diario_de_uma_busca_2010",
+  "title": "Diário de Uma Busca",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28679999",
+    "imdb": "tt1827391",
+    "tmdb": 151516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 108
+}

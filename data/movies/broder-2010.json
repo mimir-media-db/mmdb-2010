@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broder_2010",
+  "title": "Bróder",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168613",
+    "imdb": "tt1679538",
+    "tmdb": 74228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-17",
+  "runtime_minutes": 93
+}

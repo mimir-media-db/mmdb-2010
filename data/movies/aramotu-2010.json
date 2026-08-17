@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aramotu_2010",
+  "title": "Aramotu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18148655",
+    "imdb": "tt22525954"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-20",
+  "runtime_minutes": 120
+}

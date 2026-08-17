@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letters_to_angel_2010",
+  "title": "Letters to Angel",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11050752",
+    "imdb": "tt1433851",
+    "tmdb": 133157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 118
+}

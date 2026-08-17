@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nejvetsi_z_cechu_2010",
+  "title": "Největší z Čechů",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6989774",
+    "imdb": "tt2180481",
+    "tmdb": 56102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26",
+  "runtime_minutes": 95
+}

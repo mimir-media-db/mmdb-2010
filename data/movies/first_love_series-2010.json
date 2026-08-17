@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_love_series_2010",
+  "title": "The First Love Series",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20445255",
+    "imdb": "tt4553272",
+    "tmdb": 545281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-05"
+}

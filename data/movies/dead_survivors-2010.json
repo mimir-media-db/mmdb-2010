@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_survivors_2010",
+  "title": "Dead Survivors",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15734465",
+    "imdb": "tt1734424",
+    "tmdb": 138805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-14"
+}

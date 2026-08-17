@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gendarme_in_new_york_2010",
+  "title": "Gendarme in New York",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116734",
+    "imdb": "tt0060450",
+    "tmdb": 4728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-07",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lope_2010",
+  "title": "Lope",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3282734",
+    "imdb": "tt1186357",
+    "tmdb": 48573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-03"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ochayee_2010",
+  "title": "Ochayee",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768372",
+    "imdb": "tt13439686"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

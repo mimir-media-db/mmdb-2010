@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machete_joe_2010",
+  "title": "Machete Joe",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120403675",
+    "imdb": "tt1307972",
+    "tmdb": 108774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 81
+}

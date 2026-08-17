@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_shirley_2010",
+  "title": "Red Shirley",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12050332",
+    "imdb": "tt1628045",
+    "tmdb": 489607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-20"
+}

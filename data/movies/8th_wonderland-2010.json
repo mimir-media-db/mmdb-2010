@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_8th_wonderland_2010",
+  "title": "8th Wonderland",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q270918",
+    "imdb": "tt1060234",
+    "tmdb": 57816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-12",
+  "runtime_minutes": 94
+}

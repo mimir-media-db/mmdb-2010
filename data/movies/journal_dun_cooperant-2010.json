@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journal_dun_cooperant_2010",
+  "title": "Journal d’un coopérant",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3186880",
+    "imdb": "tt1667890",
+    "tmdb": 105035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-26",
+  "runtime_minutes": 95
+}

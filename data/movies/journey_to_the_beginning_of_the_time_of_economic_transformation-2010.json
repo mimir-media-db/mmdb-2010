@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_to_the_beginning_of_the_time_of_economic_transformation_2010",
+  "title": "Journey to the Beginning of the Time of Economic Transformation",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11828408",
+    "imdb": "tt1686898",
+    "tmdb": 705101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-02",
+  "runtime_minutes": 57
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_buffalo_2010",
+  "title": "Inside Buffalo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3799113",
+    "imdb": "tt1576693",
+    "tmdb": 1444189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-10",
+  "runtime_minutes": 73
+}

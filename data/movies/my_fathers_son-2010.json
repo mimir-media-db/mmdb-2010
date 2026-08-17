@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fathers_son_2010",
+  "title": "My Father's Son",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116207773",
+    "imdb": "tt2466874"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-28",
+  "runtime_minutes": 88
+}

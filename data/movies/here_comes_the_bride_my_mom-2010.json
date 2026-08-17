@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_here_comes_the_bride_my_mom_2010",
+  "title": "Here Comes the Bride, My Mom!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5737165",
+    "imdb": "tt1587234",
+    "tmdb": 143945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-07"
+}

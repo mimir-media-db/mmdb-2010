@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laskar_cilik_2010",
+  "title": "Laskar Cilik",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12494024",
+    "imdb": "tt1693707",
+    "tmdb": 963022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-26",
+  "runtime_minutes": 86
+}

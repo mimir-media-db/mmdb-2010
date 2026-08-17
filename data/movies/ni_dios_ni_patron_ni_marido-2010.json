@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ni_dios_ni_patron_ni_marido_2010",
+  "title": "Ni dios, ni patrón, ni marido",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108789690",
+    "imdb": "tt1563675",
+    "tmdb": 80431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

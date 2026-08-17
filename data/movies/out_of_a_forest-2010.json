@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_a_forest_2010",
+  "title": "Out of a Forest",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729331",
+    "imdb": "tt1773610",
+    "tmdb": 209692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 6
+}

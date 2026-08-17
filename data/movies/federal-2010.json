@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_federal_2010",
+  "title": "Federal",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10280514",
+    "imdb": "tt0463311",
+    "tmdb": 63699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-26",
+  "runtime_minutes": 91
+}

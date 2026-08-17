@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pit_no_8_2010",
+  "title": "Pit No 8",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q236929",
+    "imdb": "tt1727854",
+    "tmdb": 201643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-01",
+  "runtime_minutes": 95
+}

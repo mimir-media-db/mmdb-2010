@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_woohoo_2010",
+  "title": "Tiger Woohoo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10935588",
+    "imdb": "tt3793368",
+    "tmdb": 56621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

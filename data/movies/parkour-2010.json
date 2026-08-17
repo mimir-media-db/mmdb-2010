@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parkour_2010",
+  "title": "Parkour",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2052747",
+    "imdb": "tt1294706",
+    "tmdb": 60763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-11",
+  "runtime_minutes": 100
+}

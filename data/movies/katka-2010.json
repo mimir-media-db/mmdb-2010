@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_katka_2010",
+  "title": "Katka",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67000526",
+    "imdb": "tt1533061",
+    "tmdb": 68294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-25",
+  "runtime_minutes": 90
+}

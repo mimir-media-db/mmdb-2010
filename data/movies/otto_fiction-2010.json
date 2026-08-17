@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_otto_fiction_2010",
+  "title": "Otto Fiction",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2041509",
+    "imdb": "tt1578128",
+    "tmdb": 49998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-02",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mademoiselle_chambon_2010",
+  "title": "Mademoiselle Chambon",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1140062",
+    "imdb": "tt1285246",
+    "tmdb": 34013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-12",
+  "runtime_minutes": 116
+}

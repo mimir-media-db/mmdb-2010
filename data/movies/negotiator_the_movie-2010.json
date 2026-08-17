@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_negotiator_the_movie_2010",
+  "title": "The Negotiator: The Movie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11373955",
+    "imdb": "tt1478965",
+    "tmdb": 79970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

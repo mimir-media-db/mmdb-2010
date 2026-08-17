@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khak_o_atash_2010",
+  "title": "Khak o atash",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755454",
+    "imdb": "tt1847622",
+    "tmdb": 773600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-01"
+}

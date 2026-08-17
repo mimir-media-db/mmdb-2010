@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_self_helpless_2010",
+  "title": "Self Helpless",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7448272",
+    "imdb": "tt1434449",
+    "tmdb": 37290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

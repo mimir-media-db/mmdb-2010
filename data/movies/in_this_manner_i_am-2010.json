@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_this_manner_i_am_2010",
+  "title": "In This Manner, I Am",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881956",
+    "imdb": "tt1957931"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 4
+}

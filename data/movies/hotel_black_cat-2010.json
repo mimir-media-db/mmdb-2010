@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_black_cat_2010",
+  "title": "Hotel Black Cat",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15909598",
+    "imdb": "tt2181268",
+    "tmdb": 628309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_universalove_2010",
+  "title": "Universalove",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7894193",
+    "imdb": "tt1258187",
+    "tmdb": 81641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-28",
+  "runtime_minutes": 80
+}

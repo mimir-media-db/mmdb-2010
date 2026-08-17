@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreams_in_copenhagen_2010",
+  "title": "Dreams in Copenhagen",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728511",
+    "imdb": "tt1530661",
+    "tmdb": 269292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-07",
+  "runtime_minutes": 70
+}

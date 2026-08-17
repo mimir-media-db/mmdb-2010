@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ricky_rapper_and_the_bicycle_thief_2010",
+  "title": "Ricky Rapper and the Bicycle Thief",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7332167",
+    "imdb": "tt1380190",
+    "tmdb": 115656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-12",
+  "runtime_minutes": 78
+}

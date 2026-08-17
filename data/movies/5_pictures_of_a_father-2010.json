@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_5_pictures_of_a_father_2010",
+  "title": "5 Pictures of a Father",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20755839",
+    "imdb": "tt3013924"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 21
+}

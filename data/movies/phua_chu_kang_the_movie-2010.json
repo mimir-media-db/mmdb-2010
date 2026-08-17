@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phua_chu_kang_the_movie_2010",
+  "title": "Phua Chu Kang The Movie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7188278",
+    "imdb": "tt4254164",
+    "tmdb": 73647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-12"
+}

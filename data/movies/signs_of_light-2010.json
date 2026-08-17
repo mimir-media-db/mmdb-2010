@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_signs_of_light_2010",
+  "title": "Signs of Light",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20077210",
+    "imdb": "tt2251487",
+    "tmdb": 776844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

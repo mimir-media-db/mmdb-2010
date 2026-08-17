@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pablos_hippos_2010",
+  "title": "Pablo's Hippos",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30748530",
+    "imdb": "tt1770721",
+    "tmdb": 440145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

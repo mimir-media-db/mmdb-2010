@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yellow_sea_2010",
+  "title": "The Yellow Sea",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1393064",
+    "imdb": "tt1230385",
+    "tmdb": 57361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-22",
+  "runtime_minutes": 156
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stranger_things_2010",
+  "title": "Stranger Things",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17022129",
+    "imdb": "tt1468737",
+    "tmdb": 182026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

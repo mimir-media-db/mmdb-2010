@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drei_frauen_fur_toni_2010",
+  "title": "Drei Frauen für Toni",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15806567",
+    "imdb": "tt1753370"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 55
+}

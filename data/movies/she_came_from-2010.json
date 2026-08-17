@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_she_came_from_2010",
+  "title": "She Came From",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28700605"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-13"
+}

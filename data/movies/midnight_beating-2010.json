@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_beating_2010",
+  "title": "Midnight Beating",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040688",
+    "imdb": "tt1997606",
+    "tmdb": 90629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

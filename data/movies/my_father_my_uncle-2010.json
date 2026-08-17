@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_father_my_uncle_2010",
+  "title": "My Father. My Uncle.",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1917961",
+    "imdb": "tt1366408",
+    "tmdb": 493837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-13",
+  "runtime_minutes": 80
+}

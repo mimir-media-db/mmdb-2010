@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_u_movie_2010",
+  "title": "The U Movie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7783596",
+    "imdb": "tt1650000",
+    "tmdb": 424207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_krzysztof_2010",
+  "title": "Krzysztof",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11749052"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-30"
+}

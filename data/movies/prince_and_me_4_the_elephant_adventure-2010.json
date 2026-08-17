@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_and_me_4_the_elephant_adventure_2010",
+  "title": "The Prince and Me 4: The Elephant Adventure",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7758260",
+    "imdb": "tt1340161",
+    "tmdb": 36515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

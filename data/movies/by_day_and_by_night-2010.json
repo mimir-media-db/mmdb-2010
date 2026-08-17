@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_by_day_and_by_night_2010",
+  "title": "By Day and by Night",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5800722",
+    "imdb": "tt1145430",
+    "tmdb": 86566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-19",
+  "runtime_minutes": 90
+}

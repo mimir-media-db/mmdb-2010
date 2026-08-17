@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_film_emotional_atyachar_2010",
+  "title": "The Film Emotional Atyachar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18794231",
+    "imdb": "tt1649760",
+    "tmdb": 53120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

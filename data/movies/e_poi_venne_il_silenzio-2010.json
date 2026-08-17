@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_e_poi_venne_il_silenzio_2010",
+  "title": "E poi venne il silenzio",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52161439",
+    "imdb": "tt1661829"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 60
+}

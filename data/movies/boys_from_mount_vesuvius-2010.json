@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_from_mount_vesuvius_2010",
+  "title": "The Boys from Mount Vesuvius",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899968"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 70
+}

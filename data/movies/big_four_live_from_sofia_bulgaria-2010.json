@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_four_live_from_sofia_bulgaria_2010",
+  "title": "The Big Four: Live from Sofia, Bulgaria",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1088497",
+    "imdb": "tt1792588",
+    "tmdb": 40601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-29"
+}

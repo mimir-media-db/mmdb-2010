@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uninhabited_2010",
+  "title": "Uninhabited",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7885255",
+    "imdb": "tt1459013",
+    "tmdb": 45017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turbulent_skies_2010",
+  "title": "Turbulent Skies",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511227",
+    "imdb": "tt1518861",
+    "tmdb": 70110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

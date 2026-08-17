@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_2010",
+  "title": "Hell",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q624974",
+    "imdb": "tt1692190",
+    "tmdb": 52629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-03",
+  "runtime_minutes": 145
+}

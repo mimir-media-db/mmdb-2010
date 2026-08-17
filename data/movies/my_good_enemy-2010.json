@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_good_enemy_2010",
+  "title": "My Good Enemy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12327268",
+    "imdb": "tt1467405",
+    "tmdb": 51962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-16",
+  "runtime_minutes": 93
+}

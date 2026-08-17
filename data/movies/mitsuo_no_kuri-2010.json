@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mitsuo_no_kuri_2010",
+  "title": "Mitsuo no Kuri",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22129833",
+    "imdb": "tt2063721",
+    "tmdb": 310508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_there_be_light_the_odyssey_of_dark_star_2010",
+  "title": "Let There Be Light: The Odyssey of Dark Star",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123528403",
+    "imdb": "tt1736611",
+    "tmdb": 56638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 118
+}

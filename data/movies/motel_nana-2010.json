@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_motel_nana_2010",
+  "title": "Motel Nana",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12755756",
+    "imdb": "tt1517220",
+    "tmdb": 110927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

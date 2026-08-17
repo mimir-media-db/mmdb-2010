@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_striker_2010",
+  "title": "Striker",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14476188",
+    "imdb": "tt1573482",
+    "tmdb": 32861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-05"
+}

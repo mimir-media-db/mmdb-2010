@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_transit_cities_2010",
+  "title": "Transit Cities",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12241730",
+    "imdb": "tt1754783",
+    "tmdb": 226939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

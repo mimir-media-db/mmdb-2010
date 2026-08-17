@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chatroom_2010",
+  "title": "Chatroom",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1068272",
+    "imdb": "tt1319704",
+    "tmdb": 48946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-14",
+  "runtime_minutes": 97
+}

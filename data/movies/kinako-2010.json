@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kinako_2010",
+  "title": "Kinako",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5964370",
+    "imdb": "tt1583288",
+    "tmdb": 198736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-24"
+}

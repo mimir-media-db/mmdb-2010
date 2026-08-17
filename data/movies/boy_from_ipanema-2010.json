@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_from_ipanema_2010",
+  "title": "The Boy from Ipanema",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16953917",
+    "imdb": "tt2457408",
+    "tmdb": 416326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devil_within_2010",
+  "title": "The Devil Within",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21001644",
+    "imdb": "tt1263018",
+    "tmdb": 44426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

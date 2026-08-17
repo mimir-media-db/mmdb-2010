@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_montevideo_god_bless_you_2010",
+  "title": "Montevideo, God Bless You!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1946195",
+    "imdb": "tt1634013",
+    "tmdb": 57419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-20",
+  "runtime_minutes": 140
+}

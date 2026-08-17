@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_china_met_africa_2010",
+  "title": "When China Met Africa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7992442",
+    "imdb": "tt1540816",
+    "tmdb": 88400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

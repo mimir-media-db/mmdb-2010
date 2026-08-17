@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_mouichido_dakishimetai_2010",
+  "title": "Ghost: Mouichido Dakishimetai",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q869429",
+    "imdb": "tt1655400",
+    "tmdb": 138853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-13",
+  "runtime_minutes": 115
+}

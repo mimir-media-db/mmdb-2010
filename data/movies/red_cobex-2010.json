@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_cobex_2010",
+  "title": "Red Cobex",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12508295",
+    "imdb": "tt1693041",
+    "tmdb": 459587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eruption_2010",
+  "title": "Eruption",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19875619",
+    "imdb": "tt2186761",
+    "tmdb": 625437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

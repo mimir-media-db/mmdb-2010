@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herschell_gordon_lewis_the_godfather_of_gore_2010",
+  "title": "Herschell Gordon Lewis: The Godfather of Gore",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28000841",
+    "imdb": "tt1683431",
+    "tmdb": 58862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 106
+}

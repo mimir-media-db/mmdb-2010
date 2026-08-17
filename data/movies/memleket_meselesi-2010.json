@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memleket_meselesi_2010",
+  "title": "Memleket Meselesi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20472144",
+    "imdb": "tt1783345",
+    "tmdb": 71901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-31",
+  "runtime_minutes": 105
+}

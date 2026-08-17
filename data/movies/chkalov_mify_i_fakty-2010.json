@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chkalov_mify_i_fakty_2010",
+  "title": "Chkalov. Mify i Fakty",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574004",
+    "imdb": "tt4515720"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

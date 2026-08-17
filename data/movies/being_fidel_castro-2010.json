@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_being_fidel_castro_2010",
+  "title": "Being Fidel Castro",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65464933",
+    "imdb": "tt1572995",
+    "tmdb": 112534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-19",
+  "runtime_minutes": 88
+}

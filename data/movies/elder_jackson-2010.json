@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elder_jackson_2010",
+  "title": "Elder Jackson",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88872559",
+    "imdb": "tt1679182",
+    "tmdb": 685354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 27
+}

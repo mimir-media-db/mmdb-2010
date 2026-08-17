@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightswimming_2010",
+  "title": "Nightswimming",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50280705",
+    "imdb": "tt1639845",
+    "tmdb": 148799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 14
+}

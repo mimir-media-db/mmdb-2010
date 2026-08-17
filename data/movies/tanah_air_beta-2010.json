@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tanah_air_beta_2010",
+  "title": "Tanah Air Beta",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12519111",
+    "imdb": "tt1672847",
+    "tmdb": 656425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

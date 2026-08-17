@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_light_novel_no_tanoshii_kakikata_2010",
+  "title": "Light Novel no Tanoshii Kakikata",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106091724",
+    "imdb": "tt1777590",
+    "tmdb": 390100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-04",
+  "runtime_minutes": 80
+}

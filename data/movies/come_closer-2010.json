@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_come_closer_2010",
+  "title": "Come, Closer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16181318",
+    "imdb": "tt2155321",
+    "tmdb": 117815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

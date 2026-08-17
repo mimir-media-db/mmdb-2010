@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_expendables_2010",
+  "title": "The Expendables",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q206374",
+    "imdb": "tt1320253",
+    "tmdb": 27578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-03",
+  "runtime_minutes": 104
+}

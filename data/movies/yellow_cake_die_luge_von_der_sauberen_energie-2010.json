@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yellow_cake_die_luge_von_der_sauberen_energie_2010",
+  "title": "Yellow Cake: Die Lüge von der sauberen Energie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20804495",
+    "imdb": "tt1619891",
+    "tmdb": 123836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-13",
+  "runtime_minutes": 108
+}

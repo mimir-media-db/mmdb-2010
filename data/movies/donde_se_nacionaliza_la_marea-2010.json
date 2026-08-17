@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_donde_se_nacionaliza_la_marea_2010",
+  "title": "¿Dónde se nacionaliza la marea?",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96643514",
+    "imdb": "tt1987041",
+    "tmdb": 313058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-18",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babylon_ad_2010",
+  "title": "Babylon A.D.",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q797938",
+    "imdb": "tt0364970",
+    "tmdb": 9381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-16",
+  "runtime_minutes": 101
+}

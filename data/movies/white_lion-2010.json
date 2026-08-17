@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_lion_2010",
+  "title": "White Lion",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104868757",
+    "imdb": "tt1618421",
+    "tmdb": 46197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

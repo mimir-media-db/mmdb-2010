@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zohi_sdom_2010",
+  "title": "Zohi Sdom",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8073462",
+    "imdb": "tt1675197",
+    "tmdb": 43083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

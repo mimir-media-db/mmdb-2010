@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_inside_a_dream_the_story_of_dizzy_mizz_lizzy_2010",
+  "title": "Lost Inside a Dream: The Story of Dizzy Mizz Lizzy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494785",
+    "imdb": "tt1773550",
+    "tmdb": 398715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

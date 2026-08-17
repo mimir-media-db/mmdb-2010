@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scheidung_fur_fortgeschrittene_2010",
+  "title": "Scheidung für Fortgeschrittene",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30529509",
+    "imdb": "tt1612576",
+    "tmdb": 132617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

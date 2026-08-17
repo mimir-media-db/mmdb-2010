@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_bandits_frank_and_jesse_james_2010",
+  "title": "American Bandits: Frank and Jesse James",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16691784",
+    "imdb": "tt1446675",
+    "tmdb": 40852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

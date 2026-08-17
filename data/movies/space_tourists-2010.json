@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_space_tourists_2010",
+  "title": "Space Tourists",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7572528",
+    "imdb": "tt1496460",
+    "tmdb": 67852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-29",
+  "runtime_minutes": 98
+}

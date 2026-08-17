@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_doubt_2010",
+  "title": "No Doubt",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18815430",
+    "imdb": "tt1964665",
+    "tmdb": 190018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-04"
+}

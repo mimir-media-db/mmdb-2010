@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_some_days_are_better_than_others_2010",
+  "title": "Some Days Are Better Than Others",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16977479",
+    "imdb": "tt1328867",
+    "tmdb": 85819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

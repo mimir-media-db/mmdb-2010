@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_childs_eye_2010",
+  "title": "The Child's Eye",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7722434",
+    "imdb": "tt1314170",
+    "tmdb": 51322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 101
+}

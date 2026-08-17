@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_like_poison_2010",
+  "title": "Love Like Poison",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548939",
+    "imdb": "tt1646985",
+    "tmdb": 71559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-14",
+  "runtime_minutes": 92
+}

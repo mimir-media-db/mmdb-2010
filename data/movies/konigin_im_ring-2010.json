@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_konigin_im_ring_2010",
+  "title": "Königin im Ring",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23090926",
+    "imdb": "tt1485014",
+    "tmdb": 251022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-03"
+}

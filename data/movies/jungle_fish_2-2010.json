@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jungle_fish_2_2010",
+  "title": "Jungle Fish 2",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22974880",
+    "tmdb": 416321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

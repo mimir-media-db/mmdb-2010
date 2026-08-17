@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beijing_punk_2010",
+  "title": "Beijing Punk",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112655836",
+    "imdb": "tt1298640",
+    "tmdb": 49344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-10",
+  "runtime_minutes": 85
+}

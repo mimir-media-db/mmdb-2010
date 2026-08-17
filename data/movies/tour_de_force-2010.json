@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tour_de_force_2010",
+  "title": "Tour de Force",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20653259",
+    "imdb": "tt1242787",
+    "tmdb": 55072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_millionaire_wanted_2010",
+  "title": "A Millionaire Wanted",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27975936",
+    "imdb": "tt1821313",
+    "tmdb": 404544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-10"
+}

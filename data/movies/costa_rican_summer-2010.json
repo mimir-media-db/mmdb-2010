@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_costa_rican_summer_2010",
+  "title": "Costa Rican Summer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5174903",
+    "imdb": "tt1370426",
+    "tmdb": 39026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-24"
+}

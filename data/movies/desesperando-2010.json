@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desesperando_2010",
+  "title": "Des/Esperando",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42592568",
+    "imdb": "tt2321342",
+    "tmdb": 222891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 73
+}

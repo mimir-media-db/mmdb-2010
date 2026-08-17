@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flashback_2010",
+  "title": "Flashback",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12760636",
+    "imdb": "tt1442505",
+    "tmdb": 110932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

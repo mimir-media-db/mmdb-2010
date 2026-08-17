@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vittnet_2010",
+  "title": "Vittnet",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10719172",
+    "imdb": "tt1584911",
+    "tmdb": 289436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

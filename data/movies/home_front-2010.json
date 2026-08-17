@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_front_2010",
+  "title": "The Home Front",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496158",
+    "imdb": "tt4145800",
+    "tmdb": 409974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 40
+}

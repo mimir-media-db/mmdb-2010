@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_orson_welles_2010",
+  "title": "Me and Orson Welles",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q287599",
+    "imdb": "tt1175506",
+    "tmdb": 12404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26",
+  "runtime_minutes": 107
+}

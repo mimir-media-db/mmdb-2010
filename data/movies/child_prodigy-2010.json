@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_child_prodigy_2010",
+  "title": "The Child Prodigy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16651021",
+    "imdb": "tt1425617",
+    "tmdb": 62120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

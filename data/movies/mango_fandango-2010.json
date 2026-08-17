@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_mango_fandango_2010",
+  "title": "Mango Fandango",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495645"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

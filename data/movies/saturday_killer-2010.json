@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saturday_killer_2010",
+  "title": "Saturday Killer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13019060",
+    "imdb": "tt1773034",
+    "tmdb": 72228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

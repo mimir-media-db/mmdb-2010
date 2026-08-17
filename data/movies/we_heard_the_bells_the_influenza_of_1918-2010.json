@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_heard_the_bells_the_influenza_of_1918_2010",
+  "title": "We Heard the Bells: The Influenza of 1918",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126367613",
+    "imdb": "tt1590238",
+    "tmdb": 707539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 57
+}

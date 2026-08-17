@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goalgetters_ship_2010",
+  "title": "The Goalgetter's Ship",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20035686",
+    "imdb": "tt1785344"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-06",
+  "runtime_minutes": 94
+}

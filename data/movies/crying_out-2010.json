@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crying_out_2010",
+  "title": "Crying Out",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576737",
+    "imdb": "tt1629725",
+    "tmdb": 61308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-10",
+  "runtime_minutes": 115
+}

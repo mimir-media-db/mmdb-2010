@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_robbers_2010",
+  "title": "Little Robbers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47005865",
+    "imdb": "tt1261910",
+    "tmdb": 243455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-15",
+  "runtime_minutes": 80
+}

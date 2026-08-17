@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shirome_2010",
+  "title": "Shirome",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7498946",
+    "imdb": "tt1703122",
+    "tmdb": 114196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-13",
+  "runtime_minutes": 83
+}

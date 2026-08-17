@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zwerbowana_milosc_2010",
+  "title": "Zwerbowana milosc",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9392225",
+    "imdb": "tt1801844",
+    "tmdb": 68798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-25",
+  "runtime_minutes": 86
+}

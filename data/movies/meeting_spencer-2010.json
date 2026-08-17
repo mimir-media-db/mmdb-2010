@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meeting_spencer_2010",
+  "title": "Meeting Spencer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253078",
+    "imdb": "tt1486186",
+    "tmdb": 59982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

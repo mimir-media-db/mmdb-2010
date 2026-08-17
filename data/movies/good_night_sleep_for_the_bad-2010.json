@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_night_sleep_for_the_bad_2010",
+  "title": "A Good Night Sleep for the Bad",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20445240",
+    "imdb": "tt1526334",
+    "tmdb": 417153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-24"
+}

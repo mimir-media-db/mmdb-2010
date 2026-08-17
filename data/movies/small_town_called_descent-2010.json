@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_small_town_called_descent_2010",
+  "title": "A Small Town Called Descent",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048906",
+    "imdb": "tt3726330",
+    "tmdb": 222646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-24"
+}

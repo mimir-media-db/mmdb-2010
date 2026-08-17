@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_minut_2010",
+  "title": "7 minut",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9136071",
+    "imdb": "tt1708450",
+    "tmdb": 69248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-18",
+  "runtime_minutes": 95
+}

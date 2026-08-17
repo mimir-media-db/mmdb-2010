@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ae_milana_juga_jugara_2010",
+  "title": "Ae Milana Juga Jugara",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44817159",
+    "imdb": "tt1747917",
+    "tmdb": 1095330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-13"
+}

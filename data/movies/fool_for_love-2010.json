@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fool_for_love_2010",
+  "title": "Fool for Love",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10841742",
+    "imdb": "tt1630038",
+    "tmdb": 138969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-23"
+}

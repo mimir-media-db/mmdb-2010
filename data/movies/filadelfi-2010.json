@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_filadelfi_2010",
+  "title": "Filadelfi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755475",
+    "imdb": "tt27730539"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

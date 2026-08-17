@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_round_ireland_with_a_fridge_2010",
+  "title": "Round Ireland with a Fridge",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7371052",
+    "imdb": "tt1440755",
+    "tmdb": 50462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

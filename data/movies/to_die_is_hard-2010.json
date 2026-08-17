@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_die_is_hard_2010",
+  "title": "To Die Is Hard",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170530",
+    "imdb": "tt1562904",
+    "tmdb": 269640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_somewhat_gentle_man_2010",
+  "title": "A Somewhat Gentle Man",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1146575",
+    "imdb": "tt1386683",
+    "tmdb": 31035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-17",
+  "runtime_minutes": 111
+}

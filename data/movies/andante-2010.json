@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andante_2010",
+  "title": "Andante",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837036",
+    "imdb": "tt1677514",
+    "tmdb": 215588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 101
+}

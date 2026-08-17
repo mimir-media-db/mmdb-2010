@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_minutes_to_autumn_2010",
+  "title": "Seven Minutes to Autumn",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5871777",
+    "imdb": "tt4359260",
+    "tmdb": 463542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-16"
+}

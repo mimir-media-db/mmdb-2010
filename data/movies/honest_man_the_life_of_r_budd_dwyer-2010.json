@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_honest_man_the_life_of_r_budd_dwyer_2010",
+  "title": "Honest Man: The Life of R. Budd Dwyer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124824",
+    "imdb": "tt1623777",
+    "tmdb": 63954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

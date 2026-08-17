@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wanderer_2010",
+  "title": "The Wanderer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52950698",
+    "imdb": "tt1646969",
+    "tmdb": 61710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 86
+}

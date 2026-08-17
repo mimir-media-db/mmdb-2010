@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_todo_poderoso_o_filme_100_anos_de_timao_2010",
+  "title": "Todo Poderoso: o Filme - 100 Anos de Timão",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10382890"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

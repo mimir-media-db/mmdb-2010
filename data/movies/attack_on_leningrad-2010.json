@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_on_leningrad_2010",
+  "title": "Attack on Leningrad",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2628076",
+    "imdb": "tt0432314",
+    "tmdb": 2325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-21",
+  "runtime_minutes": 103
+}

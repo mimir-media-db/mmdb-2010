@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weird_world_of_blowfly_2010",
+  "title": "The Weird World of Blowfly",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16170614",
+    "imdb": "tt1603489",
+    "tmdb": 80308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

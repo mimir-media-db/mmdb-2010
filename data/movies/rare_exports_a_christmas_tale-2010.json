@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rare_exports_a_christmas_tale_2010",
+  "title": "Rare Exports: A Christmas Tale",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1256208",
+    "imdb": "tt1401143",
+    "tmdb": 48395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-03",
+  "runtime_minutes": 85
+}

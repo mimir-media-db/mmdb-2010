@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_my_wife_2010",
+  "title": "Looking For My Wife",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16190488",
+    "imdb": "tt1891832",
+    "tmdb": 417339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-08"
+}

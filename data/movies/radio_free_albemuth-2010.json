@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_radio_free_albemuth_2010",
+  "title": "Radio Free Albemuth",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4411138",
+    "imdb": "tt1129396",
+    "tmdb": 139406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-25",
+  "runtime_minutes": 110
+}

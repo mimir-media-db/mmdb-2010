@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amelia_2010",
+  "title": "Amelia",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q461447",
+    "imdb": "tt1129445",
+    "tmdb": 8915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-17",
+  "runtime_minutes": 112
+}

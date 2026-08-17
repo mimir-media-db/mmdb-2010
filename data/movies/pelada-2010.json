@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pelada_2010",
+  "title": "Pelada",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140298557",
+    "imdb": "tt1530953",
+    "tmdb": 83460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 91
+}

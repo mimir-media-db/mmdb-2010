@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_right_yaaa_wrong_2010",
+  "title": "Right Yaaa Wrong",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7333589",
+    "imdb": "tt1191130",
+    "tmdb": 35100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

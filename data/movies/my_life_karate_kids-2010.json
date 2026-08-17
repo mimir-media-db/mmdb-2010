@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_karate_kids_2010",
+  "title": "My Life: Karate Kids",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20746262",
+    "imdb": "tt1859205"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heaven_hell_2010",
+  "title": "Heaven, Hell",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12040479",
+    "imdb": "tt1686904",
+    "tmdb": 106290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-12",
+  "runtime_minutes": 82
+}

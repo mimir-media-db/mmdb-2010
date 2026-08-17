@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_71_into_the_fire_2010",
+  "title": "71: Into the Fire",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q496738",
+    "imdb": "tt1587729",
+    "tmdb": 51200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-16",
+  "runtime_minutes": 120
+}

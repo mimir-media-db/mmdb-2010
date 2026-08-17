@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pocong_keliling_2010",
+  "title": "Pocong Keliling",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13096062",
+    "imdb": "tt1693040",
+    "tmdb": 395872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

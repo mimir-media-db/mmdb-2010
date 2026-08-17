@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_tub_time_machine_2010",
+  "title": "Hot Tub Time Machine",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q925072",
+    "imdb": "tt1231587",
+    "tmdb": 23048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-26",
+  "runtime_minutes": 101
+}

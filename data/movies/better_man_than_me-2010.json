@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_better_man_than_me_2010",
+  "title": "Better Man Than Me",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33527384",
+    "imdb": "tt1932613"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 6
+}

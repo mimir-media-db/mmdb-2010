@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_platos_academy_2010",
+  "title": "Plato's Academy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114108",
+    "imdb": "tt1334313",
+    "tmdb": 37590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-22",
+  "runtime_minutes": 107
+}

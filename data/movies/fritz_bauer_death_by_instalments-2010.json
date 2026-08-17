@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fritz_bauer_death_by_instalments_2010",
+  "title": "Fritz Bauer: Death by Instalments",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24255212",
+    "imdb": "tt1679579",
+    "tmdb": 97999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-14"
+}

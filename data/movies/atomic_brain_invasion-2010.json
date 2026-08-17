@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_atomic_brain_invasion_2010",
+  "title": "Atomic Brain Invasion",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18162397",
+    "imdb": "tt1540772",
+    "tmdb": 179672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

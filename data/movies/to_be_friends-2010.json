@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_to_be_friends_2010",
+  "title": "To Be Friends",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47064077",
+    "imdb": "tt1422778",
+    "tmdb": 270970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yurikos_aroma_2010",
+  "title": "Yuriko's Aroma",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11345817",
+    "imdb": "tt1603463",
+    "tmdb": 67560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 74
+}

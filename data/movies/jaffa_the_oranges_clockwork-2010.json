@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jaffa_the_oranges_clockwork_2010",
+  "title": "Jaffa, the Orange's Clockwork",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27949124",
+    "imdb": "tt1720949",
+    "tmdb": 85933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-14",
+  "runtime_minutes": 89
+}

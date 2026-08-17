@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pelican_blood_2010",
+  "title": "Pelican Blood",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7161386",
+    "imdb": "tt1305059",
+    "tmdb": 46726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-17",
+  "runtime_minutes": 94
+}

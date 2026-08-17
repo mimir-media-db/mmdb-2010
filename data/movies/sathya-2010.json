@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sathya_2010",
+  "title": "Sathya",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20900157",
+    "imdb": "tt13729828"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

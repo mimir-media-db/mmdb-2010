@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_music_makes_a_city_2010",
+  "title": "Music Makes a City",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123472824",
+    "imdb": "tt1346690",
+    "tmdb": 292888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-20"
+}

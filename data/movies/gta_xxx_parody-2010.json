@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gta_xxx_parody_2010",
+  "title": "GTA XXX Parody",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50412687",
+    "imdb": "tt1696179",
+    "tmdb": 281980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

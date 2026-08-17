@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_holiday_2010",
+  "title": "Haunted Holiday",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16523880",
+    "imdb": "tt1699511",
+    "tmdb": 83886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-02"
+}

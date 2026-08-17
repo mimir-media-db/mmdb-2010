@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mammoth_2010",
+  "title": "Mammoth",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q759230",
+    "imdb": "tt1038043",
+    "tmdb": 33974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-10",
+  "runtime_minutes": 120
+}

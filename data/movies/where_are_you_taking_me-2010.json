@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_where_are_you_taking_me_2010",
+  "title": "Where Are You Taking Me?",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108083571",
+    "imdb": "tt1675311",
+    "tmdb": 105562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

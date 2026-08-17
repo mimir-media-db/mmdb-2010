@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ilha_da_cova_da_moura_2010",
+  "title": "Ilha da Cova da Moura",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10301104",
+    "imdb": "tt1872811",
+    "tmdb": 110237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 81
+}

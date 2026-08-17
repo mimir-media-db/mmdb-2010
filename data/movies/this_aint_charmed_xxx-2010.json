@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_aint_charmed_xxx_2010",
+  "title": "This Ain't Charmed XXX",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7785584",
+    "imdb": "tt1611179",
+    "tmdb": 60919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

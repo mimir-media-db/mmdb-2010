@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thillalangadi_2010",
+  "title": "Thillalangadi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7784179",
+    "imdb": "tt1503179",
+    "tmdb": 63812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

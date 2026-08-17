@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_single_man_2010",
+  "title": "A Single Man",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300559",
+    "imdb": "tt1315981",
+    "tmdb": 34653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-05",
+  "runtime_minutes": 99
+}

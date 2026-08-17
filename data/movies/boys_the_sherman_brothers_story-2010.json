@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_the_sherman_brothers_story_2010",
+  "title": "The Boys: The Sherman Brothers' Story",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7719722",
+    "imdb": "tt1015971",
+    "tmdb": 64831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-30"
+}

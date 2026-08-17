@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lebanon_2010",
+  "title": "Lebanon",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1142358",
+    "imdb": "tt1483831",
+    "tmdb": 32084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-14",
+  "runtime_minutes": 93
+}

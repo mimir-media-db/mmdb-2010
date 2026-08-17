@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rumeits_2010",
+  "title": "Rumeits",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140604357",
+    "imdb": "tt2725972",
+    "tmdb": 862474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 19
+}

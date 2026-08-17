@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_opponent_2010",
+  "title": "Alien Opponent",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814426",
+    "imdb": "tt1429382",
+    "tmdb": 99220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

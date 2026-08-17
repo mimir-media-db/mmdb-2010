@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beats_of_freedom_2010",
+  "title": "Beats of Freedom",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8761944",
+    "imdb": "tt1542391",
+    "tmdb": 50526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-11"
+}

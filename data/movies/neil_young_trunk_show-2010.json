@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neil_young_trunk_show_2010",
+  "title": "Neil Young Trunk Show",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6989518",
+    "imdb": "tt1236244",
+    "tmdb": 124267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-19",
+  "runtime_minutes": 82
+}

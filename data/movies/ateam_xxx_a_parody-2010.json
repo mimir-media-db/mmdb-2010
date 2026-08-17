@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ateam_xxx_a_parody_2010",
+  "title": "The A-Team XXX – A Parody",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18515636",
+    "imdb": "tt1693967",
+    "tmdb": 143194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-18",
+  "runtime_minutes": 145
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bolo_natumi_aamar_2010",
+  "title": "Bolo natumi aamar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4939958",
+    "imdb": "tt1601453",
+    "tmdb": 575558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-15"
+}

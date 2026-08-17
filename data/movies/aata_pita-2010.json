@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aata_pita_2010",
+  "title": "Aata Pita",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4662752",
+    "imdb": "tt2606526",
+    "tmdb": 495795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-10"
+}

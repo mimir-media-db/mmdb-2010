@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_easy_virtue_2010",
+  "title": "Easy Virtue",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1278386",
+    "imdb": "tt0808244",
+    "tmdb": 16899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-24",
+  "runtime_minutes": 95
+}

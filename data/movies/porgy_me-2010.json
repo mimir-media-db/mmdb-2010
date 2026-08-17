@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_porgy_me_2010",
+  "title": "Porgy & Me",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60422287",
+    "imdb": "tt1233210",
+    "tmdb": 258969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-28"
+}

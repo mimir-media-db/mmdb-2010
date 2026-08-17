@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tutu_much_2010",
+  "title": "Tutu Much",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7857050",
+    "imdb": "tt1589511",
+    "tmdb": 88009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

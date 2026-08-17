@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_precious_2010",
+  "title": "Precious",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q269331",
+    "imdb": "tt0929632",
+    "tmdb": 25793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-25",
+  "runtime_minutes": 110
+}

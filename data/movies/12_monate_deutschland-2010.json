@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_12_monate_deutschland_2010",
+  "title": "12 Monate Deutschland",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44280235",
+    "imdb": "tt1720032"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-23"
+}

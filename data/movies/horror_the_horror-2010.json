@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horror_the_horror_2010",
+  "title": "The horror! The horror!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114854788",
+    "imdb": "tt2444554"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 26
+}

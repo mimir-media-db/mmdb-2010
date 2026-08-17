@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_le_dossier_berlusconi_2010",
+  "title": "Le dossier Berlusconi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121080313"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

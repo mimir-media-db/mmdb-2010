@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ahmed_gassiaux_2010",
+  "title": "Ahmed Gassiaux",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101247441",
+    "imdb": "tt1660301",
+    "tmdb": 1063759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 77
+}

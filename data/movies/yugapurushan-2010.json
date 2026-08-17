@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yugapurushan_2010",
+  "title": "Yugapurushan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8060340",
+    "imdb": "tt1764750",
+    "tmdb": 142483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andersons_cross_2010",
+  "title": "Anderson's Cross",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4753984",
+    "imdb": "tt0393049",
+    "tmdb": 324352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-20",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karl_the_butcher_vs_axe_2010",
+  "title": "Karl the Butcher vs. Axe",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8982843",
+    "imdb": "tt1517076",
+    "tmdb": 61696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

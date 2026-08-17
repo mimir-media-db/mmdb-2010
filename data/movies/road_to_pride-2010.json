@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_road_to_pride_2010",
+  "title": "Road to Pride",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116208145",
+    "imdb": "tt1833779",
+    "tmdb": 508853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

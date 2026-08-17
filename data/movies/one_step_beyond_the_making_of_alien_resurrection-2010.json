@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_step_beyond_the_making_of_alien_resurrection_2010",
+  "title": "One Step Beyond: The Making of Alien Resurrection",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117216393",
+    "imdb": "tt0387469",
+    "tmdb": 70866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 174
+}

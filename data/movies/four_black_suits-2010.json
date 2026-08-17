@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_black_suits_2010",
+  "title": "Four Black Suits",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88100599",
+    "imdb": "tt1599913",
+    "tmdb": 67358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

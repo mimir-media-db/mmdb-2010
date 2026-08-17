@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adeu_espanya_2010",
+  "title": "Adéu, Espanya?",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11904229",
+    "imdb": "tt1671447",
+    "tmdb": 381479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-03",
+  "runtime_minutes": 87
+}

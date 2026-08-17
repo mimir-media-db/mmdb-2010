@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_early_frost_2010",
+  "title": "An Early Frost",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12634202",
+    "imdb": "tt1264889",
+    "tmdb": 110936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-20",
+  "runtime_minutes": 168
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_september_12_2010",
+  "title": "September 12",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052347",
+    "imdb": "tt1703920",
+    "tmdb": 505783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

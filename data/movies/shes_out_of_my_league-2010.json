@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shes_out_of_my_league_2010",
+  "title": "She's Out of My League",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140009",
+    "imdb": "tt0815236",
+    "tmdb": 34016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-11",
+  "runtime_minutes": 104
+}

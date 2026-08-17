@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jerry_cotton_2010",
+  "title": "Jerry Cotton",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1687806",
+    "imdb": "tt1080019",
+    "tmdb": 46281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-11",
+  "runtime_minutes": 90
+}

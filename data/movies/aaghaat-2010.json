@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aaghaat_2010",
+  "title": "Aaghaat",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661233",
+    "imdb": "tt1851841",
+    "tmdb": 1182410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-24"
+}

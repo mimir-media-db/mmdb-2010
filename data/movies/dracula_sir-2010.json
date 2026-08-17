@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dracula_sir_2010",
+  "title": "Dracula Sir",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101008671",
+    "imdb": "tt11963736",
+    "tmdb": 718011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-21"
+}

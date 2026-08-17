@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jolene_2010",
+  "title": "Jolene",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6269895",
+    "imdb": "tt0867334",
+    "tmdb": 43727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-29",
+  "runtime_minutes": 121
+}

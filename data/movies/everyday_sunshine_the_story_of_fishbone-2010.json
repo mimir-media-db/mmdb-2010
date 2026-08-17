@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everyday_sunshine_the_story_of_fishbone_2010",
+  "title": "Everyday Sunshine: The Story of Fishbone",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19878139",
+    "imdb": "tt0840358",
+    "tmdb": 82676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 107
+}

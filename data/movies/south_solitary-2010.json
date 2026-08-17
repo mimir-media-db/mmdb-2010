@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_south_solitary_2010",
+  "title": "South Solitary",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7568509",
+    "imdb": "tt1587278",
+    "tmdb": 50836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

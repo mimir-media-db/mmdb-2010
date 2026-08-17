@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_box_the_hakamada_case_2010",
+  "title": "Box The Hakamada Case",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11191597",
+    "imdb": "tt1562275",
+    "tmdb": 69589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ateam_2010",
+  "title": "The A-Team",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q471746",
+    "imdb": "tt0429493",
+    "tmdb": 34544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-11",
+  "runtime_minutes": 117
+}

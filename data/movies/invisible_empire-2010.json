@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_empire_2010",
+  "title": "Invisible Empire",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11791839",
+    "imdb": "tt1851974",
+    "tmdb": 37592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 134
+}

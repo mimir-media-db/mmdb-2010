@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_days_that_changed_the_world_2010",
+  "title": "Nine Days that Changed the World",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126587",
+    "imdb": "tt1737632",
+    "tmdb": 47994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-09"
+}

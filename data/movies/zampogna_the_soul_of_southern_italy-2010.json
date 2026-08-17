@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zampogna_the_soul_of_southern_italy_2010",
+  "title": "Zampogna: The Soul of Southern Italy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117038802",
+    "imdb": "tt1568319",
+    "tmdb": 1098230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-16",
+  "runtime_minutes": 80
+}

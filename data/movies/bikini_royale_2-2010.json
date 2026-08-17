@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bikini_royale_2_2010",
+  "title": "Bikini Royale 2",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28497917",
+    "imdb": "tt1670224",
+    "tmdb": 150785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

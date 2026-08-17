@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_gordo_una_historia_verdadera_2010",
+  "title": "El Gordo: una historia verdadera",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5822017",
+    "imdb": "tt1492809"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-28",
+  "runtime_minutes": 150
+}

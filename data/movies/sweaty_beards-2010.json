@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweaty_beards_2010",
+  "title": "Sweaty Beards",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10686451",
+    "imdb": "tt1640186",
+    "tmdb": 134718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_if_somebody_loves_you_2010",
+  "title": "If Somebody Loves You",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12271304",
+    "imdb": "tt1633162",
+    "tmdb": 1519433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

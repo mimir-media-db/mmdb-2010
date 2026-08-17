@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jew_suss_rise_and_fall_2010",
+  "title": "Jew Suss: Rise and Fall",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q329336",
+    "imdb": "tt1399655",
+    "tmdb": 61623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-23",
+  "runtime_minutes": 114
+}

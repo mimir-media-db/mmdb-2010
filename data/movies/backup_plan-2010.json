@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_backup_plan_2010",
+  "title": "The Back-up Plan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q908423",
+    "imdb": "tt1212436",
+    "tmdb": 34806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-23",
+  "runtime_minutes": 106
+}

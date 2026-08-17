@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_zum_dritten_pol_2010",
+  "title": "Zum Dritten Pol",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718629",
+    "imdb": "tt0946977"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-25"
+}

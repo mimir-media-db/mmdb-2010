@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_het_huis_anubis_en_de_terugkeer_van_sibuna_2010",
+  "title": "Het huis Anubis en de terugkeer van Sibuna",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2094845",
+    "imdb": "tt2030345",
+    "tmdb": 65844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-31",
+  "runtime_minutes": 60
+}

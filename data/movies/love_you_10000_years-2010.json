@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_you_10000_years_2010",
+  "title": "Love You 10,000 Years",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11073665",
+    "imdb": "tt1848776",
+    "tmdb": 75433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 108
+}

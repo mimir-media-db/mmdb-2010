@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uncle_david_2010",
+  "title": "Uncle David",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12130000",
+    "imdb": "tt1625884",
+    "tmdb": 284584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

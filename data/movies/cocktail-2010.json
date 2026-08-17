@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cocktail_2010",
+  "title": "Cocktail",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5139691",
+    "imdb": "tt1821373",
+    "tmdb": 135223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krec_jak_kochasz_to_krec_2010",
+  "title": "Krec! Jak kochasz, to krec!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11750321",
+    "imdb": "tt2692424",
+    "tmdb": 831770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 46
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suomea_rakentamassa_2010_2010",
+  "title": "Suomea rakentamassa (2010)",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111803085",
+    "imdb": "tt1582612"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-06",
+  "runtime_minutes": 68
+}

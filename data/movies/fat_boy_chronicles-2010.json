@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fat_boy_chronicles_2010",
+  "title": "The Fat Boy Chronicles",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7733505",
+    "imdb": "tt1493243",
+    "tmdb": 82704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

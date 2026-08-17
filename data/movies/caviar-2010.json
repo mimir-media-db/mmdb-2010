@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caviar_2010",
+  "title": "Caviar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44866032",
+    "imdb": "tt1455053",
+    "tmdb": 534000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 20
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_om_namah_shivay_2010",
+  "title": "Om Namah Shivay",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45837387",
+    "imdb": "tt1780933"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-19"
+}

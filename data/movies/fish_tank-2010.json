@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_tank_2010",
+  "title": "Fish Tank",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q557596",
+    "imdb": "tt1232776",
+    "tmdb": 24469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-11",
+  "runtime_minutes": 123
+}

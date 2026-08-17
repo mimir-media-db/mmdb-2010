@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bedevilled_2010",
+  "title": "Bedevilled",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q563033",
+    "imdb": "tt1646959",
+    "tmdb": 59421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-02",
+  "runtime_minutes": 111
+}

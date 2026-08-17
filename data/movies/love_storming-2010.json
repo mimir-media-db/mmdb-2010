@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_storming_2010",
+  "title": "Love Storming",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2891629",
+    "imdb": "tt1651143",
+    "tmdb": 61905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-29",
+  "runtime_minutes": 100
+}

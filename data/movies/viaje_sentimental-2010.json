@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viaje_sentimental_2010",
+  "title": "Viaje sentimental",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106148813",
+    "imdb": "tt1645173",
+    "tmdb": 624751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 62
+}

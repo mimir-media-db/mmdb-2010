@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yogurt_lady_2010",
+  "title": "Yogurt Lady",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97338451",
+    "imdb": "tt1698598",
+    "tmdb": 522075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-25"
+}

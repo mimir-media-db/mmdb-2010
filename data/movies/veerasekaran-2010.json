@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_veerasekaran_2010",
+  "title": "Veerasekaran",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7918198",
+    "imdb": "tt4316064"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-05"
+}

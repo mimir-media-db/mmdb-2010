@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stalags_2010",
+  "title": "Stalags",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7597215",
+    "imdb": "tt1479963",
+    "tmdb": 102231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-30",
+  "runtime_minutes": 63
+}

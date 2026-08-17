@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_mr_zeus_2010",
+  "title": "Goodbye Mr. Zeus!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16561435",
+    "imdb": "tt2258375",
+    "tmdb": 298072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 95
+}

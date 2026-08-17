@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_80_egunean_2010",
+  "title": "80 egunean",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2818461",
+    "imdb": "tt1600383",
+    "tmdb": 150664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-21",
+  "runtime_minutes": 104
+}

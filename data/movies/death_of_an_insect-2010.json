@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_an_insect_2010",
+  "title": "The Death of an Insect",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7729465",
+    "imdb": "tt1728626",
+    "tmdb": 217656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 7
+}

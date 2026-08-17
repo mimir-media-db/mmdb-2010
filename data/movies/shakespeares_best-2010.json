@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shakespeares_best_2010",
+  "title": "Shakespeare's Best",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138349524",
+    "imdb": "tt3212794",
+    "tmdb": 1584396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

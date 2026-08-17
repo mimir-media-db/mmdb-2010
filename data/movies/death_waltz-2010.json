@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_waltz_2010",
+  "title": "Death Waltz",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29552496",
+    "imdb": "tt1503714",
+    "tmdb": 287363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-14",
+  "runtime_minutes": 103
+}

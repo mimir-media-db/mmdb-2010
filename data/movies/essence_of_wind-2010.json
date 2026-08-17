@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_essence_of_wind_2010",
+  "title": "An Essence of Wind",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17998161",
+    "imdb": "tt3778326",
+    "tmdb": 499773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

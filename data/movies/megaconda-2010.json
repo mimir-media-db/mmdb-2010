@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_megaconda_2010",
+  "title": "Megaconda",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022638",
+    "imdb": "tt4354312",
+    "tmdb": 27485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

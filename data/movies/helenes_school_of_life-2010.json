@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_helenes_school_of_life_2010",
+  "title": "Helene's School of Life",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31272209",
+    "imdb": "tt1855559"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

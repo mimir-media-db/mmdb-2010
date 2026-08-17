@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_circus_2010",
+  "title": "Love Circus",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6690453",
+    "imdb": "tt14267572",
+    "tmdb": 1398603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-19"
+}

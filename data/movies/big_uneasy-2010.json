@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_uneasy_2010",
+  "title": "The Big Uneasy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107098228",
+    "imdb": "tt1702441",
+    "tmdb": 45906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robin_hood_2010",
+  "title": "Robin Hood",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q223559",
+    "imdb": "tt0955308",
+    "tmdb": 20662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-12",
+  "runtime_minutes": 140
+}

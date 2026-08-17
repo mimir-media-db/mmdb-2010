@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shepherds_of_helmand_2010",
+  "title": "Shepherds of Helmand",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806876",
+    "imdb": "tt1774566"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-10"
+}

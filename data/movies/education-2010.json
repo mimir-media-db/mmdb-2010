@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_education_2010",
+  "title": "An Education",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q482436",
+    "imdb": "tt1174732",
+    "tmdb": 24684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-18",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_every_song_is_about_me_2010",
+  "title": "Every Song Is About Me",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9088002",
+    "imdb": "tt1179927",
+    "tmdb": 89734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-10"
+}

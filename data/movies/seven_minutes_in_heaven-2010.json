@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_minutes_in_heaven_2010",
+  "title": "Seven Minutes in Heaven",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2818349",
+    "imdb": "tt1307009",
+    "tmdb": 93447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_voir_ali_2010",
+  "title": "Voir Ali",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118977815"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 47
+}

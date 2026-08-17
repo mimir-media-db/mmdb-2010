@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_star_trek_phoenix_2010",
+  "title": "Star Trek: Phoenix",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7600989"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-02"
+}

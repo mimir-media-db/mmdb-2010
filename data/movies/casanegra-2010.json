@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casanegra_2010",
+  "title": "Casanegra",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2940755",
+    "imdb": "tt1364478",
+    "tmdb": 47325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-13",
+  "runtime_minutes": 130
+}

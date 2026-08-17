@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happily_ever_after_2010",
+  "title": "Happily Ever After",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2379725",
+    "imdb": "tt1467385",
+    "tmdb": 86996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-14",
+  "runtime_minutes": 90
+}

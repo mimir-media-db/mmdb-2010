@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chico_xavier_2010",
+  "title": "Chico Xavier",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2963408",
+    "imdb": "tt1234559",
+    "tmdb": 41520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-02",
+  "runtime_minutes": 125
+}

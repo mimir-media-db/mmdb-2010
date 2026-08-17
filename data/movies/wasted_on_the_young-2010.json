@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wasted_on_the_young_2010",
+  "title": "Wasted on the Young",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7972859",
+    "imdb": "tt1647483",
+    "tmdb": 70418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

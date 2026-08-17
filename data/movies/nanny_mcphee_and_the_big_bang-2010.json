@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nanny_mcphee_and_the_big_bang_2010",
+  "title": "Nanny McPhee and the Big Bang",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q785249",
+    "imdb": "tt1415283",
+    "tmdb": 35019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-01",
+  "runtime_minutes": 95
+}

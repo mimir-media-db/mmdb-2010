@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taking_woodstock_2010",
+  "title": "Taking Woodstock",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q696652",
+    "imdb": "tt1127896",
+    "tmdb": 26320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-07",
+  "runtime_minutes": 110
+}

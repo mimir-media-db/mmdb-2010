@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ije_2010",
+  "title": "Ijé",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5995253",
+    "imdb": "tt1578582",
+    "tmdb": 290768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-01",
+  "runtime_minutes": 107
+}

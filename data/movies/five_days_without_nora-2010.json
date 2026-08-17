@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_days_without_nora_2010",
+  "title": "Five Days Without Nora",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5856604",
+    "imdb": "tt1143148",
+    "tmdb": 72172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-11",
+  "runtime_minutes": 92
+}

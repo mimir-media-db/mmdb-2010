@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_riemuruhtinaat_2010_2010",
+  "title": "Riemuruhtinaat (2010)",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111802966",
+    "imdb": "tt1748181"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-21",
+  "runtime_minutes": 52
+}

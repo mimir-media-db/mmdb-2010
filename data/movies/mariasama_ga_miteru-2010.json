@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mariasama_ga_miteru_2010",
+  "title": "Maria-sama ga Miteru",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17006359",
+    "imdb": "tt1632561",
+    "tmdb": 457478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-06"
+}

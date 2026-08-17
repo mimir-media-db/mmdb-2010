@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_with_love_2010",
+  "title": "With Love",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13012427",
+    "imdb": "tt3224188",
+    "tmdb": 408769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

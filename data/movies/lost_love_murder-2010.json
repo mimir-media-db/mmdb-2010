@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_love_murder_2010",
+  "title": "Lost Love Murder",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11444804",
+    "imdb": "tt1645138",
+    "tmdb": 340292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seaside_motel_2010",
+  "title": "Seaside Motel",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11254631",
+    "imdb": "tt1669801",
+    "tmdb": 56232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-05"
+}

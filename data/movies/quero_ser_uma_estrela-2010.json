@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quero_ser_uma_estrela_2010",
+  "title": "Quero Ser uma Estrela",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10356198",
+    "imdb": "tt1429386",
+    "tmdb": 177391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 115
+}

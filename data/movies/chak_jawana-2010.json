@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chak_jawana_2010",
+  "title": "Chak Jawana",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117756611",
+    "imdb": "tt1596721",
+    "tmdb": 88861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

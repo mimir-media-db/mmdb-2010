@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curitiba_zero_grau_2010",
+  "title": "Curitiba Zero Grau",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10262415",
+    "imdb": "tt1753648",
+    "tmdb": 199945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-04",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cheminots_2010",
+  "title": "Cheminots",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008208",
+    "imdb": "tt1747970",
+    "tmdb": 479789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-17",
+  "runtime_minutes": 80
+}

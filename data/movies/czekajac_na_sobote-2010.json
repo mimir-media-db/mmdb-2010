@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_czekajac_na_sobote_2010",
+  "title": "Czekajac na Sobote",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9198551",
+    "imdb": "tt1773354",
+    "tmdb": 223295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-24",
+  "runtime_minutes": 70
+}

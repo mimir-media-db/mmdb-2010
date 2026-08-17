@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coach_driver_knocks_three_times_2010",
+  "title": "Coach Driver Knocks Three Times",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12367873",
+    "imdb": "tt1669649",
+    "tmdb": 335069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 49
+}

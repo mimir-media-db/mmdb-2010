@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chicogrande_2010",
+  "title": "Chicogrande",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5766089",
+    "imdb": "tt1603471",
+    "tmdb": 144161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-28",
+  "runtime_minutes": 95
+}

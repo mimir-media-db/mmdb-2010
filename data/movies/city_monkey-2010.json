@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_monkey_2010",
+  "title": "City Monkey",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28092235",
+    "imdb": "tt2674496",
+    "tmdb": 228856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cemetery_junction_2010",
+  "title": "Cemetery Junction",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1988305",
+    "imdb": "tt1196204",
+    "tmdb": 36801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-14",
+  "runtime_minutes": 95
+}

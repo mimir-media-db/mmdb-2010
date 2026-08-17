@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_catcher_on_the_shore_2010",
+  "title": "The Catcher On The Shore",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65236343",
+    "imdb": "tt1803230",
+    "tmdb": 326666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

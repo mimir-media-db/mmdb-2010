@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chubby_2010",
+  "title": "The Chubby",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755449",
+    "imdb": "tt27789963"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

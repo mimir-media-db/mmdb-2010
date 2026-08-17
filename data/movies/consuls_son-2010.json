@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_consuls_son_2010",
+  "title": "The Consul's Son",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6534397",
+    "imdb": "tt1872084",
+    "tmdb": 67099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-12",
+  "runtime_minutes": 119
+}

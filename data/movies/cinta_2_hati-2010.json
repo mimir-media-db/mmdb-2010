@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinta_2_hati_2010",
+  "title": "Cinta 2 Hati",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12479100",
+    "imdb": "tt1631693",
+    "tmdb": 792994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

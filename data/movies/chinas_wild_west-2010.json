@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chinas_wild_west_2010",
+  "title": "China's Wild West",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5099532",
+    "imdb": "tt1337278",
+    "tmdb": 403924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

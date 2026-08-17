@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cyrano_agency_2010",
+  "title": "Cyrano Agency",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q493306",
+    "imdb": "tt1786668",
+    "tmdb": 53514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 117
+}

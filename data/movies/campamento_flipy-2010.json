@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_campamento_flipy_2010",
+  "title": "Campamento Flipy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5742527",
+    "imdb": "tt1555187",
+    "tmdb": 223820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 81
+}

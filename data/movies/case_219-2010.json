@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_case_219_2010",
+  "title": "Case 219",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5048289",
+    "imdb": "tt1314169",
+    "tmdb": 338527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

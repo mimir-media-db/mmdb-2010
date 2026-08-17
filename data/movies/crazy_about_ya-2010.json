@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_about_ya_2010",
+  "title": "Crazy About Ya",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3191414",
+    "imdb": "tt1538545",
+    "tmdb": 61935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 120
+}

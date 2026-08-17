@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cirkus_columbia_2010",
+  "title": "Cirkus Columbia",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414778",
+    "imdb": "tt1417067",
+    "tmdb": 63834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 113
+}

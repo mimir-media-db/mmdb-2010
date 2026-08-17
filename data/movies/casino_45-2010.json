@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casino_45_2010",
+  "title": "Casino 45",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3661795",
+    "imdb": "tt3240734",
+    "tmdb": 244168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 150
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crossing_hennessy_2010",
+  "title": "Crossing Hennessy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4197996",
+    "imdb": "tt1447800",
+    "tmdb": 44740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

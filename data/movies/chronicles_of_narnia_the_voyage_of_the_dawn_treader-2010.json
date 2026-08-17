@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chronicles_of_narnia_the_voyage_of_the_dawn_treader_2010",
+  "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q474082",
+    "imdb": "tt0980970",
+    "tmdb": 10140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 123
+}

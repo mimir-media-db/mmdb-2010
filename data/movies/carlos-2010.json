@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carlos_2010",
+  "title": "Carlos",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q671410",
+    "imdb": "tt33398096",
+    "tmdb": 43434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 338
+}

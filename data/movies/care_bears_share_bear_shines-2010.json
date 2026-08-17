@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_care_bears_share_bear_shines_2010",
+  "title": "Care Bears: Share Bear Shines",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5038845",
+    "imdb": "tt1586246",
+    "tmdb": 75149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 70
+}

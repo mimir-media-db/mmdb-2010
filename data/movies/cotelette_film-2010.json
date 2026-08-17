@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cotelette_film_2010",
+  "title": "The Co(te)lette Film",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1893436",
+    "imdb": "tt1883359",
+    "tmdb": 331417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

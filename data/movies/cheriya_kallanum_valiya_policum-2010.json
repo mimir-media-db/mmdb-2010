@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheriya_kallanum_valiya_policum_2010",
+  "title": "Cheriya Kallanum Valiya Policum",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5091984",
+    "imdb": "tt1736560",
+    "tmdb": 198239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

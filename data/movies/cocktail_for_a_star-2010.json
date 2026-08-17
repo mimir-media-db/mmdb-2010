@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cocktail_for_a_star_2010",
+  "title": "The Cocktail for a Star",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3719628",
+    "imdb": "tt3947354",
+    "tmdb": 454866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

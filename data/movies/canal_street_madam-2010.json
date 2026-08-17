@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_canal_street_madam_2010",
+  "title": "The Canal Street Madam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3986191",
+    "imdb": "tt1431160",
+    "tmdb": 127800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 91
+}

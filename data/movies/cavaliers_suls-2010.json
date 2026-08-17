@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cavaliers_suls_2010",
+  "title": "Cavaliers Suls",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2943235",
+    "imdb": "tt1068651",
+    "tmdb": 394359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

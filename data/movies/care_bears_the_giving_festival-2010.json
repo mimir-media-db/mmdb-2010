@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_care_bears_the_giving_festival_2010",
+  "title": "Care Bears: The Giving Festival",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5038843",
+    "imdb": "tt1767295",
+    "tmdb": 49385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 67
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liebling_lass_uns_scheiden_2010",
+  "title": "Liebling, lass uns scheiden",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28001309",
+    "imdb": "tt1754126",
+    "tmdb": 125482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 91
+}

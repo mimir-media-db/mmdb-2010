@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_daming_palace_2010",
+  "title": "Legend of The Daming Palace",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10935621",
+    "imdb": "tt2497704",
+    "tmdb": 1649823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_visit_2010",
+  "title": "A Long Visit",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18815786",
+    "imdb": "tt1655618",
+    "tmdb": 55314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-22"
+}

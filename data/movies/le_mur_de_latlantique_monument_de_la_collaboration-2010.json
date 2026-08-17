@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_mur_de_latlantique_monument_de_la_collaboration_2010",
+  "title": "Le Mur de l'Atlantique, monument de la collaboration",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52391774",
+    "imdb": "tt1876362"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 70
+}

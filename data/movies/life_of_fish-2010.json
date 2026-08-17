@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_of_fish_2010",
+  "title": "The Life of Fish",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3213635",
+    "imdb": "tt1672078",
+    "tmdb": 48999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-10",
+  "runtime_minutes": 84
+}

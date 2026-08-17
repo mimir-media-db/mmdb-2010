@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_live_stream_2010",
+  "title": "Live Stream",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41589032",
+    "imdb": "tt1600525",
+    "tmdb": 207615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

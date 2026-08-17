@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_late_december_2010",
+  "title": "Late December",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6530721",
+    "imdb": "tt1772860",
+    "tmdb": 694294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-14"
+}

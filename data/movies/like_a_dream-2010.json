@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_like_a_dream_2010",
+  "title": "Like A Dream",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10942937",
+    "imdb": "tt1247676",
+    "tmdb": 197813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_love_lust_2010",
+  "title": "Life Love Lust",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15825850",
+    "imdb": "tt2536030",
+    "tmdb": 59501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 60
+}

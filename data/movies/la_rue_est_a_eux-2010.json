@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_rue_est_a_eux_2010",
+  "title": "La rue est à eux",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104532975",
+    "imdb": "tt1585570",
+    "tmdb": 452129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-25",
+  "runtime_minutes": 93
+}

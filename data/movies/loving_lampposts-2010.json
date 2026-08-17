@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loving_lampposts_2010",
+  "title": "Loving Lampposts",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55640929",
+    "imdb": "tt1533081",
+    "tmdb": 79851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

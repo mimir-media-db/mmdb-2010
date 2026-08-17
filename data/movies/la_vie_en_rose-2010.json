@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vie_en_rose_2010",
+  "title": "La Vie en rose",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107613945"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

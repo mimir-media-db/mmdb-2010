@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_letranger_2010",
+  "title": "L'Étranger",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28496875",
+    "imdb": "tt1756579",
+    "tmdb": 576203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

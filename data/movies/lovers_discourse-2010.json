@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lovers_discourse_2010",
+  "title": "Lover's Discourse",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55718799",
+    "imdb": "tt1772958",
+    "tmdb": 60788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

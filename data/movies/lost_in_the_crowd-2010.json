@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_the_crowd_2010",
+  "title": "Lost in the Crowd",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125852",
+    "imdb": "tt1541873",
+    "tmdb": 501432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_and_edelweiss_2010",
+  "title": "Love and Edelweiss",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12495339",
+    "imdb": "tt1631769",
+    "tmdb": 656227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-22",
+  "runtime_minutes": 89
+}

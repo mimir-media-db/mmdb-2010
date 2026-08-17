@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_and_times_of_don_rosa_2010",
+  "title": "Life and Times of Don Rosa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18814871",
+    "imdb": "tt2088821",
+    "tmdb": 185272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 76
+}

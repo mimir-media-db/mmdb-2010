@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_seven_2010",
+  "title": "The Last Seven",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7746012",
+    "imdb": "tt1274273",
+    "tmdb": 44646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

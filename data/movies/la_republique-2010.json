@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_republique_2010",
+  "title": "La République",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632255",
+    "imdb": "tt1547636",
+    "tmdb": 367539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 36
+}

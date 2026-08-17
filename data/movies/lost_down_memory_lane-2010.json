@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_down_memory_lane_2010",
+  "title": "Lost Down Memory Lane",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2013146",
+    "imdb": "tt1653956",
+    "tmdb": 347050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-14",
+  "runtime_minutes": 90
+}

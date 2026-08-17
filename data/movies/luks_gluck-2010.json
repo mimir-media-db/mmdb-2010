@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luks_gluck_2010",
+  "title": "Luks Glück",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718667",
+    "imdb": "tt1651092",
+    "tmdb": 376899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 91
+}

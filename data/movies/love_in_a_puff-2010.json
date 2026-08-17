@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_a_puff_2010",
+  "title": "Love in a Puff",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1082977",
+    "imdb": "tt1602479",
+    "tmdb": 41993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-25",
+  "runtime_minutes": 104
+}

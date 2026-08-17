@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_metropolitaine_2010",
+  "title": "La Métropolitaine",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59617005",
+    "imdb": "tt1732666",
+    "tmdb": 341060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

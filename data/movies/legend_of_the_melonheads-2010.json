@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_melonheads_2010",
+  "title": "Legend of the Melonheads",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128789773",
+    "imdb": "tt1773538",
+    "tmdb": 480850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

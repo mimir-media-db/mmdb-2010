@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_africa_2010",
+  "title": "Lost in Africa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20653143",
+    "imdb": "tt1686063",
+    "tmdb": 68254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-07",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lobotomy_2010",
+  "title": "Lobotomy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101001539",
+    "imdb": "tt1801528",
+    "tmdb": 260543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

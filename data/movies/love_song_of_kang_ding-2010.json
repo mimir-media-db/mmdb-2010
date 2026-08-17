@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_song_of_kang_ding_2010",
+  "title": "The Love Song of Kang Ding",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7748963",
+    "imdb": "tt1754001",
+    "tmdb": 803171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

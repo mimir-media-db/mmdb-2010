@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_paris_with_love_2010",
+  "title": "From Paris with Love",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q865346",
+    "imdb": "tt1179034",
+    "tmdb": 26389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

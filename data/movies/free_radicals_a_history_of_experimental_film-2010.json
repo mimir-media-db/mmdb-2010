@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_radicals_a_history_of_experimental_film_2010",
+  "title": "Free Radicals: A History of Experimental Film",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3087279",
+    "imdb": "tt1666305",
+    "tmdb": 85822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

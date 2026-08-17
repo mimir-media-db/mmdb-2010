@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flicka_2_2010",
+  "title": "Flicka 2",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5459070",
+    "imdb": "tt1381767",
+    "tmdb": 37932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

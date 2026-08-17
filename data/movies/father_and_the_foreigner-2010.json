@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_father_and_the_foreigner_2010",
+  "title": "The Father and the Foreigner",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3021958",
+    "imdb": "tt1408062",
+    "tmdb": 63190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 110
+}

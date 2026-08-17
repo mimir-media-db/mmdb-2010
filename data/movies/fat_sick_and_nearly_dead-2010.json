@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fat_sick_and_nearly_dead_2010",
+  "title": "Fat, Sick and Nearly Dead",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5437142",
+    "imdb": "tt1227378",
+    "tmdb": 72914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

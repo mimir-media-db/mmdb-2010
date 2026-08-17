@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_storm_2010",
+  "title": "The Final Storm",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q823020",
+    "imdb": "tt1331329",
+    "tmdb": 45527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

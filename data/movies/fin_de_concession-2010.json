@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fin_de_concession_2010",
+  "title": "Fin de concession",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3072304",
+    "imdb": "tt1653855",
+    "tmdb": 291017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

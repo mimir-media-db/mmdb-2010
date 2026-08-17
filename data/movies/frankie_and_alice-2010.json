@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frankie_and_alice_2010",
+  "title": "Frankie and Alice",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3752012",
+    "imdb": "tt1221208",
+    "tmdb": 55061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_beautiful_thing_2010",
+  "title": "The First Beautiful Thing",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2405379",
+    "imdb": "tt1467273",
+    "tmdb": 36940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 122
+}

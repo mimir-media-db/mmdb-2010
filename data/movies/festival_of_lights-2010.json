@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_festival_of_lights_2010",
+  "title": "Festival of Lights",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5445789",
+    "imdb": "tt1559035",
+    "tmdb": 138368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-13"
+}

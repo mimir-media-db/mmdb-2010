@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finnemans_2010",
+  "title": "Finnemans",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2654239",
+    "imdb": "tt1745699",
+    "tmdb": 238946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-23",
+  "runtime_minutes": 50
+}

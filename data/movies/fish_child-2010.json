@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_child_2010",
+  "title": "The Fish Child",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q982396",
+    "imdb": "tt1235842",
+    "tmdb": 26864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-07",
+  "runtime_minutes": 95
+}

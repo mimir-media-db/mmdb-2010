@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_mission_2010",
+  "title": "First Mission",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13636251",
+    "imdb": "tt1465482",
+    "tmdb": 54268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-24",
+  "runtime_minutes": 111
+}

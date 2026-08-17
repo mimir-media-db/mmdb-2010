@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_keeper_2010",
+  "title": "Fire Keeper",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755579",
+    "imdb": "tt1630572",
+    "tmdb": 440752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-23",
+  "runtime_minutes": 82
+}

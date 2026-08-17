@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantasia_lusitana_2010",
+  "title": "Fantasia Lusitana",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10280016",
+    "imdb": "tt1661832",
+    "tmdb": 177189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 65
+}

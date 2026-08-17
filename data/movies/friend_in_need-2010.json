@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_friend_in_need_2010",
+  "title": "A Friend in Need",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18815628",
+    "imdb": "tt7851834",
+    "tmdb": 166919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-02"
+}

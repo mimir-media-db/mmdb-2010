@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_falardeau_2010",
+  "title": "Falardeau",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123752835"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-20",
+  "runtime_minutes": 80
+}

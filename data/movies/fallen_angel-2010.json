@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fallen_angel_2010",
+  "title": "The Fallen Angel",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93815464",
+    "imdb": "tt1361324",
+    "tmdb": 224560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-20"
+}

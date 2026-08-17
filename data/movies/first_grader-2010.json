@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_grader_2010",
+  "title": "The First Grader",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2365283",
+    "imdb": "tt0790663",
+    "tmdb": 47559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-04",
+  "runtime_minutes": 103
+}

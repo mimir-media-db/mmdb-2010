@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5th_execution_2010",
+  "title": "The 5th Execution",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4224368",
+    "imdb": "tt1410198",
+    "tmdb": 62219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 110
+}

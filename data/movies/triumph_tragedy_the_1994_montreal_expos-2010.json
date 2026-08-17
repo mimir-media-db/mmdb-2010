@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_triumph_tragedy_the_1994_montreal_expos_2010",
+  "title": "Triumph & Tragedy: The 1994 Montreal Expos",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61984838",
+    "tmdb": 707544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 45
+}

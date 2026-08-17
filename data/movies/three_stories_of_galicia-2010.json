@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_stories_of_galicia_2010",
+  "title": "Three Stories of Galicia",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16720341",
+    "imdb": "tt1654754"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 86
+}

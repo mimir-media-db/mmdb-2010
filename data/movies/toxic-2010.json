@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toxic_2010",
+  "title": "Toxic",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7830352",
+    "imdb": "tt0453560",
+    "tmdb": 13902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

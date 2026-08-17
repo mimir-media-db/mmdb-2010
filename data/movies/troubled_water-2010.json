@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_troubled_water_2010",
+  "title": "Troubled Water",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1433265",
+    "imdb": "tt0948544",
+    "tmdb": 16095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-18",
+  "runtime_minutes": 115
+}

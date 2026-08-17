@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_team_the_mountain_of_the_1000_dragons_2010",
+  "title": "Tiger Team: The Mountain of the 1000 Dragons",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15850927",
+    "imdb": "tt1463208",
+    "tmdb": 63695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

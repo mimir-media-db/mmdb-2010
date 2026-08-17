@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taistelu_joesta_2010_2010",
+  "title": "Taistelu joesta (2010)",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111803040",
+    "imdb": "tt1719029"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-03",
+  "runtime_minutes": 1
+}

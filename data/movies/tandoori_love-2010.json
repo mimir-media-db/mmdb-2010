@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tandoori_love_2010",
+  "title": "Tandoori Love",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q974764",
+    "imdb": "tt1087526",
+    "tmdb": 23735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-27",
+  "runtime_minutes": 100
+}

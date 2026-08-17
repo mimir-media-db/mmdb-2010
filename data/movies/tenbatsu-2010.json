@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tenbatsu_2010",
+  "title": "Tenbatsu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11248512",
+    "imdb": "tt1718917",
+    "tmdb": 1084744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toxic_soup_2010",
+  "title": "Toxic Soup",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136470692",
+    "imdb": "tt1529347",
+    "tmdb": 61894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

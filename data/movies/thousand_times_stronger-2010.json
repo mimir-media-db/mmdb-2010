@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thousand_times_stronger_2010",
+  "title": "A Thousand Times Stronger",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10706641",
+    "imdb": "tt1711522",
+    "tmdb": 56841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

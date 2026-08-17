@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teen_patti_2010",
+  "title": "Teen Patti",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2415170",
+    "imdb": "tt1183917",
+    "tmdb": 34418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-26",
+  "runtime_minutes": 142
+}

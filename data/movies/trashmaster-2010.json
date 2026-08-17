@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trashmaster_2010",
+  "title": "The Trashmaster",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9395601",
+    "imdb": "tt1762364",
+    "tmdb": 660746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-23"
+}

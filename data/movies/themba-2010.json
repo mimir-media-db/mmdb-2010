@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_themba_2010",
+  "title": "Themba",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50380376",
+    "imdb": "tt1599369",
+    "tmdb": 62247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-13"
+}

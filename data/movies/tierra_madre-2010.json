@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tierra_madre_2010",
+  "title": "Tierra Madre",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7801113",
+    "imdb": "tt1519431",
+    "tmdb": 275462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-11",
+  "runtime_minutes": 62
+}

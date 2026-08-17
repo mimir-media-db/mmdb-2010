@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trick_the_movie_psychic_battle_royale_2010",
+  "title": "Trick the Movie: Psychic Battle Royale",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q863755",
+    "imdb": "tt1547631",
+    "tmdb": 71485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-08"
+}

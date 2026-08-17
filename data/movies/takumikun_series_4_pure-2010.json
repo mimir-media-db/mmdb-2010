@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_takumikun_series_4_pure_2010",
+  "title": "Takumi-kun Series 4: Pure",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17479251",
+    "imdb": "tt1788450",
+    "tmdb": 275994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 79
+}

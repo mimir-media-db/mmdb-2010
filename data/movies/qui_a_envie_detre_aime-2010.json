@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_qui_a_envie_detre_aime_2010",
+  "title": "Qui a envie d'être aimé?",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414363",
+    "imdb": "tt1723012",
+    "tmdb": 57386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

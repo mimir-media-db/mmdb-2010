@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_the_sun_2010",
+  "title": "Queen of the Sun",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7270678",
+    "imdb": "tt1645852",
+    "tmdb": 88865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

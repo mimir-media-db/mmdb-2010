@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_clubs_2010",
+  "title": "The Queen of Clubs",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208104",
+    "imdb": "tt1410294",
+    "tmdb": 72271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 99
+}

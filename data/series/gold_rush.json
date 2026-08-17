@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gold_rush",
+  "title": "Gold Rush",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1535987",
+    "imdb": "tt1800864",
+    "tmdb": 34634
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 367
+}

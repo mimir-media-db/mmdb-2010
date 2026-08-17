@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_luck_charlie",
+  "title": "Good Luck Charlie",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q366375",
+    "imdb": "tt1415889",
+    "tmdb": 21641
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_glory_daze",
+  "title": "Glory Daze",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q10290188",
+    "imdb": "tt1684734",
+    "tmdb": 34300
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

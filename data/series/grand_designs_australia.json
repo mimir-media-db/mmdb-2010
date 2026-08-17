@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grand_designs_australia",
+  "title": "Grand Designs Australia",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5594488",
+    "imdb": "tt1677691",
+    "tmdb": 38245
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 64
+}

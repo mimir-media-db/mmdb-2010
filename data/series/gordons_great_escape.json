@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gordons_great_escape",
+  "title": "Gordon's Great Escape",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2805288",
+    "imdb": "tt1607037",
+    "tmdb": 31892
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 7
+}

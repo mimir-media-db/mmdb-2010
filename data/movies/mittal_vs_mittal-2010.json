@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mittal_vs_mittal_2010",
+  "title": "Mittal v/s Mittal",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6883468",
+    "imdb": "tt1607607",
+    "tmdb": 340729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

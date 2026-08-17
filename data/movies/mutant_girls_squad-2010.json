@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mutant_girls_squad_2010",
+  "title": "Mutant Girls Squad",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3278809",
+    "imdb": "tt1590796",
+    "tmdb": 51455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

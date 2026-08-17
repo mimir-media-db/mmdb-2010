@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malarvaadi_arts_club_2010",
+  "title": "Malarvaadi Arts Club",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q263736",
+    "imdb": "tt1708491",
+    "tmdb": 215359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

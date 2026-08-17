@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_multiple_sarcasms_2010",
+  "title": "Multiple Sarcasms",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3327694",
+    "imdb": "tt0984210",
+    "tmdb": 39042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

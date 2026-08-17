@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_darling_is_a_foreigner_2010",
+  "title": "My Darling Is a Foreigner",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1971233",
+    "imdb": "tt1606197",
+    "tmdb": 48410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

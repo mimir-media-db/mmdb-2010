@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_made_in_jamel_2010",
+  "title": "Made in Jamel",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3275546"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

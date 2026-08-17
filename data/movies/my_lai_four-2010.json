@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_lai_four_2010",
+  "title": "My Lai Four",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3868853",
+    "imdb": "tt1813519",
+    "tmdb": 60923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

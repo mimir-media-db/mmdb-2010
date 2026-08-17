@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_soul_to_take_2010",
+  "title": "My Soul to Take",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q374449",
+    "imdb": "tt0872230",
+    "tmdb": 43931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 107
+}

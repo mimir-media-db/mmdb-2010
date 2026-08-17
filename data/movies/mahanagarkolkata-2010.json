@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahanagarkolkata_2010",
+  "title": "Mahanagar@Kolkata",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6733098",
+    "imdb": "tt1543284",
+    "tmdb": 401100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

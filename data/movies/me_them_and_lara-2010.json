@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_them_and_lara_2010",
+  "title": "Me, Them and Lara",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3801055",
+    "imdb": "tt1421040",
+    "tmdb": 36298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 112
+}

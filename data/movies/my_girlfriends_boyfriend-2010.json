@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_girlfriends_boyfriend_2010",
+  "title": "My Girlfriend's Boyfriend",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q939655",
+    "imdb": "tt1447793",
+    "tmdb": 46198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 81
+}

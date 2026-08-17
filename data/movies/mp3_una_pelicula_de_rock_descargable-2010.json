@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mp3_una_pelicula_de_rock_descargable_2010",
+  "title": "MP3: Una Película de Rock Descargable",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5988332",
+    "imdb": "tt1964891",
+    "tmdb": 262467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 62
+}

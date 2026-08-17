@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moozlum_2010",
+  "title": "Mooz-lum",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6908760",
+    "imdb": "tt1450328",
+    "tmdb": 66025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

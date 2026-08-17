@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_making_fuckoff_2010",
+  "title": "Making fuck-off",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3280847",
+    "imdb": "tt8508720",
+    "tmdb": 720658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

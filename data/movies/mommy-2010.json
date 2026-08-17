@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mommy_2010",
+  "title": "Mommy!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3284891",
+    "imdb": "tt1815818"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

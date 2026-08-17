@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mahou_shoujo_lyrical_nanoha_the_movie_1st_2010",
+  "title": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q872438",
+    "imdb": "tt1587216",
+    "tmdb": 50716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 130
+}

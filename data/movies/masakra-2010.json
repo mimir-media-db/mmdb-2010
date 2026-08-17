@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masakra_2010",
+  "title": "Masakra",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4283709",
+    "imdb": "tt2165975",
+    "tmdb": 77075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

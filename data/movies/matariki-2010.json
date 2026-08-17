@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matariki_2010",
+  "title": "Matariki",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6786130",
+    "imdb": "tt1447504",
+    "tmdb": 74297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

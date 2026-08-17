@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_angry_man_2010",
+  "title": "One Angry Man",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7092450",
+    "imdb": "tt1620566",
+    "tmdb": 257067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

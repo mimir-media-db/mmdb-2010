@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_big_hapa_family_2010",
+  "title": "One Big Hapa Family",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7092483",
+    "imdb": "tt1588374",
+    "tmdb": 135077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

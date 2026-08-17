@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_118_318_sevices_clients_2010",
+  "title": "Opération 118 318 sévices clients",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3354623",
+    "imdb": "tt1692206",
+    "tmdb": 70514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

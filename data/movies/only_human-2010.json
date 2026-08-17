@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_human_2010",
+  "title": "Only Human",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7094195",
+    "imdb": "tt1500847",
+    "tmdb": 277325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 73
+}

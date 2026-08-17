@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_execution_2010",
+  "title": "An Ordinary Execution",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549431",
+    "imdb": "tt1417040",
+    "tmdb": 69157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_our_time_2010",
+  "title": "Once Upon Our Time",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3201075",
+    "imdb": "tt1786536",
+    "tmdb": 644656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

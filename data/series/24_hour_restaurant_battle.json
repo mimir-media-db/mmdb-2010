@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_24_hour_restaurant_battle",
+  "title": "24 Hour Restaurant Battle",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4631854",
+    "imdb": "tt1730751",
+    "tmdb": 33209
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

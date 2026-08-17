@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fx_koala",
+  "title": "F(x) Koala",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5423557",
+    "tmdb": 90548
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

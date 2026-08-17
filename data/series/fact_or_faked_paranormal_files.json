@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fact_or_faked_paranormal_files",
+  "title": "Fact or Faked: Paranormal Files",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q774418",
+    "imdb": "tt1690621",
+    "tmdb": 33168
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

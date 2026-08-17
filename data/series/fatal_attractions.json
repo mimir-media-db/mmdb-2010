@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fatal_attractions",
+  "title": "Fatal Attractions",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5437276",
+    "imdb": "tt1714425",
+    "tmdb": 37562
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}

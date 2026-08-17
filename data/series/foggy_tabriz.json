@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_foggy_tabriz",
+  "title": "Foggy Tabriz",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4167081",
+    "imdb": "tt23942136",
+    "tmdb": 229409
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 28
+}

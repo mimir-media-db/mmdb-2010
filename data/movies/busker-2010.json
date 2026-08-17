@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_busker_2010",
+  "title": "Busker",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20653070",
+    "imdb": "tt1869323"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 48
+}

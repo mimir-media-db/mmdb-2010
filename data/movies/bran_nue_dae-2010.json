@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bran_nue_dae_2010",
+  "title": "Bran Nue Dae",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4956299",
+    "imdb": "tt1148165",
+    "tmdb": 38415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-14",
+  "runtime_minutes": 85
+}

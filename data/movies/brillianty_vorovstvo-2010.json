@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brillianty_vorovstvo_2010",
+  "title": "Brillianty. Vorovstvo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4096520",
+    "imdb": "tt3468422",
+    "tmdb": 430431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-09"
+}

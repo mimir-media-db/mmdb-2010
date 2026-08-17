@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broom_becomes_a_goldfish_2010",
+  "title": "A Broom Becomes A Goldfish",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105839",
+    "imdb": "tt1339271",
+    "tmdb": 346643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

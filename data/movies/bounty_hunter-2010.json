@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bounty_hunter_2010",
+  "title": "The Bounty Hunter",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q741737",
+    "imdb": "tt1038919",
+    "tmdb": 27573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-17",
+  "runtime_minutes": 105
+}

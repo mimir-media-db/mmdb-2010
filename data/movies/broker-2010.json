@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broker_2010",
+  "title": "Broker",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13004687",
+    "imdb": "tt1815623",
+    "tmdb": 636225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-31"
+}

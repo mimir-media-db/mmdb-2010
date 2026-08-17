@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bale_pandiya_2010",
+  "title": "Bale Pandiya",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16312683",
+    "imdb": "tt1539491",
+    "tmdb": 79672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

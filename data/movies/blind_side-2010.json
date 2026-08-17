@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_side_2010",
+  "title": "The Blind Side",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q206497",
+    "imdb": "tt0878804",
+    "tmdb": 22881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-25",
+  "runtime_minutes": 126
+}

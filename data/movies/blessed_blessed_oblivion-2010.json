@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_blessed_blessed_oblivion_2010",
+  "title": "Blessed Blessed Oblivion",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50379232",
+    "tmdb": 289042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

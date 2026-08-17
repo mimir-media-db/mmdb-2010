@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bushido_sixteen_2010",
+  "title": "Bushido Sixteen",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27901767",
+    "imdb": "tt1603273",
+    "tmdb": 245925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-27"
+}

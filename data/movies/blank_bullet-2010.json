@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blank_bullet_2010",
+  "title": "Blank Bullet",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12410177",
+    "imdb": "tt1728247",
+    "tmdb": 115358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

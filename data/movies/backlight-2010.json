@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_backlight_2010",
+  "title": "Backlight",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18962333",
+    "imdb": "tt1326238",
+    "tmdb": 59392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

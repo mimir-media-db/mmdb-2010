@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_2010",
+  "title": "Before",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124658205",
+    "imdb": "tt1636422",
+    "tmdb": 346797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

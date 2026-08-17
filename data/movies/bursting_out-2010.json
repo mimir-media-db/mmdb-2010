@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bursting_out_2010",
+  "title": "Bursting Out",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16733391",
+    "imdb": "tt1926229",
+    "tmdb": 383209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bumblebee_2010",
+  "title": "The Bumblebee",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61919365",
+    "imdb": "tt1670634",
+    "tmdb": 78553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-27",
+  "runtime_minutes": 87
+}

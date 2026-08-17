@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breakfast_lunch_dinner_2010",
+  "title": "Breakfast, Lunch, Dinner",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134430295",
+    "imdb": "tt1913003",
+    "tmdb": 234938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-13"
+}

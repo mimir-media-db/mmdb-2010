@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_things_in_the_world_2010",
+  "title": "The Best Things in the World",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3427025",
+    "imdb": "tt1054677",
+    "tmdb": 24243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-16",
+  "runtime_minutes": 105
+}

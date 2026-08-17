@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_3_2010",
+  "title": "Birth 3",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16626931",
+    "imdb": "tt1725869",
+    "tmdb": 706415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-14",
+  "runtime_minutes": 16
+}

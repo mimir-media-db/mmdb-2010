@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_batfxxx_dark_night_parody_2010",
+  "title": "BatfXXX: Dark Night Parody",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q810769",
+    "imdb": "tt1776814",
+    "tmdb": 46374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-28",
+  "runtime_minutes": 228
+}

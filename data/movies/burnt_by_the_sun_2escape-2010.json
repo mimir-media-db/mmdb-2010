@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burnt_by_the_sun_2escape_2010",
+  "title": "Burnt by the Sun 2：Escape",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q769599",
+    "imdb": "tt0403645",
+    "tmdb": 38318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-17",
+  "runtime_minutes": 181
+}

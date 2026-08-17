@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_hasenheide_2010",
+  "title": "Berlin: Hasenheide",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22677459",
+    "imdb": "tt1744582",
+    "tmdb": 839744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

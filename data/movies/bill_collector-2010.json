@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bill_collector_2010",
+  "title": "The Bill Collector",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7717981",
+    "imdb": "tt1305008",
+    "tmdb": 58729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-22",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bernard_ni_dieu_ni_chaussettes_2010",
+  "title": "Bernard, ni dieu ni chaussettes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44694882",
+    "imdb": "tt1589984",
+    "tmdb": 800431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-24"
+}

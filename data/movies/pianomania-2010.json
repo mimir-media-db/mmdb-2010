@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pianomania_2010",
+  "title": "Pianomania",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1547398",
+    "imdb": "tt1331115",
+    "tmdb": 64632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-27",
+  "runtime_minutes": 93
+}

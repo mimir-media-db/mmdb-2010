@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prosta_historia_o_milosci_2010",
+  "title": "Prosta historia o milosci",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11827857",
+    "imdb": "tt1776283",
+    "tmdb": 69239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-25"
+}

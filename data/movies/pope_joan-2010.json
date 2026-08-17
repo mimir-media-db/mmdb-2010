@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pope_joan_2010",
+  "title": "Pope Joan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q702263",
+    "imdb": "tt0458455",
+    "tmdb": 9503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-04",
+  "runtime_minutes": 148
+}

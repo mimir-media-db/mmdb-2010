@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_possession_of_david_oreilly_2010",
+  "title": "The Possession Of David O'Reilly",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998782",
+    "imdb": "tt1535617",
+    "tmdb": 49847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

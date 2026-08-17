@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pudana_last_of_the_line_2010",
+  "title": "Pudana Last of the Line",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11894634",
+    "imdb": "tt1380232",
+    "tmdb": 408956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

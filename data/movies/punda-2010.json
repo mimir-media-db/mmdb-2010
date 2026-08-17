@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_punda_2010",
+  "title": "Punda",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17078929",
+    "imdb": "tt13724530"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

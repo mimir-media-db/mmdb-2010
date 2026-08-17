@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perro_muerto_2010",
+  "title": "Perro muerto",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16618322",
+    "imdb": "tt1819643",
+    "tmdb": 366867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

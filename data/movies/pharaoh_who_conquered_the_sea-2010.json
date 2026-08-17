@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pharaoh_who_conquered_the_sea_2010",
+  "title": "The Pharaoh Who Conquered the Sea",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7756865",
+    "imdb": "tt2361525",
+    "tmdb": 740042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

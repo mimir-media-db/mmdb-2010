@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penthouse_2010",
+  "title": "The Penthouse",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7756586",
+    "imdb": "tt0929618",
+    "tmdb": 26353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-02",
+  "runtime_minutes": 85
+}

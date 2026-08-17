@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pyaar_kaa_fundaa_2010",
+  "title": "Pyaar Kaa Fundaa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114714797",
+    "imdb": "tt8302626"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

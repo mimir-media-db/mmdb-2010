@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pizza_bethlehem_2010",
+  "title": "Pizza Bethlehem",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55516367",
+    "imdb": "tt2753478",
+    "tmdb": 389151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

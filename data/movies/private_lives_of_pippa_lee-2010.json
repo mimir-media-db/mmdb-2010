@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_private_lives_of_pippa_lee_2010",
+  "title": "The Private Lives of Pippa Lee",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1372295",
+    "imdb": "tt1134629",
+    "tmdb": 4475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-01",
+  "runtime_minutes": 93
+}

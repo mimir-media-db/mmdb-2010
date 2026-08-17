@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pornstar_superheroes_2010",
+  "title": "Pornstar Superheroes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139577913",
+    "imdb": "tt1644663",
+    "tmdb": 43169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 220
+}

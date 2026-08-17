@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_teacher_2010",
+  "title": "The Perfect Teacher",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549884",
+    "imdb": "tt1663689",
+    "tmdb": 68193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_position_among_the_stars_2010",
+  "title": "Position Among the Stars",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2080877",
+    "imdb": "tt1742178",
+    "tmdb": 58287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-17",
+  "runtime_minutes": 115
+}

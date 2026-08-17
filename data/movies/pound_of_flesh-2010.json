@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pound_of_flesh_2010",
+  "title": "Pound of Flesh",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20093889",
+    "imdb": "tt1196338",
+    "tmdb": 71287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

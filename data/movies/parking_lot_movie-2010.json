@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parking_lot_movie_2010",
+  "title": "The Parking Lot Movie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7756161",
+    "imdb": "tt1504300",
+    "tmdb": 56113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-15"
+}

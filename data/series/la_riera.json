@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_riera",
+  "title": "La Riera",
+  "start_year": 2010,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16746821",
+    "imdb": "tt1570512",
+    "tmdb": 59419
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 1534
+}

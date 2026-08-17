@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_locas_de_amor_mexican_tv_series",
+  "title": "Locas de amor (Mexican TV series)",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5978220",
+    "imdb": "tt1649584"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

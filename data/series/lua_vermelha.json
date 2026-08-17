@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lua_vermelha",
+  "title": "Lua Vermelha",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3284205",
+    "imdb": "tt1538439",
+    "tmdb": 40334
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 225
+}

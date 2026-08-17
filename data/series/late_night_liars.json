@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_late_night_liars",
+  "title": "Late Night Liars",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6495265",
+    "imdb": "tt1672204",
+    "tmdb": 32985
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

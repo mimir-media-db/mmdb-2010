@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_las_aparicio",
+  "title": "Las Aparicio",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q422575",
+    "imdb": "tt1645007",
+    "tmdb": 34515
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 120
+}

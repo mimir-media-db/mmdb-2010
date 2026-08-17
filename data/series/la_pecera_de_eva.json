@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_pecera_de_eva",
+  "title": "La pecera de Eva",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5484197",
+    "imdb": "tt1538438",
+    "tmdb": 62537
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 247
+}

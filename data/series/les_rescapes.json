@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_rescapes",
+  "title": "Les Rescapés",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q531851",
+    "imdb": "tt1734326",
+    "tmdb": 35084
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

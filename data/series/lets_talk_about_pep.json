@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_talk_about_pep",
+  "title": "Let's Talk About Pep",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q16159378",
+    "imdb": "tt1592811",
+    "tmdb": 35623
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

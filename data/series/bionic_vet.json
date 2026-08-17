@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bionic_vet",
+  "title": "The Bionic Vet",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7718038",
+    "imdb": "tt1701106",
+    "tmdb": 33115
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

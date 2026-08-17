@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_buzz_and_tell",
+  "title": "Buzz and Tell",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5003563",
+    "imdb": "tt3857696",
+    "tmdb": 59924
+  },
+  "last_updated": "2026-08-17"
+}

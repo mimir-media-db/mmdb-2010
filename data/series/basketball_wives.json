@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_basketball_wives",
+  "title": "Basketball Wives",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4867658",
+    "imdb": "tt1637756",
+    "tmdb": 32789
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 61
+}

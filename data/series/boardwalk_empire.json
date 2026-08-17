@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boardwalk_empire",
+  "title": "Boardwalk Empire",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q585758",
+    "imdb": "tt0979432",
+    "tmdb": 1621
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 56
+}

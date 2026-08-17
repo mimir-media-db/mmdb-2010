@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_fat_gypsy_weddings",
+  "title": "Big Fat Gypsy Weddings",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4905671",
+    "imdb": "tt1836351",
+    "tmdb": 37694
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

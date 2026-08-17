@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_white_world_2010",
+  "title": "White White World",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12627920",
+    "imdb": "tt1450635",
+    "tmdb": 81703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 121
+}

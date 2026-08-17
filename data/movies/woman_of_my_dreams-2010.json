@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_of_my_dreams_2010",
+  "title": "The Woman of My Dreams",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16570420",
+    "imdb": "tt1548597",
+    "tmdb": 58223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

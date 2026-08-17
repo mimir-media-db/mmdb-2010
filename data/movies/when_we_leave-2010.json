@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_we_leave_2010",
+  "title": "When We Leave",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q558297",
+    "imdb": "tt1288376",
+    "tmdb": 44246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-13",
+  "runtime_minutes": 119
+}

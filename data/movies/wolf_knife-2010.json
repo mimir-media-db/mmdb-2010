@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_knife_2010",
+  "title": "The Wolf Knife",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108101562",
+    "imdb": "tt1521080",
+    "tmdb": 85957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

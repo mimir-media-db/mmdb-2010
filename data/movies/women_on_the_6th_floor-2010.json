@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_women_on_the_6th_floor_2010",
+  "title": "The Women on the 6th Floor",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2700632",
+    "imdb": "tt1805297",
+    "tmdb": 57243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-23",
+  "runtime_minutes": 107
+}

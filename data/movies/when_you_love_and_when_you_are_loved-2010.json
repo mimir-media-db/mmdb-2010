@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_you_love_and_when_you_are_loved_2010",
+  "title": "When You Love And When You Are Loved",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11493174",
+    "imdb": "tt33322166",
+    "tmdb": 355776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

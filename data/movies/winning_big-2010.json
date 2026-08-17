@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_winning_big_2010",
+  "title": "Winning Big",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999956",
+    "imdb": "tt1683034"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-01"
+}

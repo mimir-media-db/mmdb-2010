@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waking_sleeping_beauty_2010",
+  "title": "Waking Sleeping Beauty",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795562",
+    "imdb": "tt1159961",
+    "tmdb": 47813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-26",
+  "runtime_minutes": 86
+}

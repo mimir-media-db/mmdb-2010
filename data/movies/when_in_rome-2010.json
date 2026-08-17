@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_in_rome_2010",
+  "title": "When in Rome",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1139016",
+    "imdb": "tt1185416",
+    "tmdb": 13477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-27",
+  "runtime_minutes": 87
+}

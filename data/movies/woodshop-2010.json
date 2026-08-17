@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woodshop_2010",
+  "title": "Woodshop",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8033299",
+    "imdb": "tt1189267",
+    "tmdb": 43926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

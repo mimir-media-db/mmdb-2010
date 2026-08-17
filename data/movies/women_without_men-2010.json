@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_women_without_men_2010",
+  "title": "Women Without Men",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q327667",
+    "imdb": "tt1498887",
+    "tmdb": 44159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-01",
+  "runtime_minutes": 95
+}

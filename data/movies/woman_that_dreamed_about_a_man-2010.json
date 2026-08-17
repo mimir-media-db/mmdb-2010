@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_that_dreamed_about_a_man_2010",
+  "title": "The Woman That Dreamed About a Man",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4993546",
+    "imdb": "tt1239290",
+    "tmdb": 41530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-21",
+  "runtime_minutes": 90
+}

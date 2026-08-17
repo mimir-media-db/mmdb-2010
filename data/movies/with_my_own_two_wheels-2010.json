@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_my_own_two_wheels_2010",
+  "title": "With My Own Two Wheels",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8028027",
+    "imdb": "tt1797545",
+    "tmdb": 1691905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 44
+}

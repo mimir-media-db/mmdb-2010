@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_writing_on_the_wall_2010",
+  "title": "The Writing on the Wall",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17416338",
+    "imdb": "tt1572783",
+    "tmdb": 49818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-27",
+  "runtime_minutes": 88
+}

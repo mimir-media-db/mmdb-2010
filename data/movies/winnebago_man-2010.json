@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winnebago_man_2010",
+  "title": "Winnebago Man",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2917907",
+    "imdb": "tt1396557",
+    "tmdb": 42918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-09",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tibet_in_song_2010",
+  "title": "Tibet in Song",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3528093",
+    "imdb": "tt1334566",
+    "tmdb": 545834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 86
+}

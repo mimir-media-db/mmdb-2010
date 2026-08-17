@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tough_luck_2010",
+  "title": "Tough Luck",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3571131",
+    "imdb": "tt1715730",
+    "tmdb": 51400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 94
+}

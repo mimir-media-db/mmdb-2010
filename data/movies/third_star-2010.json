@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_third_star_2010",
+  "title": "Third Star",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4462627",
+    "imdb": "tt1510906",
+    "tmdb": 75170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

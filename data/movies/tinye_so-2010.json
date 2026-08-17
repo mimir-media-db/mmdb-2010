@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tinye_so_2010",
+  "title": "Tinye So",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3991648",
+    "imdb": "tt1748263",
+    "tmdb": 544012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 25
+}

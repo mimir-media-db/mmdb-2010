@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_together_is_too_much_2010",
+  "title": "Together Is Too Much",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3205686",
+    "imdb": "tt1570577",
+    "tmdb": 53980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

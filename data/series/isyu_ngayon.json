@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_isyu_ngayon",
+  "title": "Isyu Ngayon",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21161048"
+  },
+  "last_updated": "2026-08-17"
+}

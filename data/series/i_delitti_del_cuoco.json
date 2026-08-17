@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_delitti_del_cuoco",
+  "title": "I delitti del cuoco",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3790671",
+    "imdb": "tt1677281",
+    "tmdb": 40438
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

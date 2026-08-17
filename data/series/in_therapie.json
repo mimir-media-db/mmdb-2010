@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_therapie",
+  "title": "In therapie",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3518315",
+    "imdb": "tt1655076",
+    "tmdb": 40199
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 61
+}

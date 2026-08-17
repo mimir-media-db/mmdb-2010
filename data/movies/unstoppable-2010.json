@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unstoppable_2010",
+  "title": "Unstoppable",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q644276",
+    "imdb": "tt0477080",
+    "tmdb": 44048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-26",
+  "runtime_minutes": 98
+}

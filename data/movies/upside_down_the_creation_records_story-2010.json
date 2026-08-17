@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_upside_down_the_creation_records_story_2010",
+  "title": "Upside Down: The Creation Records Story",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7899268",
+    "imdb": "tt1764726",
+    "tmdb": 64780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 101
+}

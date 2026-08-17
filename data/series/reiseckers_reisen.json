@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_reiseckers_reisen",
+  "title": "Reiseckers Reisen",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q42539871",
+    "imdb": "tt4102350"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 58
+}

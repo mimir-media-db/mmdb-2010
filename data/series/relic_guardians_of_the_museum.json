@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_relic_guardians_of_the_museum",
+  "title": "Relic: Guardians of the Museum",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7311047",
+    "imdb": "tt2158922",
+    "tmdb": 32271
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

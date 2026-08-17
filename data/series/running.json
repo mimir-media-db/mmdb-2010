@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_running",
+  "title": "Running",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12594034",
+    "tmdb": 46526
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

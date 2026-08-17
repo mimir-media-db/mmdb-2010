@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rytteriet",
+  "title": "Rytteriet",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12334063",
+    "imdb": "tt1746088",
+    "tmdb": 45444
+  },
+  "last_updated": "2026-08-17"
+}

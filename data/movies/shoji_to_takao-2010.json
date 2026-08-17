@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shoji_to_takao_2010",
+  "title": "Shoji to Takao",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11308222",
+    "imdb": "tt1865501",
+    "tmdb": 1634553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suwanda_denuna_jeewithe_2010",
+  "title": "Suwanda Denuna Jeewithe",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7650550",
+    "imdb": "tt7619886",
+    "tmdb": 1560877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-11"
+}

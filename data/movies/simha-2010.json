@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_simha_2010",
+  "title": "Simha",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1010058",
+    "imdb": "tt1582604",
+    "tmdb": 54404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-30"
+}

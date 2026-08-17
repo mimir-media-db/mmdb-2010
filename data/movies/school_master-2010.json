@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_school_master_2010",
+  "title": "School Master",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17081608",
+    "imdb": "tt13730178",
+    "tmdb": 1522845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spreewaldkrimi_der_tote_im_spreewald_2010",
+  "title": "Spreewaldkrimi: Der Tote im Spreewald",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28528223",
+    "imdb": "tt5163002"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-26",
+  "runtime_minutes": 94
+}

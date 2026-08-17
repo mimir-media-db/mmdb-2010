@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_siren_2010",
+  "title": "Siren",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004220",
+    "imdb": "tt1548635",
+    "tmdb": 58718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

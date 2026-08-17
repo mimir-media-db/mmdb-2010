@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samurai_sentai_shinkenger_returns_2010",
+  "title": "Samurai Sentai Shinkenger Returns",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4216264",
+    "imdb": "tt2365867",
+    "tmdb": 271952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-11"
+}

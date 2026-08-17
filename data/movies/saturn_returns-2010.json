@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saturn_returns_2010",
+  "title": "Saturn Returns",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7426800",
+    "imdb": "tt1337535",
+    "tmdb": 152900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-15"
+}

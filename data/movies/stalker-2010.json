@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stalker_2010",
+  "title": "Stalker",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16912008",
+    "imdb": "tt1411236",
+    "tmdb": 90291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

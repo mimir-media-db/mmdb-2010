@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skipped_parts_2010",
+  "title": "Skipped Parts",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4159517",
+    "imdb": "tt1718766",
+    "tmdb": 51285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-16",
+  "runtime_minutes": 89
+}

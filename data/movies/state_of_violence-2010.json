@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_state_of_violence_2010",
+  "title": "State of Violence",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5483963",
+    "imdb": "tt1722517",
+    "tmdb": 257760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-11",
+  "runtime_minutes": 79
+}

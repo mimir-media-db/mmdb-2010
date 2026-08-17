@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stone_2010",
+  "title": "Stone",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1508501",
+    "imdb": "tt1423995",
+    "tmdb": 44113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-10",
+  "runtime_minutes": 101
+}

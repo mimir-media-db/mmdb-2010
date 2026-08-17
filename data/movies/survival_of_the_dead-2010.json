@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_survival_of_the_dead_2010",
+  "title": "Survival of the Dead",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1277329",
+    "imdb": "tt1134854",
+    "tmdb": 29426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-06",
+  "runtime_minutes": 90
+}

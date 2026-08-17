@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soubrettes_services_2010",
+  "title": "Soubrettes Services",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139850379",
+    "imdb": "tt2062997",
+    "tmdb": 196165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sketches_of_kaitan_city_2010",
+  "title": "Sketches of Kaitan City",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7534750",
+    "imdb": "tt1703068",
+    "tmdb": 83944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 152
+}

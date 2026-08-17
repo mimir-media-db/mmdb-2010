@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spark_of_being_2010",
+  "title": "Spark of Being",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16560431",
+    "imdb": "tt1667485",
+    "tmdb": 297631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-22",
+  "runtime_minutes": 68
+}

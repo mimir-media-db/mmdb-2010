@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suwi_2010",
+  "title": "Suwi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73066623",
+    "imdb": "tt1594556",
+    "tmdb": 471221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 78
+}

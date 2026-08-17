@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spud_2010",
+  "title": "Spud",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7581472",
+    "imdb": "tt1059969",
+    "tmdb": 61410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-03"
+}

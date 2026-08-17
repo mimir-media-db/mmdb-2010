@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skrzydlate_swinie_2010",
+  "title": "Skrzydlate świnie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9338222",
+    "imdb": "tt1712570",
+    "tmdb": 61101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-05",
+  "runtime_minutes": 99
+}

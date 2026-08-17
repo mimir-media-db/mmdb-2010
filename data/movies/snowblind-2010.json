@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snowblind_2010",
+  "title": "Snowblind",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7548488",
+    "imdb": "tt1578709",
+    "tmdb": 49594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_duper_super_sleuths_2010",
+  "title": "Super Duper Super Sleuths",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7642308",
+    "imdb": "tt1840947",
+    "tmdb": 287119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-06"
+}

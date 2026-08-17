@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_star_war_the_third_gathers_backstroke_of_the_west_2010",
+  "title": "Star War the Third Gathers: Backstroke of the West",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130257185",
+    "imdb": "tt18183916",
+    "tmdb": 1434386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

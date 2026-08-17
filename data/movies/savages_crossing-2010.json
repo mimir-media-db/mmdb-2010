@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_savages_crossing_2010",
+  "title": "Savages Crossing",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543642",
+    "imdb": "tt1353810",
+    "tmdb": 217665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 82
+}

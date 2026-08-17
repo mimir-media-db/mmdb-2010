@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sella_turcica_2010",
+  "title": "Sella Turcica",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7448594",
+    "imdb": "tt1773039",
+    "tmdb": 88118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

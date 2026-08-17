@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stool_pigeon_2010",
+  "title": "The Stool Pigeon",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1075645",
+    "imdb": "tt1535492",
+    "tmdb": 48417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26",
+  "runtime_minutes": 112
+}

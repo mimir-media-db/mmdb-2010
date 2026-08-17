@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_showbitch_2010",
+  "title": "ShowBitch",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20002450",
+    "imdb": "tt1776979",
+    "tmdb": 347309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

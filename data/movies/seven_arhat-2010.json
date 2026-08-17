@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_arhat_2010",
+  "title": "Seven Arhat",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10864586",
+    "imdb": "tt2044847",
+    "tmdb": 150234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

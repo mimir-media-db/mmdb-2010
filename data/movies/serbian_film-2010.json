@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_serbian_film_2010",
+  "title": "A Serbian Film",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300552",
+    "imdb": "tt1273235",
+    "tmdb": 73861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-15",
+  "runtime_minutes": 104
+}

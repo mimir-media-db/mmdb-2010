@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seres_genesis_2010",
+  "title": "Seres: Genesis",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6125256",
+    "imdb": "tt1114731",
+    "tmdb": 50545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-24",
+  "runtime_minutes": 110
+}

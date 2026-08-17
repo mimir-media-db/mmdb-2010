@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_somewhere_2010",
+  "title": "Somewhere",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1338368",
+    "imdb": "tt1421051",
+    "tmdb": 39210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-11",
+  "runtime_minutes": 98
+}

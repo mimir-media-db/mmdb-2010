@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sindhu_samaveli_2010",
+  "title": "Sindhu Samaveli",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7522248",
+    "imdb": "tt2296953",
+    "tmdb": 116648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-03"
+}

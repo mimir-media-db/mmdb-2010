@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smoorverliefd_2010",
+  "title": "Smoorverliefd",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1981617",
+    "imdb": "tt1506965",
+    "tmdb": 69740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-08",
+  "runtime_minutes": 90
+}

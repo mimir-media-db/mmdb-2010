@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_in_arms_2010",
+  "title": "Sisters in Arms",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19840826",
+    "imdb": "tt1934394"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

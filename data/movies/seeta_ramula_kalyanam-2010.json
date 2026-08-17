@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seeta_ramula_kalyanam_2010",
+  "title": "Seeta Ramula Kalyanam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7445957",
+    "imdb": "tt1582601",
+    "tmdb": 226831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-22"
+}

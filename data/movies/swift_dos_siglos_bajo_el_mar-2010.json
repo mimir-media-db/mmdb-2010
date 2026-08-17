@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swift_dos_siglos_bajo_el_mar_2010",
+  "title": "Swift: Dos siglos bajo el mar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135686667",
+    "imdb": "tt37856761"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

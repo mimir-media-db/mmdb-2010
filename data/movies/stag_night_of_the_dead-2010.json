@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stag_night_of_the_dead_2010",
+  "title": "Stag Night of the Dead",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14954312",
+    "imdb": "tt1183489",
+    "tmdb": 56554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

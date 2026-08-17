@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stoute_boudjies_2010",
+  "title": "Stoute Boudjies",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13036114",
+    "imdb": "tt2160361",
+    "tmdb": 60210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

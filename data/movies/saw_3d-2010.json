@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saw_3d_2010",
+  "title": "Saw 3D",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q676284",
+    "imdb": "tt1477076",
+    "tmdb": 41439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-21",
+  "runtime_minutes": 90
+}

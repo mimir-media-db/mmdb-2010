@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sword_of_desperation_2010",
+  "title": "Sword of Desperation",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11490649",
+    "imdb": "tt1606761",
+    "tmdb": 55884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-10",
+  "runtime_minutes": 114
+}

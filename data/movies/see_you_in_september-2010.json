@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_see_you_in_september_2010",
+  "title": "See You in September",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19059310",
+    "imdb": "tt1073246",
+    "tmdb": 50198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

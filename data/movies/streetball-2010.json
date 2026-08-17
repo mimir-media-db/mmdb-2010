@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_streetball_2010",
+  "title": "Streetball",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116196254",
+    "imdb": "tt1543895",
+    "tmdb": 319815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

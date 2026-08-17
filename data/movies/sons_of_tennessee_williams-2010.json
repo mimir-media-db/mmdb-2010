@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_tennessee_williams_2010",
+  "title": "The Sons of Tennessee Williams",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107185773",
+    "imdb": "tt1621019",
+    "tmdb": 91337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

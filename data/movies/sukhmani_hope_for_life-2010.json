@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sukhmani_hope_for_life_2010",
+  "title": "Sukhmani: Hope for Life",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7635807",
+    "imdb": "tt1620971",
+    "tmdb": 340726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

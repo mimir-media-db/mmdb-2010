@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_freedom_2010",
+  "title": "The Sound of Freedom",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15987359",
+    "imdb": "tt3041560",
+    "tmdb": 896381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-01",
+  "runtime_minutes": 97
+}

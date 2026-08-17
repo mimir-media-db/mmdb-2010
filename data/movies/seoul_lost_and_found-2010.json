@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_seoul_lost_and_found_2010",
+  "title": "Seoul Lost and Found",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28026145",
+    "imdb": "tt3890728"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

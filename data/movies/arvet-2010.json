@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arvet_2010",
+  "title": "Arvet",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10719170",
+    "imdb": "tt1533958",
+    "tmdb": 284321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

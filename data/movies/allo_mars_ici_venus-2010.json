@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_allo_mars_ici_venus_2010",
+  "title": "Allô Mars, ici Vénus",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32859513",
+    "imdb": "tt1741369"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

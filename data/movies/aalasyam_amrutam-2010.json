@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aalasyam_amrutam_2010",
+  "title": "Aalasyam Amrutam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15690058",
+    "imdb": "tt1795548",
+    "tmdb": 307736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

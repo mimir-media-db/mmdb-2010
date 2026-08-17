@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_armando_o_la_buena_vecindad_2010",
+  "title": "Armando (o la buena vecindad)",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140290530",
+    "imdb": "tt1984113",
+    "tmdb": 782675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

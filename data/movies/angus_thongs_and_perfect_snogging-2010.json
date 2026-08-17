@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angus_thongs_and_perfect_snogging_2010",
+  "title": "Angus, Thongs and Perfect Snogging",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2279015",
+    "imdb": "tt0963743",
+    "tmdb": 12689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-19",
+  "runtime_minutes": 100
+}

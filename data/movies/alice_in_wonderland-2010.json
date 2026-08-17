@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alice_in_wonderland_2010",
+  "title": "Alice in Wonderland",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q174385",
+    "imdb": "tt1014759",
+    "tmdb": 12155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-25",
+  "runtime_minutes": 109
+}

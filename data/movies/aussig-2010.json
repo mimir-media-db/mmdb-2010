@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aussig_2010",
+  "title": "Aussig",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10859176",
+    "imdb": "tt2022337",
+    "tmdb": 978976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-23",
+  "runtime_minutes": 88
+}

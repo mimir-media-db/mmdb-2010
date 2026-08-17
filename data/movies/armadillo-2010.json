@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_armadillo_2010",
+  "title": "Armadillo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1029748",
+    "imdb": "tt1640680",
+    "tmdb": 37828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-16",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_america_at_risk_2010",
+  "title": "America at Risk",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60726325",
+    "imdb": "tt1736538",
+    "tmdb": 420140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-29"
+}

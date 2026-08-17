@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aung_san_suu_kyi_lady_of_no_fear_2010",
+  "title": "Aung San Suu Kyi - Lady of No Fear",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494394",
+    "imdb": "tt1789697",
+    "tmdb": 326305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 58
+}

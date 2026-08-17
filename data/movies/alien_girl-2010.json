@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_girl_2010",
+  "title": "Alien Girl",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3676117",
+    "imdb": "tt1653649",
+    "tmdb": 38186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-17",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amelie_au_pays_des_bodins_2010",
+  "title": "Amélie au pays des Bodin's",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21426925",
+    "imdb": "tt1636727",
+    "tmdb": 491392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

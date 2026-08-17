@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akibat_pergaulan_bebas_2010",
+  "title": "Akibat Pergaulan Bebas",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17997897",
+    "imdb": "tt1657318",
+    "tmdb": 381129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

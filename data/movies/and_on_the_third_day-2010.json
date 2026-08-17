@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_on_the_third_day_2010",
+  "title": "And on the Third Day",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12407096",
+    "imdb": "tt1619481",
+    "tmdb": 103279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 118
+}

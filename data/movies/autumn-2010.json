@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autumn_2010",
+  "title": "Autumn",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4827126",
+    "imdb": "tt1330591",
+    "tmdb": 12417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-13",
+  "runtime_minutes": 99
+}

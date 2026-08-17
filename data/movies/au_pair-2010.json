@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_au_pair_2010",
+  "title": "Au pair",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33526768",
+    "imdb": "tt1920848"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 20
+}

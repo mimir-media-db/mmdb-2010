@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_albert_schweitzer_anatomy_of_a_saint_2010",
+  "title": "Albert Schweitzer - Anatomy of a Saint",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15261460",
+    "imdb": "tt1698475",
+    "tmdb": 214750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ashes_2010",
+  "title": "Ashes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20091546",
+    "imdb": "tt1674769",
+    "tmdb": 89369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

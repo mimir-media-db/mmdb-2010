@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_abujh_bou_2010",
+  "title": "Abujh Bou",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31724194",
+    "imdb": "tt5342462"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

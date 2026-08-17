@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_auf_wiedersehen_finnland_2010",
+  "title": "Auf Wiedersehen Finnland",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11853341",
+    "imdb": "tt1582474",
+    "tmdb": 197908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

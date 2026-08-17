@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anandhapurathu_veedu_2010",
+  "title": "Anandhapurathu Veedu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4751363",
+    "imdb": "tt4317600",
+    "tmdb": 117012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-09"
+}

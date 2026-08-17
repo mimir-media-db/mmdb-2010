@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_mystic_2010",
+  "title": "American Mystic",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17144689",
+    "imdb": "tt1414353",
+    "tmdb": 169554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-01",
+  "runtime_minutes": 80
+}

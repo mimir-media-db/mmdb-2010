@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_axis_of_war_my_long_march_2010",
+  "title": "Axis of War: My Long March",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85880186",
+    "imdb": "tt1735845",
+    "tmdb": 80658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-24",
+  "runtime_minutes": 96
+}

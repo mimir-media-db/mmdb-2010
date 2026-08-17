@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_bailey_the_lost_puppy_2010",
+  "title": "Adventures of Bailey: The Lost Puppy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99734991",
+    "imdb": "tt1734063",
+    "tmdb": 53054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

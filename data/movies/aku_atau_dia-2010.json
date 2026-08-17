@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aku_atau_dia_2010",
+  "title": "Aku atau Dia",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12471324",
+    "imdb": "tt1774281",
+    "tmdb": 656215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-28",
+  "runtime_minutes": 97
+}

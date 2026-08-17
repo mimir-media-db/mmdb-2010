@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pajaros_volando_2010",
+  "title": "Pájaros Volando",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6093690",
+    "imdb": "tt1674098",
+    "tmdb": 94180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 105
+}

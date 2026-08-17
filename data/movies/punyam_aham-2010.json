@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punyam_aham_2010",
+  "title": "Punyam Aham",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7260633",
+    "imdb": "tt1838630",
+    "tmdb": 384031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

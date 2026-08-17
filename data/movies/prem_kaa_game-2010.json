@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prem_kaa_game_2010",
+  "title": "Prem Kaa Game",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7240131",
+    "imdb": "tt1610418",
+    "tmdb": 55274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

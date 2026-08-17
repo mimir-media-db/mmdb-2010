@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pleure_en_silence_2010",
+  "title": "Pleure en silence",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3392370",
+    "imdb": "tt1073508",
+    "tmdb": 576399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poetry_2010",
+  "title": "Poetry",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q486803",
+    "imdb": "tt1287878",
+    "tmdb": 47909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 139
+}

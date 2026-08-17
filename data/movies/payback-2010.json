@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_payback_2010",
+  "title": "Payback",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7156694",
+    "imdb": "tt1740017",
+    "tmdb": 270386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

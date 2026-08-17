@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paiyaa_2010",
+  "title": "Paiyaa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473406",
+    "imdb": "tt1496832",
+    "tmdb": 39523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

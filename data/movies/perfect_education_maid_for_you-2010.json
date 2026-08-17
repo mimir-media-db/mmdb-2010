@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_education_maid_for_you_2010",
+  "title": "Perfect Education: Maid, for You",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3899795",
+    "imdb": "tt1556176",
+    "tmdb": 109149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

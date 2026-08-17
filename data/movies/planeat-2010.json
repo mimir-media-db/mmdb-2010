@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_planeat_2010",
+  "title": "Planeat",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7201022",
+    "imdb": "tt1467030",
+    "tmdb": 124709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

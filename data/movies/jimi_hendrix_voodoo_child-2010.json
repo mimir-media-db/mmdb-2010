@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jimi_hendrix_voodoo_child_2010",
+  "title": "Jimi Hendrix: Voodoo Child",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61112279",
+    "imdb": "tt2060510",
+    "tmdb": 78997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 91
+}

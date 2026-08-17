@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_like_the_queen_of_england_2010",
+  "title": "Just Like the Queen of England",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52063042",
+    "imdb": "tt1982729"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

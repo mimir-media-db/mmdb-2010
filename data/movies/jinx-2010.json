@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jinx_2010",
+  "title": "Jinx",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12487927",
+    "imdb": "tt1591001",
+    "tmdb": 522160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_if_i_am_not_there_2010",
+  "title": "As If I Am Not There",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4802900",
+    "imdb": "tt1456477",
+    "tmdb": 78098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_accomplices_2010",
+  "title": "Accomplices",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2990547",
+    "imdb": "tt1292644",
+    "tmdb": 51853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aval_peyar_thamizharasi_2010",
+  "title": "Aval Peyar Thamizharasi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4827456",
+    "imdb": "tt1560613",
+    "tmdb": 79353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

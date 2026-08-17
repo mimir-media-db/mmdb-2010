@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aptharakshaka_2010",
+  "title": "Aptharakshaka",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4782243",
+    "imdb": "tt1616085",
+    "tmdb": 199583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

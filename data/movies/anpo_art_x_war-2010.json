@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anpo_art_x_war_2010",
+  "title": "ANPO: Art X War",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4653020",
+    "imdb": "tt1692253",
+    "tmdb": 154026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

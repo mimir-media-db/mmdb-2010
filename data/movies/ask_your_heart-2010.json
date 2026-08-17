@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ask_your_heart_2010",
+  "title": "Ask Your Heart",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6070531",
+    "imdb": "tt1592303",
+    "tmdb": 52149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aridhu_aridhu_2010",
+  "title": "Aridhu Aridhu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4790324",
+    "imdb": "tt4322012",
+    "tmdb": 116187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

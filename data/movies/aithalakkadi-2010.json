@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aithalakkadi_2010",
+  "title": "Aithalakkadi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4699306",
+    "imdb": "tt2979570",
+    "tmdb": 282608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

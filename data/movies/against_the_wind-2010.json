@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_against_the_wind_2010",
+  "title": "Against the Wind",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6161841",
+    "imdb": "tt1955044",
+    "tmdb": 97152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

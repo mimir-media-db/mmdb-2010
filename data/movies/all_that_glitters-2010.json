@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_that_glitters_2010",
+  "title": "All That Glitters",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3494885",
+    "imdb": "tt1587877",
+    "tmdb": 44269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

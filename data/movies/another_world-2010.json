@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_world_2010",
+  "title": "Another World",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4003637",
+    "imdb": "tt1544601",
+    "tmdb": 67269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 103
+}

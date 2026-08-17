@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amexica_2010",
+  "title": "Amexica",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4745960",
+    "imdb": "tt1249428",
+    "tmdb": 85219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

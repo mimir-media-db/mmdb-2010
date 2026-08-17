@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amigo_2010",
+  "title": "Amigo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4746229",
+    "imdb": "tt1562847",
+    "tmdb": 72913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 124
+}

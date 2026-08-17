@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_everything_is_going_fine_2010",
+  "title": "And Everything Is Going Fine",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3615279",
+    "imdb": "tt1122614",
+    "tmdb": 50779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

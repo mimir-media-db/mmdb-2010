@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_archipelago_2010",
+  "title": "Archipelago",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4786916",
+    "imdb": "tt1527835",
+    "tmdb": 64655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 110
+}

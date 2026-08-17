@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alexander_the_great_2010",
+  "title": "Alexander the Great",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4720510",
+    "imdb": "tt1660303",
+    "tmdb": 215317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aurelie_laflammes_diary_2010",
+  "title": "Aurelie Laflamme's Diary",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3223700",
+    "imdb": "tt1688068",
+    "tmdb": 62118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

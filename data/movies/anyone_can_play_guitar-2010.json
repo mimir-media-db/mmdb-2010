@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anyone_can_play_guitar_2010",
+  "title": "Anyone Can Play Guitar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4778262",
+    "imdb": "tt1385477",
+    "tmdb": 87848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

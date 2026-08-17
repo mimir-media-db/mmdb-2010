@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sprawiedliwi",
+  "title": "Sprawiedliwi",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9340608",
+    "imdb": "tt1695682",
+    "tmdb": 156887
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

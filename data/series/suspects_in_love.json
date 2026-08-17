@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_suspects_in_love",
+  "title": "Suspects in Love",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7649172",
+    "imdb": "tt10111724",
+    "tmdb": 32507
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

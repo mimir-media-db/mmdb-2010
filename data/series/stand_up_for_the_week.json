@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stand_up_for_the_week",
+  "title": "Stand Up for the Week",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7598116",
+    "imdb": "tt1708367",
+    "tmdb": 33094
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 42
+}

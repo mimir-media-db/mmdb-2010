@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scrappers",
+  "title": "Scrappers",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7438789",
+    "imdb": "tt1697029",
+    "tmdb": 33764
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

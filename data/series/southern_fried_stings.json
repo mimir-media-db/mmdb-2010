@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_southern_fried_stings",
+  "title": "Southern Fried Stings",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7569935",
+    "imdb": "tt1586637",
+    "tmdb": 32541
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 27
+}

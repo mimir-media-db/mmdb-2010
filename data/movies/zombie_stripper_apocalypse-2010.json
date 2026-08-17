@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_stripper_apocalypse_2010",
+  "title": "Zombie Stripper Apocalypse",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4906577",
+    "imdb": "tt1642252",
+    "tmdb": 47519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 73
+}

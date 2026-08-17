@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_india_hindi_tv_series",
+  "title": "MasterChef India (Hindi TV series)",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6784952",
+    "imdb": "tt7822166",
+    "tmdb": 33982
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

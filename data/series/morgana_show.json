@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_morgana_show",
+  "title": "The Morgana Show",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7752255",
+    "imdb": "tt1792496",
+    "tmdb": 34959
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

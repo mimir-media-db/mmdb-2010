@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_melissa_joey",
+  "title": "Melissa & Joey",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1064803",
+    "imdb": "tt1597420",
+    "tmdb": 31936
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 104
+}

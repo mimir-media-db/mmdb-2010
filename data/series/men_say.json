@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_men_say",
+  "title": "Men say",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133820509"
+  },
+  "last_updated": "2026-08-17"
+}

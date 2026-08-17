@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mocosos_latosos",
+  "title": "Mocosos Latosos",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q134238949",
+    "imdb": "tt6383142",
+    "tmdb": 204808
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

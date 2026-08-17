@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mirador",
+  "title": "Mirador",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q3315835",
+    "imdb": "tt1572863",
+    "tmdb": 45426
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

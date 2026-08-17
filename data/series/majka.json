@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_majka",
+  "title": "Majka",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q11766454",
+    "imdb": "tt1671173",
+    "tmdb": 36186
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 190
+}

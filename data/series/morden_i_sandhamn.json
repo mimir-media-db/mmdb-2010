@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_morden_i_sandhamn",
+  "title": "Morden i Sandhamn",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4132634",
+    "imdb": "tt1846197",
+    "tmdb": 55270
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 35
+}

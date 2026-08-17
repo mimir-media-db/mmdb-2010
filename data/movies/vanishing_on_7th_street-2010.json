@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vanishing_on_7th_street_2010",
+  "title": "Vanishing on 7th Street",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1213427",
+    "imdb": "tt1452628",
+    "tmdb": 43552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

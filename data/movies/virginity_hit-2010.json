@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_virginity_hit_2010",
+  "title": "The Virginity Hit",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1794615",
+    "imdb": "tt1695994",
+    "tmdb": 42889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

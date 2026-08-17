@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_village_of_shadows_2010",
+  "title": "The Village of Shadows",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3228138",
+    "imdb": "tt1183307",
+    "tmdb": 61826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 103
+}

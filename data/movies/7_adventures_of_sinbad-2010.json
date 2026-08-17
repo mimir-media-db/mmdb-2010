@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_adventures_of_sinbad_2010",
+  "title": "The 7 Adventures of Sinbad",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2121849",
+    "imdb": "tt1636629",
+    "tmdb": 44773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miral_2010",
+  "title": "Miral",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q540186",
+    "imdb": "tt1366409",
+    "tmdb": 45595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 112
+}

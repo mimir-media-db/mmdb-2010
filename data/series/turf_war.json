@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_turf_war",
+  "title": "Turf War",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7854866",
+    "imdb": "tt1620385"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 27
+}

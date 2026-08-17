@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_os_caras_de_pau",
+  "title": "Os Caras de Pau",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q779039",
+    "imdb": "tt2049207",
+    "tmdb": 38882
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 115
+}

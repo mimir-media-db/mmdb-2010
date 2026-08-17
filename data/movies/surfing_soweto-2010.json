@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_surfing_soweto_2010",
+  "title": "Surfing Soweto",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3505320",
+    "imdb": "tt1543912",
+    "tmdb": 119456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

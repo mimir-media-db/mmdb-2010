@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_countdown_die_jagd_beginnt",
+  "title": "Countdown – Die Jagd beginnt",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q326631",
+    "imdb": "tt1475524",
+    "tmdb": 40841
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

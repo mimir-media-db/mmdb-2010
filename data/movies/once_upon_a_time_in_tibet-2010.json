@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_tibet_2010",
+  "title": "Once Upon a Time in Tibet",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2070063",
+    "imdb": "tt1774514",
+    "tmdb": 63426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

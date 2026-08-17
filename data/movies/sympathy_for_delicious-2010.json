@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sympathy_for_delicious_2010",
+  "title": "Sympathy for Delicious",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3507578",
+    "imdb": "tt1270277",
+    "tmdb": 58884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

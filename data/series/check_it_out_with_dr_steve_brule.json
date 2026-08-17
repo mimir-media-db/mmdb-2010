@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_check_it_out_with_dr_steve_brule",
+  "title": "Check It Out! with Dr. Steve Brule",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5089073",
+    "imdb": "tt1657563",
+    "tmdb": 32612
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mourir_plutot_crever_2010",
+  "title": "Mourir? Plutôt crever!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2364610",
+    "imdb": "tt1653908",
+    "tmdb": 400413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

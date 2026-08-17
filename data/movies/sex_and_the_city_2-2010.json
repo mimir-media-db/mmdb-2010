@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_and_the_city_2_2010",
+  "title": "Sex and the City 2",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q739502",
+    "imdb": "tt1261945",
+    "tmdb": 37786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 146
+}

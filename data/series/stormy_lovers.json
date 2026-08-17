@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_stormy_lovers",
+  "title": "Stormy Lovers",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6787701",
+    "tmdb": 282503
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 69
+}

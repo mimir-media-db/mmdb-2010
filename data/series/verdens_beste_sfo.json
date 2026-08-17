@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_verdens_beste_sfo",
+  "title": "Verdens beste SFO",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q19397756",
+    "imdb": "tt1642055",
+    "tmdb": 115692
+  },
+  "last_updated": "2026-08-17"
+}

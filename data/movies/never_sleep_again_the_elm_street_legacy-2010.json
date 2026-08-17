@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_sleep_again_the_elm_street_legacy_2010",
+  "title": "Never Sleep Again: The Elm Street Legacy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2076983",
+    "imdb": "tt1510985",
+    "tmdb": 37757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 240
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tirza_2010",
+  "title": "Tirza",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4354546",
+    "imdb": "tt1418760",
+    "tmdb": 59505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

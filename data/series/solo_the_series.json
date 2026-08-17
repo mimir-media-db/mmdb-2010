@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_solo_the_series",
+  "title": "SOLO – The Series",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16950495",
+    "imdb": "tt1683323",
+    "tmdb": 33128
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

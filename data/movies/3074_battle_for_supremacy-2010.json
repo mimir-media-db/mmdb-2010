@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3074_battle_for_supremacy_2010",
+  "title": "3074: Battle for Supremacy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3725225",
+    "imdb": "tt1670229",
+    "tmdb": 305011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 86
+}

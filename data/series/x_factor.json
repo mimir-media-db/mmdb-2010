@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor",
+  "title": "X Factor",
+  "start_year": 2010,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q327551",
+    "imdb": "tt1709082",
+    "tmdb": 31644
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 38
+}

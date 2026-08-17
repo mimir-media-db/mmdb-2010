@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_detention_2010",
+  "title": "Detention",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5265665",
+    "imdb": "tt0990363",
+    "tmdb": 108993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 81
+}

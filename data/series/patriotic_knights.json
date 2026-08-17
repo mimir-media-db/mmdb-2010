@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_patriotic_knights",
+  "title": "The Patriotic Knights",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7756357",
+    "imdb": "tt0067557",
+    "tmdb": 33976
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

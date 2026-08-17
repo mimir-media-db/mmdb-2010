@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bait_2010",
+  "title": "The Bait",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3202216",
+    "imdb": "tt1741660",
+    "tmdb": 60699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 84
+}

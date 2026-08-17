@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jejungwon",
+  "title": "Jejungwon",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q485499",
+    "imdb": "tt2461674",
+    "tmdb": 46523
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

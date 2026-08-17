@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_help_2010",
+  "title": "Help",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5710030",
+    "imdb": "tt1663647",
+    "tmdb": 44550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

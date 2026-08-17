@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1_out_of_7_2010",
+  "title": "1 Out of 7",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3975935",
+    "imdb": "tt1523987",
+    "tmdb": 110504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_patagonia_2010",
+  "title": "Patagonia",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3400362",
+    "imdb": "tt1020559",
+    "tmdb": 12125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 119
+}

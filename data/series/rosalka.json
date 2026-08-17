@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rosalka",
+  "title": "Rosalka",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7367273",
+    "tmdb": 32624
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 115
+}

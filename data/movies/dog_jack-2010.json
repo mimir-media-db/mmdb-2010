@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_jack_2010",
+  "title": "Dog Jack",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5288200",
+    "imdb": "tt1199552",
+    "tmdb": 82511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kate_logan_affair_2010",
+  "title": "The Kate Logan Affair",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521456",
+    "imdb": "tt1744793",
+    "tmdb": 78286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_britains_underworld",
+  "title": "Britain's Underworld",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q52161625",
+    "imdb": "tt6979740",
+    "tmdb": 44172
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

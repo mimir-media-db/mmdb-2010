@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bicycle_bride_2010",
+  "title": "Bicycle Bride",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4903741",
+    "imdb": "tt1388391",
+    "tmdb": 253545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

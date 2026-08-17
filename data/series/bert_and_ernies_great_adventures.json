@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bert_and_ernies_great_adventures",
+  "title": "Bert and Ernie's Great Adventures",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3230761",
+    "imdb": "tt3124500",
+    "tmdb": 59920
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

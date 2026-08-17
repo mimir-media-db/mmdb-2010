@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alice_a_fairy_love_tale_2010",
+  "title": "Alice: A Fairy Love Tale",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2836513",
+    "imdb": "tt1827356",
+    "tmdb": 76955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

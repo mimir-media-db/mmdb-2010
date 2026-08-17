@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golmaal_3_2010",
+  "title": "Golmaal 3",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5580870",
+    "imdb": "tt1562859",
+    "tmdb": 44978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 155
+}

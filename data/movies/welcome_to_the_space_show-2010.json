@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_the_space_show_2010",
+  "title": "Welcome to the Space Show",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1085819",
+    "imdb": "tt1679681",
+    "tmdb": 61591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 136
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_drugs_rock_roll_2010",
+  "title": "Sex & Drugs & Rock & Roll",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2044687",
+    "imdb": "tt1393020",
+    "tmdb": 37234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 115
+}

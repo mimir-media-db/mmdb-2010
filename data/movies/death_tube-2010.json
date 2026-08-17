@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_tube_2010",
+  "title": "Death Tube",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3020732",
+    "imdb": "tt2800784",
+    "tmdb": 178725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 117
+}

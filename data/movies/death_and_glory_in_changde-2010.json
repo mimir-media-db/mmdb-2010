@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_and_glory_in_changde_2010",
+  "title": "Death and Glory in Changde",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5247265",
+    "imdb": "tt1773370",
+    "tmdb": 50319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 131
+}

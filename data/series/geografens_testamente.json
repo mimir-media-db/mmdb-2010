@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_geografens_testamente",
+  "title": "Geografens Testamente",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108902032",
+    "imdb": "tt8088236",
+    "tmdb": 103607
+  },
+  "last_updated": "2026-08-17"
+}

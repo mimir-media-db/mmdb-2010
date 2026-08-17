@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_valigia_sul_letto_2010",
+  "title": "La valigia sul letto",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824717",
+    "imdb": "tt1589474",
+    "tmdb": 82537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 98
+}

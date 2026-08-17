@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_strange_addiction",
+  "title": "My Strange Addiction",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6946459",
+    "imdb": "tt1809014",
+    "tmdb": 35308
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 50
+}

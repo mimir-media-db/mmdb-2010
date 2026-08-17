@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_himitsu",
+  "title": "Himitsu",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q15908149",
+    "imdb": "tt1720679",
+    "tmdb": 84439
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

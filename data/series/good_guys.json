@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_guys",
+  "title": "The Good Guys",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q910579",
+    "imdb": "tt1567254",
+    "tmdb": 32085
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

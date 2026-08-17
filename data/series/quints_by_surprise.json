@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_quints_by_surprise",
+  "title": "Quints by Surprise",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7272507",
+    "imdb": "tt1606696"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

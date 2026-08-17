@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_begins_with_the_end_2010",
+  "title": "It Begins with the End",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3577195",
+    "imdb": "tt1591123",
+    "tmdb": 59582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

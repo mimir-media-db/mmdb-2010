@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_known_strangers_2010",
+  "title": "Known Strangers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6423456",
+    "imdb": "tt1491611",
+    "tmdb": 173414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 94
+}

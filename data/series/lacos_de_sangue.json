@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lacos_de_sangue",
+  "title": "Laços de Sangue",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3281105",
+    "imdb": "tt1700448",
+    "tmdb": 40400
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 322
+}

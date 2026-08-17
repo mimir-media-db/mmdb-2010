@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_is_jinsy",
+  "title": "This is Jinsy",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7786434",
+    "imdb": "tt2055490",
+    "tmdb": 32258
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

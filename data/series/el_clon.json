@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_clon",
+  "title": "El Clon",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q467788",
+    "imdb": "tt1596029",
+    "tmdb": 15842
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 181
+}

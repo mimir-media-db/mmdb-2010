@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lamour_fou_2010",
+  "title": "L'Amour fou",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3573955",
+    "imdb": "tt1606382",
+    "tmdb": 57448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

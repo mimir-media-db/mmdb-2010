@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eskrimadors_2010",
+  "title": "Eskrimadors",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5398200",
+    "imdb": "tt1564048",
+    "tmdb": 574424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

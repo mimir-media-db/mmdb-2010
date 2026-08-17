@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_the_three_of_us_2010",
+  "title": "Just the Three of Us",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3345002",
+    "imdb": "tt1410209",
+    "tmdb": 41150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

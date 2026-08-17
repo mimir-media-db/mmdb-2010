@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_scigirls",
+  "title": "SciGirls",
+  "start_year": 2010,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q7433396"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 34
+}

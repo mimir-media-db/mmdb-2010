@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tuuri",
+  "title": "Tuuri",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1025948",
+    "imdb": "tt1756169"
+  },
+  "last_updated": "2026-08-17"
+}

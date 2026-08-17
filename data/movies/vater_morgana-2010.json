@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vater_morgana_2010",
+  "title": "Vater Morgana",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2511253",
+    "imdb": "tt1509641",
+    "tmdb": 71615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

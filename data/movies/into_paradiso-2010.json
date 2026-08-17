@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_paradiso_2010",
+  "title": "Into Paradiso",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3800722",
+    "imdb": "tt1719496",
+    "tmdb": 59579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 104
+}

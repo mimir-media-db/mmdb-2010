@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happiness_runs_2010",
+  "title": "Happiness Runs",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5892158",
+    "imdb": "tt1079964",
+    "tmdb": 42478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

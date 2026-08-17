@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cinderellas_sister",
+  "title": "Cinderella's Sister",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q623458",
+    "imdb": "tt2299807",
+    "tmdb": 32828
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

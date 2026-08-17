@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_night_good_morning_2010",
+  "title": "Good Night Good Morning",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5582859",
+    "imdb": "tt1740745",
+    "tmdb": 84830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_w_zappatore_2010",
+  "title": "W Zappatore",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4017603",
+    "imdb": "tt1784721",
+    "tmdb": 180213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

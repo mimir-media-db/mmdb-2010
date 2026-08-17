@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_singam_2010",
+  "title": "Singam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3072954",
+    "imdb": "tt1655607",
+    "tmdb": 62756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

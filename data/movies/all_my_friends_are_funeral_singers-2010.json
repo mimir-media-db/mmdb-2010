@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_my_friends_are_funeral_singers_2010",
+  "title": "All My Friends Are Funeral Singers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4729099",
+    "imdb": "tt1524148",
+    "tmdb": 40657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

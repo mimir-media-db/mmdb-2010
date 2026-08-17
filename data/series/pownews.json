@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pownews",
+  "title": "PowNews",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2381153",
+    "imdb": "tt1774086",
+    "tmdb": 50748
+  },
+  "last_updated": "2026-08-17"
+}

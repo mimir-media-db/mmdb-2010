@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cameraman_the_life_and_work_of_jack_cardiff_2010",
+  "title": "Cameraman: The Life and Work of Jack Cardiff",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5026023",
+    "imdb": "tt1626811",
+    "tmdb": 76142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 86
+}

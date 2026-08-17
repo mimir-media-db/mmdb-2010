@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13hrs_2010",
+  "title": "13Hrs",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4463107",
+    "imdb": "tt1411232",
+    "tmdb": 48015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 81
+}

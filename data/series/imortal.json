@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_imortal",
+  "title": "Imortal",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6005732",
+    "imdb": "tt1734703",
+    "tmdb": 32731
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 148
+}

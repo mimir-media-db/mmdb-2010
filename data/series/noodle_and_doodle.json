@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_noodle_and_doodle",
+  "title": "Noodle and Doodle",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7049672",
+    "imdb": "tt1989973"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

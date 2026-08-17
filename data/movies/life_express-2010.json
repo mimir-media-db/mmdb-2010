@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_express_2010",
+  "title": "Life Express",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6544775",
+    "imdb": "tt1745753",
+    "tmdb": 330467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

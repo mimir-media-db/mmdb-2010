@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monogamy_2010",
+  "title": "Monogamy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6901588",
+    "imdb": "tt1502714",
+    "tmdb": 55895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

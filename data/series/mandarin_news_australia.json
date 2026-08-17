@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_mandarin_news_australia",
+  "title": "Mandarin News Australia",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6747846"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fake_britain",
+  "title": "Fake Britain",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5431458",
+    "imdb": "tt3664430",
+    "tmdb": 37370
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_news_from_the_excavations_2010",
+  "title": "News from the Excavations",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3878795",
+    "imdb": "tt1680106",
+    "tmdb": 63314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

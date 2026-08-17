@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pit_boss",
+  "title": "Pit Boss",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7198549",
+    "imdb": "tt1584454",
+    "tmdb": 32124
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 53
+}

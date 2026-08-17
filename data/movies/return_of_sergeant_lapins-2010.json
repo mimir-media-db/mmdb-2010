@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_return_of_sergeant_lapins_2010",
+  "title": "Return of Sergeant Lapins",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7317185",
+    "imdb": "tt1754421",
+    "tmdb": 116423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

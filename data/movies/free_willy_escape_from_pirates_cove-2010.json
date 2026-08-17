@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_willy_escape_from_pirates_cove_2010",
+  "title": "Free Willy: Escape from Pirate's Cove",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2767704",
+    "imdb": "tt1394329",
+    "tmdb": 34751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

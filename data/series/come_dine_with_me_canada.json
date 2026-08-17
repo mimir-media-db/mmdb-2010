@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_come_dine_with_me_canada",
+  "title": "Come Dine with Me Canada",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5151140",
+    "imdb": "tt1763422",
+    "tmdb": 41059
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 280
+}

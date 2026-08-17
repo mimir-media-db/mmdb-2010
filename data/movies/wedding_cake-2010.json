@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_cake_2010",
+  "title": "The Wedding Cake",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3389548",
+    "imdb": "tt1399677",
+    "tmdb": 41179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

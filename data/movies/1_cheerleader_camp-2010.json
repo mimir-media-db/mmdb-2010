@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1_cheerleader_camp_2010",
+  "title": "#1 Cheerleader Camp",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2299302",
+    "imdb": "tt1637976",
+    "tmdb": 41371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 95
+}

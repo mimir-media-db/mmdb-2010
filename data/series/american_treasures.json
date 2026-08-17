@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_american_treasures",
+  "title": "American Treasures",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4745276",
+    "imdb": "tt1844862",
+    "tmdb": 38325
+  },
+  "last_updated": "2026-08-17"
+}

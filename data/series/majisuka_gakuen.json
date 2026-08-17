@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_majisuka_gakuen",
+  "title": "Majisuka Gakuen",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1186977",
+    "imdb": "tt1600463",
+    "tmdb": 40361
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 58
+}

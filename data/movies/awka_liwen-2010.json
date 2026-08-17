@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_awka_liwen_2010",
+  "title": "Awka Liwen",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4830079",
+    "imdb": "tt1511325",
+    "tmdb": 571075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 77
+}

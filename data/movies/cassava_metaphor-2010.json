@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cassava_metaphor_2010",
+  "title": "The Cassava Metaphor",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q527352",
+    "imdb": "tt2500892"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

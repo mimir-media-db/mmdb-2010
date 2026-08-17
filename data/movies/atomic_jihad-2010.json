@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_atomic_jihad_2010",
+  "title": "Atomic Jihad",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4817289",
+    "imdb": "tt1637975",
+    "tmdb": 272927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

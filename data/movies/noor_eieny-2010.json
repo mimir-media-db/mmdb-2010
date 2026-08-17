@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noor_eieny_2010",
+  "title": "Noor Eieny",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7049810",
+    "imdb": "tt1918984",
+    "tmdb": 150054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

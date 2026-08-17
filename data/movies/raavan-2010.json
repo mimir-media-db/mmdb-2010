@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raavan_2010",
+  "title": "Raavan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3135932",
+    "imdb": "tt1334470",
+    "tmdb": 37460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

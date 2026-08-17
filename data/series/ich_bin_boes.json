@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ich_bin_boes",
+  "title": "Ich bin Boes",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q264602",
+    "imdb": "tt1602908",
+    "tmdb": 40797
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

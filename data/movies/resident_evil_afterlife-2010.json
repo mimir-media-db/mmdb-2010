@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resident_evil_afterlife_2010",
+  "title": "Resident Evil: Afterlife",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q324557",
+    "imdb": "tt1220634",
+    "tmdb": 35791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

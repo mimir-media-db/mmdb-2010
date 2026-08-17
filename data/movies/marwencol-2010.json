@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marwencol_2010",
+  "title": "Marwencol",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6778572",
+    "imdb": "tt1391092",
+    "tmdb": 52013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 82
+}

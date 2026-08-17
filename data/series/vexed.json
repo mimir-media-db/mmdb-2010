@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vexed",
+  "title": "Vexed",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4010539",
+    "imdb": "tt1497609",
+    "tmdb": 33645
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

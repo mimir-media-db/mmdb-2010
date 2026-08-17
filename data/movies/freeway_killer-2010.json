@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freeway_killer_2010",
+  "title": "Freeway Killer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5501245",
+    "imdb": "tt1410020",
+    "tmdb": 31992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

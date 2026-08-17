@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nativity",
+  "title": "The Nativity",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7753236",
+    "imdb": "tt1719950",
+    "tmdb": 34647
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

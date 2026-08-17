@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_twilight_investigation",
+  "title": "Twilight Investigation",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7857991",
+    "tmdb": 32598
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

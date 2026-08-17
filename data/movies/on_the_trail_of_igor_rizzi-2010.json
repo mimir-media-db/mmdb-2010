@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_trail_of_igor_rizzi_2010",
+  "title": "On the Trail of Igor Rizzi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3505028",
+    "imdb": "tt0832958",
+    "tmdb": 148340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 91
+}

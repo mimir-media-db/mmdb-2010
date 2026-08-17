@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_ricks_list",
+  "title": "Rick's List",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7331175"
+  },
+  "last_updated": "2026-08-17"
+}

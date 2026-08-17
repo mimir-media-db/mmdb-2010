@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gerald_2010",
+  "title": "Gerald",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5548858",
+    "imdb": "tt1213900"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

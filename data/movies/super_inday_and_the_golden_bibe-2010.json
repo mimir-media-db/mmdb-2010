@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_inday_and_the_golden_bibe_2010",
+  "title": "Super Inday and the Golden Bibe",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7642455",
+    "imdb": "tt1781909",
+    "tmdb": 72257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

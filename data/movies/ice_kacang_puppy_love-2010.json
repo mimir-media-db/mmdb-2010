@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_kacang_puppy_love_2010",
+  "title": "Ice Kacang Puppy Love",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5934843",
+    "imdb": "tt1780796",
+    "tmdb": 57958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

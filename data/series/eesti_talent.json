@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_eesti_talent",
+  "title": "Eesti talent",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5347161",
+    "imdb": "tt1762619"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lanfranchis_memorial_discotheque_2010",
+  "title": "Lanfranchi's Memorial Discotheque",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6485569",
+    "imdb": "tt1620852"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 53
+}

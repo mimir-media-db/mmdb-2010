@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_facejacker",
+  "title": "Facejacker",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5428467",
+    "imdb": "tt1647109",
+    "tmdb": 32495
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 11
+}

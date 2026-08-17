@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bibliotheque_pascal_2010",
+  "title": "Bibliothèque Pascal",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q958885",
+    "imdb": "tt0997035",
+    "tmdb": 51403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 110
+}

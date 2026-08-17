@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lip_service",
+  "title": "Lip Service",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1537164",
+    "imdb": "tt1533010",
+    "tmdb": 31420
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_called_elsamma_2010",
+  "title": "A Boy Called Elsamma",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5367462",
+    "imdb": "tt1711471",
+    "tmdb": 160197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

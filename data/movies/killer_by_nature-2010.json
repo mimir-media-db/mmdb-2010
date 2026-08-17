@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_by_nature_2010",
+  "title": "Killer by Nature",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1523906",
+    "imdb": "tt0844866",
+    "tmdb": 60940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

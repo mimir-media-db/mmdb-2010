@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_lebowski_a_xxx_parody_2010",
+  "title": "The Big Lebowski: A XXX Parody",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2409741",
+    "imdb": "tt1644691",
+    "tmdb": 60265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 155
+}

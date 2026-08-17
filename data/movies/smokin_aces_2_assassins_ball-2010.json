@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smokin_aces_2_assassins_ball_2010",
+  "title": "Smokin' Aces 2: Assassins' Ball",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1768087",
+    "imdb": "tt1319743",
+    "tmdb": 29564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

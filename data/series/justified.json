@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_justified",
+  "title": "Justified",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1535208",
+    "imdb": "tt1489428",
+    "tmdb": 1436
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 78
+}

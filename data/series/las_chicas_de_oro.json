@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_las_chicas_de_oro",
+  "title": "Las chicas de oro",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5970981",
+    "imdb": "tt1704638",
+    "tmdb": 69207
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 25
+}

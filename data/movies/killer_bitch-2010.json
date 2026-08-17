@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_bitch_2010",
+  "title": "Killer Bitch",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407452",
+    "imdb": "tt1624391",
+    "tmdb": 61242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

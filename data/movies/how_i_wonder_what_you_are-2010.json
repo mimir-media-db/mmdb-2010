@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_how_i_wonder_what_you_are_2010",
+  "title": "How I Wonder What You Are",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5917863",
+    "imdb": "tt3587948",
+    "tmdb": 1727040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

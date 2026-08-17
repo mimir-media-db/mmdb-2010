@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1960_2010",
+  "title": "1960",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3597895",
+    "imdb": "tt1714820",
+    "tmdb": 88446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 75
+}

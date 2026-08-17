@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beach_heat_miami",
+  "title": "Beach Heat: Miami",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4875719",
+    "imdb": "tt1707363",
+    "tmdb": 37581
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

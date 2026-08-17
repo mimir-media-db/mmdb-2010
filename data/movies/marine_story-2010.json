@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marine_story_2010",
+  "title": "A Marine Story",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4204869",
+    "imdb": "tt1447479",
+    "tmdb": 46564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

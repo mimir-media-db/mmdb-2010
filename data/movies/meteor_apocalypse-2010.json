@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meteor_apocalypse_2010",
+  "title": "Meteor Apocalypse",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2208696",
+    "imdb": "tt1564571",
+    "tmdb": 41997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neomelodic_president_2010",
+  "title": "A Neomelodic President",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4003956",
+    "imdb": "tt1669704"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vita_e_una_cosa_meravigliosa_2010",
+  "title": "La vita è una cosa meravigliosa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3825026",
+    "imdb": "tt1555832",
+    "tmdb": 42882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 103
+}

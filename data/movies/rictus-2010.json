@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rictus_2010",
+  "title": "Rictus",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6108798",
+    "imdb": "tt1813583",
+    "tmdb": 1364411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

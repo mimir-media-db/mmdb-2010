@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vinnaithaandi_varuvaayaa_2010",
+  "title": "Vinnaithaandi Varuvaayaa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1861290",
+    "imdb": "tt1609168",
+    "tmdb": 37941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

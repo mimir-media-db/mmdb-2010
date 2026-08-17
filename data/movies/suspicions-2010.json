@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suspicions_2010",
+  "title": "Suspicions",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3160750",
+    "imdb": "tt1684892",
+    "tmdb": 70129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 95
+}

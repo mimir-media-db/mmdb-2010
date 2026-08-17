@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deeper_and_deeper_2010",
+  "title": "Deeper and Deeper",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5250613",
+    "imdb": "tt1319707",
+    "tmdb": 318558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

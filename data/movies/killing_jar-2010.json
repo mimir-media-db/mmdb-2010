@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_jar_2010",
+  "title": "The Killing Jar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521475",
+    "imdb": "tt1270296",
+    "tmdb": 43754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

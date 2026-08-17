@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_troon",
+  "title": "De troon",
+  "start_year": 2010,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2140116",
+    "imdb": "tt1591190",
+    "tmdb": 30280
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

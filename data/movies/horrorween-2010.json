@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horrorween_2010",
+  "title": "Horrorween",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5905291",
+    "imdb": "tt0765459",
+    "tmdb": 518966
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_closer_than_blood_2010",
+  "title": "Closer than Blood",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q865958",
+    "imdb": "tt1454609",
+    "tmdb": 73840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 113
+}

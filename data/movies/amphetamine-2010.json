@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amphetamine_2010",
+  "title": "Amphetamine",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2624272",
+    "imdb": "tt1603789",
+    "tmdb": 46104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

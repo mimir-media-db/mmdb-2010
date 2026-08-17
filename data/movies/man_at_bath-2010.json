@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_at_bath_2010",
+  "title": "Man at Bath",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1994635",
+    "imdb": "tt1701995",
+    "tmdb": 70993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 72
+}

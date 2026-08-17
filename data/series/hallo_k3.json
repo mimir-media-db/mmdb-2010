@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hallo_k3",
+  "title": "Hallo K3",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q990842",
+    "imdb": "tt1719836",
+    "tmdb": 35307
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

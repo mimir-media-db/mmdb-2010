@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_family_crews",
+  "title": "The Family Crews",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7733302",
+    "imdb": "tt1616416",
+    "tmdb": 32100
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

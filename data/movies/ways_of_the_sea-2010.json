@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ways_of_the_sea_2010",
+  "title": "Ways of the Sea",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4018619",
+    "imdb": "tt1686047",
+    "tmdb": 262239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_france",
+  "title": "MasterChef France",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4114407",
+    "imdb": "tt2070311",
+    "tmdb": 103265
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

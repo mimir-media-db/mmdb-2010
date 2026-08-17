@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_british_railway_journeys",
+  "title": "Great British Railway Journeys",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5598897",
+    "imdb": "tt1578652",
+    "tmdb": 32058
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 135
+}

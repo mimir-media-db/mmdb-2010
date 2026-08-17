@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ojo_por_ojo",
+  "title": "Ojo Por Ojo",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1249228",
+    "imdb": "tt1709194",
+    "tmdb": 135967
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 98
+}

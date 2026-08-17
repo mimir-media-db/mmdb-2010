@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matrimoni_e_altri_disastri_2010",
+  "title": "Matrimoni e altri disastri",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3851940",
+    "imdb": "tt1274297",
+    "tmdb": 44897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 102
+}

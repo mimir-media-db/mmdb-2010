@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_street_fighter_iv_2010",
+  "title": "Super Street Fighter IV",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3504300",
+    "imdb": "tt8097418",
+    "tmdb": 74616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 35
+}

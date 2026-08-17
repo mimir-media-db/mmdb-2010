@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_millennium",
+  "title": "Millennium",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2637845",
+    "imdb": "tt1634549",
+    "tmdb": 80855
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

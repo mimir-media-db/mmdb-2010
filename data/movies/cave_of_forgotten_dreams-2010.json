@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cave_of_forgotten_dreams_2010",
+  "title": "Cave of Forgotten Dreams",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q582979",
+    "imdb": "tt1664894",
+    "tmdb": 59490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

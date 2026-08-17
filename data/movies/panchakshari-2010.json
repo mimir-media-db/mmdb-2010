@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panchakshari_2010",
+  "title": "Panchakshari",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7130253",
+    "imdb": "tt1629737",
+    "tmdb": 308283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

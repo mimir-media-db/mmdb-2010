@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goa_2010",
+  "title": "Goa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3471916",
+    "imdb": "tt1421036",
+    "tmdb": 50093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

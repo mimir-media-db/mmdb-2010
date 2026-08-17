@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hooked_2_2010",
+  "title": "Hooked 2",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4310959",
+    "imdb": "tt1620549",
+    "tmdb": 37851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

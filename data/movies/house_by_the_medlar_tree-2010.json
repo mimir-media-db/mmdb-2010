@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_by_the_medlar_tree_2010",
+  "title": "The House by the Medlar Tree",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3843817",
+    "imdb": "tt1706441",
+    "tmdb": 74651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

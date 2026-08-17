@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_body_heat_2010",
+  "title": "Body Heat",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q890068",
+    "imdb": "tt1728606",
+    "tmdb": 46265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 140
+}

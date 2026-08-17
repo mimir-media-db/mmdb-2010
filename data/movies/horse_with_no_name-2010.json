@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_horse_with_no_name_2010",
+  "title": "A Horse with No Name",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657402",
+    "imdb": "tt1964442"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

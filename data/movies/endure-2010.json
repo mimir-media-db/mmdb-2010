@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_endure_2010",
+  "title": "Endure",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5376671",
+    "imdb": "tt1230372",
+    "tmdb": 63273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

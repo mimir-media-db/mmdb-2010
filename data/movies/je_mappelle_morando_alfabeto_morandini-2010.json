@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_mappelle_morando_alfabeto_morandini_2010",
+  "title": "Je m'appelle Morando - alfabeto Morandini",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3807552",
+    "imdb": "tt1772289",
+    "tmdb": 59047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 53
+}

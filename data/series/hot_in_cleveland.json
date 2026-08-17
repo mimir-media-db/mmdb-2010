@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hot_in_cleveland",
+  "title": "Hot in Cleveland",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1374755",
+    "imdb": "tt1583607",
+    "tmdb": 32294
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 128
+}

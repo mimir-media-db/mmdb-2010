@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_love_from_the_age_of_reason_2010",
+  "title": "With Love... from the Age of Reason",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3205048",
+    "imdb": "tt1594503",
+    "tmdb": 51090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

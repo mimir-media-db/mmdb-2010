@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exit_una_storia_personale_2010",
+  "title": "Exit: una storia personale",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3061984",
+    "imdb": "tt1521782",
+    "tmdb": 140307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

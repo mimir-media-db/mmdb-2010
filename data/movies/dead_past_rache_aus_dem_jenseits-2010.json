@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_past_rache_aus_dem_jenseits_2010",
+  "title": "Dead Past - Rache aus dem Jenseits",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1180831",
+    "imdb": "tt1886511",
+    "tmdb": 65617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 77
+}

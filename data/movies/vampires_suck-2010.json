@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampires_suck_2010",
+  "title": "Vampires Suck",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q764472",
+    "imdb": "tt1666186",
+    "tmdb": 40264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

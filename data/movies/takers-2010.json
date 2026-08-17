@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_takers_2010",
+  "title": "Takers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q727285",
+    "imdb": "tt1135084",
+    "tmdb": 22907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 107
+}

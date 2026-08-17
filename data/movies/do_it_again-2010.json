@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_do_it_again_2010",
+  "title": "Do It Again",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5286057",
+    "imdb": "tt1478480",
+    "tmdb": 683952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

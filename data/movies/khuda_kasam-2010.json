@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khuda_kasam_2010",
+  "title": "Khuda Kasam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6402798",
+    "imdb": "tt1920986",
+    "tmdb": 340736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_freshwater_blue",
+  "title": "Freshwater Blue",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5503111",
+    "imdb": "tt1763540",
+    "tmdb": 34553
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

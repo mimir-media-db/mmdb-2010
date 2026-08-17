@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_smile_again",
+  "title": "Smile Again",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q493347",
+    "imdb": "tt6141742",
+    "tmdb": 35351
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 159
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comme_les_cinq_doigts_de_la_main_2010",
+  "title": "Comme les cinq doigts de la main",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2986037",
+    "imdb": "tt1558741",
+    "tmdb": 45368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assal_eswed_2010",
+  "title": "Assal Eswed",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4310559",
+    "imdb": "tt2210441",
+    "tmdb": 84250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 130
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mahler_on_the_couch_2010",
+  "title": "Mahler on the Couch",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1388280",
+    "imdb": "tt1235537",
+    "tmdb": 83209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_20_cigarettes_2010",
+  "title": "20 Cigarettes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3598082",
+    "imdb": "tt1517805",
+    "tmdb": 44872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 94
+}

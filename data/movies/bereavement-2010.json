@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bereavement_2010",
+  "title": "Bereavement",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4891192",
+    "imdb": "tt1100051",
+    "tmdb": 55890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 103
+}

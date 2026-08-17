@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fly_in_the_ashes_2010",
+  "title": "A Fly in the Ashes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2836001",
+    "imdb": "tt1546005",
+    "tmdb": 73640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 98
+}

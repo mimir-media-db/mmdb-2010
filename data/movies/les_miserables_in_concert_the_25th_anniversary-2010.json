@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_miserables_in_concert_the_25th_anniversary_2010",
+  "title": "Les Misérables in Concert: The 25th Anniversary",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3654927",
+    "imdb": "tt1754109",
+    "tmdb": 158675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 178
+}

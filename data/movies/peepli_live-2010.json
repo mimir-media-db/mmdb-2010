@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peepli_live_2010",
+  "title": "Peepli Live",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3627503",
+    "imdb": "tt1447508",
+    "tmdb": 44549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 104
+}

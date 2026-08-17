@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_singh_mrs_mehta_2010",
+  "title": "Mr. Singh / Mrs. Mehta",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6929187",
+    "imdb": "tt1646217",
+    "tmdb": 115961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

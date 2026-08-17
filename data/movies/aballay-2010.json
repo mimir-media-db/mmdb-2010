@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aballay_2010",
+  "title": "Aballay",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4663322",
+    "imdb": "tt1554426",
+    "tmdb": 92780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

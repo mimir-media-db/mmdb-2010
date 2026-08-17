@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_banded_brothers",
+  "title": "Banded Brothers",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4854483",
+    "imdb": "tt3452078",
+    "tmdb": 32369
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

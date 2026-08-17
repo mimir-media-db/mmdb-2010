@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_divertimenti_della_vita_privata_2010",
+  "title": "I Divertimenti Della Vita Privata",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3790552",
+    "imdb": "tt1669622",
+    "tmdb": 609219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

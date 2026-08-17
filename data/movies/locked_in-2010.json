@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_locked_in_2010",
+  "title": "Locked In",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1749705",
+    "imdb": "tt1398028",
+    "tmdb": 221343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 124
+}

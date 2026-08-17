@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_6_guns_2010",
+  "title": "6 Guns",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q179104",
+    "imdb": "tt1558576",
+    "tmdb": 29776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

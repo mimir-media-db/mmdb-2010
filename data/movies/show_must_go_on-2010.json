@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_show_must_go_on_2010",
+  "title": "The Show Must Go On",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3930227",
+    "imdb": "tt1488601",
+    "tmdb": 259648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

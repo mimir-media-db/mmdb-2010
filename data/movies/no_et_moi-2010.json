@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_et_moi_2010",
+  "title": "No et moi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3342477",
+    "imdb": "tt1600428",
+    "tmdb": 50158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 105
+}

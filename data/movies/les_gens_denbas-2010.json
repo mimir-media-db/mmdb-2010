@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_gens_denbas_2010",
+  "title": "Les Gens d'en-bas",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232955",
+    "imdb": "tt1814769",
+    "tmdb": 471430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

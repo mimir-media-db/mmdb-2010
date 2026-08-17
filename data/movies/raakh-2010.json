@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raakh_2010",
+  "title": "Raakh",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7278398",
+    "imdb": "tt0476847",
+    "tmdb": 370061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

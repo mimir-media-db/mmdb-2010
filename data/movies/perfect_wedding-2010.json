@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_wedding_2010",
+  "title": "Perfect Wedding",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184244",
+    "imdb": "tt1756679",
+    "tmdb": 58837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casino_jack_and_the_united_states_of_money_2010",
+  "title": "Casino Jack and the United States of Money",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5048856",
+    "imdb": "tt1540814",
+    "tmdb": 44999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 118
+}

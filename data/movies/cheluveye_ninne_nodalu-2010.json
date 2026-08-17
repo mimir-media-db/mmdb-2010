@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheluveye_ninne_nodalu_2010",
+  "title": "Cheluveye Ninne Nodalu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5090265",
+    "imdb": "tt1757705",
+    "tmdb": 282531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

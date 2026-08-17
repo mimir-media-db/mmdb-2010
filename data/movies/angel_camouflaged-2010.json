@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_camouflaged_2010",
+  "title": "Angel Camouflaged",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4762093",
+    "imdb": "tt1537302",
+    "tmdb": 70571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

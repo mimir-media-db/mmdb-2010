@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_antonio_treatment",
+  "title": "The Antonio Treatment",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7713957",
+    "imdb": "tt1549472",
+    "tmdb": 32319
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 13
+}

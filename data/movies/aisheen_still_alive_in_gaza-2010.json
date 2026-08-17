@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aisheen_still_alive_in_gaza_2010",
+  "title": "Aisheen (Still Alive in Gaza)",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2828767",
+    "imdb": "tt1589410",
+    "tmdb": 275807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 86
+}

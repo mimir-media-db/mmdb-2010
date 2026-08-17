@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_verruckte_welt_der_ute_bock_2010",
+  "title": "Die verrückte Welt der Ute Bock",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1219744",
+    "imdb": "tt1764270",
+    "tmdb": 64072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 98
+}

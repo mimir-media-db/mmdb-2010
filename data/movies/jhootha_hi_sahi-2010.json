@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jhootha_hi_sahi_2010",
+  "title": "Jhootha Hi Sahi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3932354",
+    "imdb": "tt1322257",
+    "tmdb": 48826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 150
+}

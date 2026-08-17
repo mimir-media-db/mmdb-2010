@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knock_out_2010",
+  "title": "Knock Out",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6422776",
+    "imdb": "tt1558578",
+    "tmdb": 56534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 117
+}

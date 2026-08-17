@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_escape_2010",
+  "title": "The Last Escape",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208215",
+    "imdb": "tt1363376",
+    "tmdb": 67833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

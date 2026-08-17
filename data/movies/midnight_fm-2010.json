@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_fm_2010",
+  "title": "Midnight FM",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6842681",
+    "imdb": "tt1825955",
+    "tmdb": 55758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demonic_toys_2_2010",
+  "title": "Demonic Toys 2",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5256256",
+    "imdb": "tt1444258",
+    "tmdb": 56242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

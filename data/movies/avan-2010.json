@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_avan_2010",
+  "title": "Avan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4827624",
+    "imdb": "tt1781771"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

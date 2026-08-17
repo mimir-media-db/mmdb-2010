@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vanilla_ice_project",
+  "title": "The Vanilla Ice Project",
+  "start_year": 2010,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q17151603",
+    "imdb": "tt1734192",
+    "tmdb": 34517
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 63
+}

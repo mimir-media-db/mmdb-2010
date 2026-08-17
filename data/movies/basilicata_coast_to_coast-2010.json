@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_basilicata_coast_to_coast_2010",
+  "title": "Basilicata coast to coast",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3635793",
+    "imdb": "tt1529233",
+    "tmdb": 43200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 105
+}

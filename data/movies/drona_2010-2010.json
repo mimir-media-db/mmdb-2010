@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drona_2010_2010",
+  "title": "Drona 2010",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5308313",
+    "imdb": "tt1671456",
+    "tmdb": 330498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

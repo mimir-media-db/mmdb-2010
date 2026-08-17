@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_der_letzte_bulle",
+  "title": "Der letzte Bulle",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q439831",
+    "imdb": "tt1540108",
+    "tmdb": 41064
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 60
+}

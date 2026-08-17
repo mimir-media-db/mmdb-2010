@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_who_the_bleep_did_i_marry",
+  "title": "Who the (Bleep) Did I Marry?",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7997468",
+    "imdb": "tt1705096",
+    "tmdb": 36154
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 52
+}

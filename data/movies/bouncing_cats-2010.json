@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bouncing_cats_2010",
+  "title": "Bouncing Cats",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4949832",
+    "imdb": "tt1632702",
+    "tmdb": 176750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 75
+}

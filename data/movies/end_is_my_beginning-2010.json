@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_is_my_beginning_2010",
+  "title": "The End Is My Beginning",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q834460",
+    "imdb": "tt1529292",
+    "tmdb": 51969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 94
+}

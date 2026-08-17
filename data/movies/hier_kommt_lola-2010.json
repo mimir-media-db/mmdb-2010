@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hier_kommt_lola_2010",
+  "title": "Hier kommt Lola!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1617432",
+    "imdb": "tt1543017",
+    "tmdb": 61035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

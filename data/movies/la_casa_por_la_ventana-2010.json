@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_casa_por_la_ventana_2010",
+  "title": "La casa por la ventana",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966089",
+    "imdb": "tt1737199",
+    "tmdb": 314854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 75
+}

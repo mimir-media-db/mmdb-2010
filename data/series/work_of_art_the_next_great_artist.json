@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_work_of_art_the_next_great_artist",
+  "title": "Work of Art: The Next Great Artist",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q8034632"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

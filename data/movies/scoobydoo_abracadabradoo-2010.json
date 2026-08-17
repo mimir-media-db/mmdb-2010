@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_abracadabradoo_2010",
+  "title": "Scooby-Doo! Abracadabra-Doo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2504771",
+    "imdb": "tt1599351",
+    "tmdb": 32916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 73
+}

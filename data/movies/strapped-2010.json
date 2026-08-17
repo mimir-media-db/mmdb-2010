@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strapped_2010",
+  "title": "Strapped",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4101725",
+    "imdb": "tt1712573",
+    "tmdb": 52605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 95
+}

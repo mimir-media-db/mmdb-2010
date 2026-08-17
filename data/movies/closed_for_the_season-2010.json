@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_closed_for_the_season_2010",
+  "title": "Closed for the Season",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5135339",
+    "imdb": "tt1298643",
+    "tmdb": 42942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 111
+}

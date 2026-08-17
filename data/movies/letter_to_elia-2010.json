@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letter_to_elia_2010",
+  "title": "A Letter to Elia",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2631366",
+    "imdb": "tt0808245",
+    "tmdb": 65673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 60
+}

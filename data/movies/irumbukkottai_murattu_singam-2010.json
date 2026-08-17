@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_irumbukkottai_murattu_singam_2010",
+  "title": "Irumbukkottai Murattu Singam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6074032",
+    "imdb": "tt1708483",
+    "tmdb": 79661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

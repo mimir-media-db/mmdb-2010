@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_future_xcops_2010",
+  "title": "Future X-Cops",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1581626",
+    "imdb": "tt1337055",
+    "tmdb": 41535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 99
+}

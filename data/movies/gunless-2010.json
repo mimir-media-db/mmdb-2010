@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gunless_2010",
+  "title": "Gunless",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5618856",
+    "imdb": "tt1376195",
+    "tmdb": 43090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

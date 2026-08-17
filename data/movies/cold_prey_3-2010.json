@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_prey_3_2010",
+  "title": "Cold Prey 3",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1107833",
+    "imdb": "tt1464535",
+    "tmdb": 56937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jucy_2010",
+  "title": "Jucy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6302017",
+    "imdb": "tt1336999",
+    "tmdb": 130266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

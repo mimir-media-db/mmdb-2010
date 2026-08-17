@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paavo_a_life_in_five_courses_2010",
+  "title": "Paavo, a Life in Five Courses",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7121499",
+    "imdb": "tt1648206",
+    "tmdb": 758033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

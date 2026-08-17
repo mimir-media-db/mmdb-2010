@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_steps_above_heaven_2010",
+  "title": "Three Steps Above Heaven",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q944385",
+    "imdb": "tt1648216",
+    "tmdb": 61979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 119
+}

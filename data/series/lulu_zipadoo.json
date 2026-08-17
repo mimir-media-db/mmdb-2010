@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lulu_zipadoo",
+  "title": "Lulu Zipadoo",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3267253",
+    "imdb": "tt2108809",
+    "tmdb": 94042
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 104
+}

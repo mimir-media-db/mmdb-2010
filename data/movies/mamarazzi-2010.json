@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mamarazzi_2010",
+  "title": "Mamarazzi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6745433",
+    "imdb": "tt1698537",
+    "tmdb": 58041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

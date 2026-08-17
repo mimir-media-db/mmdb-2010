@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desafio_2010",
+  "title": "Desafío",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5803661",
+    "imdb": "tt1392982",
+    "tmdb": 275086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

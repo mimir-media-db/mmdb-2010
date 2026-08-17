@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raajneeti_2010",
+  "title": "Raajneeti",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3415825",
+    "imdb": "tt1291465",
+    "tmdb": 37951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 170
+}

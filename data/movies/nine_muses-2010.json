@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_muses_2010",
+  "title": "The Nine Muses",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3988505",
+    "imdb": "tt1706701",
+    "tmdb": 104988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_every_move_you_make",
+  "title": "Every Move You Make",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5238638",
+    "imdb": "tt11953034",
+    "tmdb": 33925
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_treme",
+  "title": "Treme",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1784986",
+    "imdb": "tt1279972",
+    "tmdb": 17967
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}

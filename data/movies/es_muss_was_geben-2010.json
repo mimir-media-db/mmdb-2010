@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_es_muss_was_geben_2010",
+  "title": "Es muss was geben",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1366493",
+    "imdb": "tt1675739",
+    "tmdb": 1359325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 104
+}

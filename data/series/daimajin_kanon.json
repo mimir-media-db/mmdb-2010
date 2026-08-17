@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_daimajin_kanon",
+  "title": "Daimajin Kanon",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1075653",
+    "imdb": "tt1566451",
+    "tmdb": 33844
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

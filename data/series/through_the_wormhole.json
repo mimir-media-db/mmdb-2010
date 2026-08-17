@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_through_the_wormhole",
+  "title": "Through the Wormhole",
+  "start_year": 2010,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q2499084",
+    "imdb": "tt1513168",
+    "tmdb": 32900
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 47
+}

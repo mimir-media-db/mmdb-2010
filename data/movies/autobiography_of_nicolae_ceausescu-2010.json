@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autobiography_of_nicolae_ceausescu_2010",
+  "title": "The Autobiography of Nicolae Ceaușescu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2872517",
+    "imdb": "tt1646958",
+    "tmdb": 67404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 187
+}

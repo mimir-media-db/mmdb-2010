@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_18_years_later_2010",
+  "title": "18 Years Later",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3706935",
+    "imdb": "tt1433802",
+    "tmdb": 109979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

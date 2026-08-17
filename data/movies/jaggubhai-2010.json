@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaggubhai_2010",
+  "title": "Jaggubhai",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6122574",
+    "imdb": "tt4315506",
+    "tmdb": 78593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

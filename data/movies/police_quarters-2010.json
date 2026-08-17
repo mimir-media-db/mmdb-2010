@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_police_quarters_2010",
+  "title": "Police Quarters",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7209494",
+    "imdb": "tt12665168"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

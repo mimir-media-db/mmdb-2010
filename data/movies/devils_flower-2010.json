@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_flower_2010",
+  "title": "The Devil's Flower",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4503523",
+    "imdb": "tt0937353",
+    "tmdb": 530732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_quiereme_tonto",
+  "title": "Quiéreme Tonto",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5665385",
+    "imdb": "tt1687984",
+    "tmdb": 32650
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 107
+}

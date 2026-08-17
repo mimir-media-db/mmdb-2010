@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rpg_metanoia_2010",
+  "title": "RPG Metanoia",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7277469",
+    "imdb": "tt1735221",
+    "tmdb": 200752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

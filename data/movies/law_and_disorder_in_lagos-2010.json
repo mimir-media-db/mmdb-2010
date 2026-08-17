@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_law_and_disorder_in_lagos_2010",
+  "title": "Law and Disorder in Lagos",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6503140",
+    "imdb": "tt2577666",
+    "tmdb": 241618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

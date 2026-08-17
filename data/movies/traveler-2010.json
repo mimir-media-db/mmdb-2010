@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_traveler_2010",
+  "title": "The Traveler",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2083437",
+    "imdb": "tt1533084",
+    "tmdb": 32612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

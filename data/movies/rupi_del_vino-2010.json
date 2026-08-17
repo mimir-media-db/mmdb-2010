@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rupi_del_vino_2010",
+  "title": "Rupi del vino",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3942820",
+    "imdb": "tt1525583",
+    "tmdb": 382265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 54
+}

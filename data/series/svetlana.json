@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_svetlana",
+  "title": "Svetlana",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7652435",
+    "imdb": "tt1484498",
+    "tmdb": 40441
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toscan_2010",
+  "title": "Toscan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3532596",
+    "imdb": "tt1608635",
+    "tmdb": 409253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

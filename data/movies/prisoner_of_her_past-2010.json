@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoner_of_her_past_2010",
+  "title": "Prisoner of Her Past",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7245815",
+    "imdb": "tt1189386",
+    "tmdb": 411203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

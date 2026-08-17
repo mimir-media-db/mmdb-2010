@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everyday_is_a_holiday_2010",
+  "title": "Everyday Is a Holiday",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2957575",
+    "imdb": "tt1353789",
+    "tmdb": 167628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

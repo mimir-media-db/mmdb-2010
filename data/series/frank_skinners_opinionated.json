@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_frank_skinners_opinionated",
+  "title": "Frank Skinner's Opinionated",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5489652",
+    "imdb": "tt1642143",
+    "tmdb": 32652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

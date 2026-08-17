@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dagim_2010",
+  "title": "Dagim",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5208565",
+    "imdb": "tt1733119",
+    "tmdb": 425835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

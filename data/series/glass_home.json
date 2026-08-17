@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_glass_home",
+  "title": "Glass Home",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3441148",
+    "imdb": "tt1650527",
+    "tmdb": 36901
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 64
+}

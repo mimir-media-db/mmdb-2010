@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morgan_m_morgansens_date_with_destiny_2010",
+  "title": "Morgan M. Morgansen's Date with Destiny",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6911754",
+    "imdb": "tt1655419",
+    "tmdb": 163047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 6
+}

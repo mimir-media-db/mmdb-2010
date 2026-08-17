@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kattradhu_kalavu_2010",
+  "title": "Kattradhu Kalavu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6378363",
+    "imdb": "tt4316134",
+    "tmdb": 586296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

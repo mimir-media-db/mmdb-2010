@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eva_luna",
+  "title": "Eva Luna",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q422657",
+    "imdb": "tt1846055",
+    "tmdb": 37743
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 112
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cj7_the_cartoon_2010",
+  "title": "CJ7: The Cartoon",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5011987",
+    "imdb": "tt1453967",
+    "tmdb": 46711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

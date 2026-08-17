@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anything_you_want_2010",
+  "title": "Anything You Want",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6147945",
+    "imdb": "tt1592534",
+    "tmdb": 106446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 101
+}

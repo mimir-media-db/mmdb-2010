@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_young_apprentice",
+  "title": "Young Apprentice",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q8057925",
+    "imdb": "tt1655081",
+    "tmdb": 32670
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

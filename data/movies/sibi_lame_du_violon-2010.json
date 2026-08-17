@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sibi_lame_du_violon_2010",
+  "title": "Sibi, l’âme du violon",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3482932",
+    "imdb": "tt2127350",
+    "tmdb": 1654483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

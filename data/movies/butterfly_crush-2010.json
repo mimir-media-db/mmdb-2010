@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_butterfly_crush_2010",
+  "title": "Butterfly Crush",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5002929",
+    "imdb": "tt1630311",
+    "tmdb": 279920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

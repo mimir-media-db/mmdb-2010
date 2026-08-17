@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_c",
+  "title": "The Big C",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1341527",
+    "imdb": "tt1515193",
+    "tmdb": 32406
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

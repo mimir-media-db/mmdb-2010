@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_ensv",
+  "title": "ENSV",
+  "start_year": 2010,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q16411456"
+  },
+  "last_updated": "2026-08-17"
+}

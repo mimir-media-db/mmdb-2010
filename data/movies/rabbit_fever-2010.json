@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rabbit_fever_2010",
+  "title": "Rabbit Fever",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7278581",
+    "imdb": "tt1467041",
+    "tmdb": 434778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

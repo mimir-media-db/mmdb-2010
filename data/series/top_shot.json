@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_shot",
+  "title": "Top Shot",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2892688",
+    "imdb": "tt1569972",
+    "tmdb": 32927
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 46
+}

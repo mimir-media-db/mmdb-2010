@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rubber_2010",
+  "title": "Rubber",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2171533",
+    "imdb": "tt1612774",
+    "tmdb": 45649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 82
+}

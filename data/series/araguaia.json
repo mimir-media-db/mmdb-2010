@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_araguaia",
+  "title": "Araguaia",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q8202952",
+    "imdb": "tt1748531",
+    "tmdb": 46145
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 166
+}

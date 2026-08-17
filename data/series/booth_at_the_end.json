@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_booth_at_the_end",
+  "title": "The Booth at the End",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4442895",
+    "imdb": "tt1554369",
+    "tmdb": 44220
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

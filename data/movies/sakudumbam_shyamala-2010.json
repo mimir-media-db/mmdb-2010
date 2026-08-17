@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sakudumbam_shyamala_2010",
+  "title": "Sakudumbam Shyamala",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7403139",
+    "imdb": "tt1820643",
+    "tmdb": 152358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

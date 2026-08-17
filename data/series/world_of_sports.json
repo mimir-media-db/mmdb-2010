@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_world_of_sports",
+  "title": "World of Sports",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8036634"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

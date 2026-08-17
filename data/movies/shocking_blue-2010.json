@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shocking_blue_2010",
+  "title": "Shocking Blue",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7499908",
+    "imdb": "tt1307010",
+    "tmdb": 77592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 82
+}

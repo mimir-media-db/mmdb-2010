@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curious_george_2_follow_that_monkey_2010",
+  "title": "Curious George 2: Follow That Monkey!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3230419",
+    "imdb": "tt1350484",
+    "tmdb": 23903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 81
+}

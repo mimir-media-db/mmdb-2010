@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rishtacom",
+  "title": "Rishta.com",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q426964",
+    "imdb": "tt1739752",
+    "tmdb": 33954
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

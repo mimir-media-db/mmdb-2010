@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightfur_2010",
+  "title": "Nightfur",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7033800",
+    "imdb": "tt1522203",
+    "tmdb": 275525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

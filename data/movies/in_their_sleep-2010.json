@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_their_sleep_2010",
+  "title": "In Their Sleep",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3015566",
+    "imdb": "tt1285240",
+    "tmdb": 53354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_with_a_capital_c_2010",
+  "title": "Christmas with a Capital C",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5111591",
+    "imdb": "tt1640116",
+    "tmdb": 80254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 81
+}

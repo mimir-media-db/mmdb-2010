@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cain_and_abel",
+  "title": "Cain and Abel",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1974297",
+    "imdb": "tt1795747",
+    "tmdb": 204722
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 49
+}

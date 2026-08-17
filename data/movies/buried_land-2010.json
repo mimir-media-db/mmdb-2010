@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buried_land_2010",
+  "title": "Buried Land",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4375131",
+    "imdb": "tt1625858",
+    "tmdb": 422833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 86
+}

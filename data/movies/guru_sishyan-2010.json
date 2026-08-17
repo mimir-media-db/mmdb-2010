@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guru_sishyan_2010",
+  "title": "Guru Sishyan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5620437",
+    "imdb": "tt1835986",
+    "tmdb": 99166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

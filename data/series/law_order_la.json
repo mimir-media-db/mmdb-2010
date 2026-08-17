@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_law_order_la",
+  "title": "Law & Order: LA",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q624607",
+    "imdb": "tt1657081",
+    "tmdb": 32632
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

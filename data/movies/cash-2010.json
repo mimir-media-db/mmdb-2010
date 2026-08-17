@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cash_2010",
+  "title": "Cash",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1024664",
+    "imdb": "tt1106860",
+    "tmdb": 27004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 108
+}

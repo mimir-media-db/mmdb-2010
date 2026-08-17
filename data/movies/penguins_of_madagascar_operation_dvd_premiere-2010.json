@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_penguins_of_madagascar_operation_dvd_premiere_2010",
+  "title": "The Penguins of Madagascar: Operation: DVD Premiere",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1319632",
+    "imdb": "tt1700493",
+    "tmdb": 378244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

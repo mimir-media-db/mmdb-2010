@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_valentine_2010",
+  "title": "Sweet Valentine",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2519061",
+    "imdb": "tt1353937",
+    "tmdb": 59931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_kalam_2010",
+  "title": "I Am Kalam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5975986",
+    "imdb": "tt1805263",
+    "tmdb": 71562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

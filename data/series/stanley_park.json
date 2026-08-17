@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_stanley_park",
+  "title": "Stanley Park",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7599851",
+    "imdb": "tt1626947",
+    "tmdb": 32950
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1
+}

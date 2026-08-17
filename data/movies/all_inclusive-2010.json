@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_inclusive_2010",
+  "title": "All Inclusive",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3612110",
+    "imdb": "tt2207433",
+    "tmdb": 339735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 75
+}

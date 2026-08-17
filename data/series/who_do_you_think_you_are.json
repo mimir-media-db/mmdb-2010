@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_who_do_you_think_you_are",
+  "title": "Who Do You Think You Are?",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q577486",
+    "imdb": "tt1365047",
+    "tmdb": 29009
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 60
+}

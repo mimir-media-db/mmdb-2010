@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_igla_remix_2010",
+  "title": "Igla Remix",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3148144",
+    "imdb": "tt1718800",
+    "tmdb": 219215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

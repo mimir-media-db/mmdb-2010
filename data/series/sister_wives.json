@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sister_wives",
+  "title": "Sister Wives",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2290376",
+    "imdb": "tt1721666",
+    "tmdb": 34045
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 73
+}

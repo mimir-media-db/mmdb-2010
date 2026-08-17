@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_the_gas_station_2_2010",
+  "title": "Attack the Gas Station 2",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4818027",
+    "imdb": "tt1442512",
+    "tmdb": 38983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 111
+}

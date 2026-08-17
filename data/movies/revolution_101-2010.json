@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revolution_101_2010",
+  "title": "Revolution 101",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6568282",
+    "imdb": "tt1699222",
+    "tmdb": 381661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 84
+}

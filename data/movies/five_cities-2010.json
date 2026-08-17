@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_cities_2010",
+  "title": "Five Cities",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5455859",
+    "imdb": "tt1523415",
+    "tmdb": 51334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 95
+}

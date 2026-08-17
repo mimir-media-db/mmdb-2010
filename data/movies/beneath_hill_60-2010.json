@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beneath_hill_60_2010",
+  "title": "Beneath Hill 60",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2986009",
+    "imdb": "tt1418646",
+    "tmdb": 43418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 122
+}

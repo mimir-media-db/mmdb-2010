@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_genesis_2010",
+  "title": "Land of Genesis",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6760158",
+    "imdb": "tt1719490",
+    "tmdb": 244172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

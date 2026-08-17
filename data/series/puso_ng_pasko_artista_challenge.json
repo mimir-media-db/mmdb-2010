@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_puso_ng_pasko_artista_challenge",
+  "title": "Puso ng Pasko: Artista Challenge",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7261899",
+    "imdb": "tt8833110",
+    "tmdb": 34625
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_unexpected",
+  "title": "Life Unexpected",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1064789",
+    "imdb": "tt1442109",
+    "tmdb": 20021
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

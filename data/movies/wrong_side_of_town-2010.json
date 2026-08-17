@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_side_of_town_2010",
+  "title": "Wrong Side of Town",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1886792",
+    "imdb": "tt1431191",
+    "tmdb": 32845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nanga_parbat_2010",
+  "title": "Nanga Parbat",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q329340",
+    "imdb": "tt1361349",
+    "tmdb": 46636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 104
+}

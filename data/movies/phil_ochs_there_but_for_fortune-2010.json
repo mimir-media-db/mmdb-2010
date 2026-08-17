@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phil_ochs_there_but_for_fortune_2010",
+  "title": "Phil Ochs: There but for Fortune",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7182244",
+    "imdb": "tt1597089",
+    "tmdb": 55845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

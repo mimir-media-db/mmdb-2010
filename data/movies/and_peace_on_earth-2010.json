@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_peace_on_earth_2010",
+  "title": "And Peace on Earth",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3733633",
+    "imdb": "tt1706679",
+    "tmdb": 121535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

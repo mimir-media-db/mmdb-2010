@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paano_na_kaya_2010",
+  "title": "Paano Na Kaya",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7121450",
+    "imdb": "tt1592569",
+    "tmdb": 35952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_butcher_the_chef_and_the_swordsman_2010",
+  "title": "The Butcher, the Chef and the Swordsman",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94286",
+    "imdb": "tt1722513",
+    "tmdb": 58679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

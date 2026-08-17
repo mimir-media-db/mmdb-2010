@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yamada_the_samurai_of_ayothaya_2010",
+  "title": "Yamada: The Samurai of Ayothaya",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4537537",
+    "imdb": "tt1905010",
+    "tmdb": 67327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 100
+}

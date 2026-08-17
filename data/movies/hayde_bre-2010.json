@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hayde_bre_2010",
+  "title": "Hayde Bre",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5686260",
+    "imdb": "tt2121768",
+    "tmdb": 75647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

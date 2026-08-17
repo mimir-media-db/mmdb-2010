@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_museo_coconut",
+  "title": "Museo Coconut",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1215990",
+    "imdb": "tt1807424",
+    "tmdb": 45430
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

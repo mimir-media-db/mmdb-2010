@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_natalie_2010",
+  "title": "Natalie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189080",
+    "imdb": "tt1846675",
+    "tmdb": 56607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

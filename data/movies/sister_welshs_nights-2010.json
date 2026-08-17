@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sister_welshs_nights_2010",
+  "title": "Sister Welsh's Nights",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234289",
+    "imdb": "tt1242520",
+    "tmdb": 187913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

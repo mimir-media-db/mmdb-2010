@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_eagle_2010",
+  "title": "The Red Eagle",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q590088",
+    "imdb": "tt1743711",
+    "tmdb": 50583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 130
+}

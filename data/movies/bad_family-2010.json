@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_family_2010",
+  "title": "Bad Family",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4840281",
+    "imdb": "tt1380174",
+    "tmdb": 50990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 95
+}

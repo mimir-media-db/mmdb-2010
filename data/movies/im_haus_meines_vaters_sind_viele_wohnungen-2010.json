@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_haus_meines_vaters_sind_viele_wohnungen_2010",
+  "title": "Im Haus meines Vaters sind viele Wohnungen",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1659376",
+    "imdb": "tt1594491",
+    "tmdb": 180211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

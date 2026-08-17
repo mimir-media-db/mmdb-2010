@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_you_like_crazy_2010",
+  "title": "Miss You like Crazy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6878117",
+    "imdb": "tt1611914",
+    "tmdb": 40981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

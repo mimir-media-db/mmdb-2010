@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lenin_in_october_2010",
+  "title": "Lenin in October",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6765155",
+    "imdb": "tt1819584",
+    "tmdb": 218141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 50
+}

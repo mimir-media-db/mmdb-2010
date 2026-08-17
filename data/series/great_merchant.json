@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_great_merchant",
+  "title": "The Great Merchant",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q486171",
+    "imdb": "tt5520354",
+    "tmdb": 35389
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

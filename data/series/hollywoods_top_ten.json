@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywoods_top_ten",
+  "title": "Hollywood's Top Ten",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5882487",
+    "imdb": "tt1699756"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 364
+}

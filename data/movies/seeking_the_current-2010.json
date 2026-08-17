@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seeking_the_current_2010",
+  "title": "Seeking the Current",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2962714",
+    "imdb": "tt1950109",
+    "tmdb": 211628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

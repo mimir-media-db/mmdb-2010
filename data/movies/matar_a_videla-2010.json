@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matar_a_videla_2010",
+  "title": "Matar a Videla",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3428603",
+    "imdb": "tt1560160",
+    "tmdb": 123442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

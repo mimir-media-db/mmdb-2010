@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friend_ganesha_3_2010",
+  "title": "My Friend Ganesha 3",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945506",
+    "imdb": "tt1796564",
+    "tmdb": 84976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

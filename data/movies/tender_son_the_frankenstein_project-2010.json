@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tender_son_the_frankenstein_project_2010",
+  "title": "Tender Son – The Frankenstein Project",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3518008",
+    "imdb": "tt1527049",
+    "tmdb": 73311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 105
+}

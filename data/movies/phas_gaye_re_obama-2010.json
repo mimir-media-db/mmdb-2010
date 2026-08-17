@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phas_gaye_re_obama_2010",
+  "title": "Phas Gaye Re Obama",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7180899",
+    "imdb": "tt1773015",
+    "tmdb": 56897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carnies_2010",
+  "title": "Carnies",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5044055",
+    "imdb": "tt0799975",
+    "tmdb": 407279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

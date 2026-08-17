@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_macgruber_2010",
+  "title": "MacGruber",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1579371",
+    "imdb": "tt1470023",
+    "tmdb": 37931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 94
+}

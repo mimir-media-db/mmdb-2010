@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bethenny_ever_after",
+  "title": "Bethenny Ever After",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4897962",
+    "imdb": "tt1661102",
+    "tmdb": 64879
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

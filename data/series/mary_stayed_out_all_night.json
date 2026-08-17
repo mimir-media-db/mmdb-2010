@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mary_stayed_out_all_night",
+  "title": "Mary Stayed Out All Night",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q484485",
+    "imdb": "tt2458514",
+    "tmdb": 38167
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

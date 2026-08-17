@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_uusi_paiva",
+  "title": "Uusi päivä",
+  "start_year": 2010,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q11899833",
+    "imdb": "tt1724525",
+    "tmdb": 54999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 749
+}

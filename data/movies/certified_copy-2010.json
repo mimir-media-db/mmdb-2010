@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_certified_copy_2010",
+  "title": "Certified Copy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1214594",
+    "imdb": "tt1020773",
+    "tmdb": 48303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 106
+}

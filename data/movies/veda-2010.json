@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veda_2010",
+  "title": "Veda",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4117773",
+    "imdb": "tt1586001",
+    "tmdb": 38613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

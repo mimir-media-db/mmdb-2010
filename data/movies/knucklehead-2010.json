@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knucklehead_2010",
+  "title": "Knucklehead",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3199977",
+    "imdb": "tt1524131",
+    "tmdb": 44946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 91
+}

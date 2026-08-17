@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_foundling_2010",
+  "title": "A Foundling",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4656849",
+    "imdb": "tt1301309",
+    "tmdb": 397824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

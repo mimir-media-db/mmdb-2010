@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_cinema_de_boris_vian_2010",
+  "title": "Le Cinéma de Boris Vian",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3221451",
+    "imdb": "tt2889546",
+    "tmdb": 754107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

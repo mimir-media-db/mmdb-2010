@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_scheme",
+  "title": "The Scheme",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7762496",
+    "imdb": "tt1685460",
+    "tmdb": 33006
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

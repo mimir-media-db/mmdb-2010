@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enemies_among_us_2010",
+  "title": "Enemies Among Us",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3556302",
+    "imdb": "tt1462044",
+    "tmdb": 41728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

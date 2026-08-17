@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tito",
+  "title": "Tito",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1249191",
+    "imdb": "tt1616072",
+    "tmdb": 43697
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

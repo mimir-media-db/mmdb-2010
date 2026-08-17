@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nations_favourite",
+  "title": "The Nation's Favourite",
+  "start_year": 2010,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7753125",
+    "imdb": "tt2149211"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

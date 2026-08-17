@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_asfur",
+  "title": "Asfur",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4804246",
+    "imdb": "tt1664065",
+    "tmdb": 32357
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 70
+}

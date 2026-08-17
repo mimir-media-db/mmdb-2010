@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_auction_hunters",
+  "title": "Auction Hunters",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q929847",
+    "imdb": "tt1742340",
+    "tmdb": 34575
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 105
+}

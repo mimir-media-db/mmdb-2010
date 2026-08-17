@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alist_new_york",
+  "title": "The A-List: New York",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7712024",
+    "imdb": "tt1729127",
+    "tmdb": 33763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

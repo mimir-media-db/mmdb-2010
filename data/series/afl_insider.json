@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_afl_insider",
+  "title": "AFL Insider",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4651530",
+    "imdb": "tt1924540"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_are_we_there_yet",
+  "title": "Are We There Yet?",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3273511",
+    "imdb": "tt1544603",
+    "tmdb": 36473
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 100
+}

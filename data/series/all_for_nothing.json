@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_for_nothing",
+  "title": "All for Nothing?",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4729959",
+    "imdb": "tt2250480",
+    "tmdb": 40081
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

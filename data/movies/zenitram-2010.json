@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zenitram_2010",
+  "title": "Zenitram",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110103697",
+    "imdb": "tt0861747",
+    "tmdb": 48468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 103
+}

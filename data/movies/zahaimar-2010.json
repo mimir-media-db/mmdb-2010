@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zahaimar_2010",
+  "title": "Zahaimar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12214656",
+    "imdb": "tt1796395",
+    "tmdb": 62972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zigortzaileak_2010",
+  "title": "Zigortzaileak",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12269332",
+    "imdb": "tt1583953",
+    "tmdb": 721485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-25",
+  "runtime_minutes": 87
+}

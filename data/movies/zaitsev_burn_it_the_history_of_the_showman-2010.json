@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zaitsev_burn_it_the_history_of_the_showman_2010",
+  "title": "Zaitsev, Burn It! The History of the Showman",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20076947",
+    "imdb": "tt1782570",
+    "tmdb": 51073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

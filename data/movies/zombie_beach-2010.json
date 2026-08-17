@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_beach_2010",
+  "title": "Zombie Beach",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8073735",
+    "imdb": "tt1604064",
+    "tmdb": 1253284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

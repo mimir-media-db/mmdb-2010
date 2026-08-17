@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zero_ii_2010",
+  "title": "Zero II",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16477439",
+    "imdb": "tt1592292",
+    "tmdb": 36618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

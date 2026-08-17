@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mia",
+  "title": "MIA",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q11987464",
+    "imdb": "tt26934711",
+    "tmdb": 331121
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

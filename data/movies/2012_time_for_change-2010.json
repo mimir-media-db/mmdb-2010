@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2012_time_for_change_2010",
+  "title": "2012: Time for Change",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2814588",
+    "imdb": "tt1506940",
+    "tmdb": 48752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-09",
+  "runtime_minutes": 85
+}

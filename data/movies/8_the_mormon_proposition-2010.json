@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_8_the_mormon_proposition_2010",
+  "title": "8: The Mormon Proposition",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4645168",
+    "imdb": "tt1484522",
+    "tmdb": 40428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 80
+}

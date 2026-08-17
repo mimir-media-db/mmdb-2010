@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_catches_us_2010",
+  "title": "Night Catches Us",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7033245",
+    "imdb": "tt0775543",
+    "tmdb": 48833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

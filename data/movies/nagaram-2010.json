@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nagaram_2010",
+  "title": "Nagaram",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6958538",
+    "imdb": "tt4321328",
+    "tmdb": 450213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

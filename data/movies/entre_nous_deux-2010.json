@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_entre_nous_deux_2010",
+  "title": "Entre nous deux",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55596780",
+    "imdb": "tt1654022",
+    "tmdb": 576183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

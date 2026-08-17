@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_colo_2010",
+  "title": "En colo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18009856",
+    "imdb": "tt1764291",
+    "tmdb": 240500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-18"
+}

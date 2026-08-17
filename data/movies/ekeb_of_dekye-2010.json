@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ekeb_of_dekye_2010",
+  "title": "Ekeb of Dekye",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11546951",
+    "imdb": "tt1521237",
+    "tmdb": 226261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-09",
+  "runtime_minutes": 112
+}

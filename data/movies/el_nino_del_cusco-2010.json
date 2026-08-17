@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_el_nino_del_cusco_2010",
+  "title": "El niño del Cusco",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123312686"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

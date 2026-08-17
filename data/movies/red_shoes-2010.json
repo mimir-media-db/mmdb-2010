@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_shoes_2010",
+  "title": "The Red Shoes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7759936",
+    "imdb": "tt1612093",
+    "tmdb": 290055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_republic_of_korea_1_2010",
+  "title": "Republic of Korea 1%",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16261313",
+    "imdb": "tt1814671",
+    "tmdb": 44262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-05"
+}

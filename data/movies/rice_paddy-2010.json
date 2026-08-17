@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rice_paddy_2010",
+  "title": "The Rice Paddy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212350",
+    "imdb": "tt2014268",
+    "tmdb": 105991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-09"
+}

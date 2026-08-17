@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rakta_charitra_2_2010",
+  "title": "Rakta Charitra 2",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65051886",
+    "imdb": "tt1727535",
+    "tmdb": 55808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-03"
+}

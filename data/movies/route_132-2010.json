@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_route_132_2010",
+  "title": "Route 132",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3443570",
+    "imdb": "tt1461211",
+    "tmdb": 62117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26",
+  "runtime_minutes": 113
+}

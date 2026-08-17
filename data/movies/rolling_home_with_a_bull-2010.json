@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rolling_home_with_a_bull_2010",
+  "title": "Rolling Home with a Bull",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18230411",
+    "imdb": "tt1826860",
+    "tmdb": 152282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-03"
+}

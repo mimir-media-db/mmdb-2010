@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revelation_of_the_pyramids_2010",
+  "title": "The Revelation of the Pyramids",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649610",
+    "imdb": "tt2124189",
+    "tmdb": 73111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-10",
+  "runtime_minutes": 106
+}

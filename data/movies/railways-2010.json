@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_railways_2010",
+  "title": "Railways",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4183879",
+    "imdb": "tt1292561",
+    "tmdb": 84094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-29"
+}

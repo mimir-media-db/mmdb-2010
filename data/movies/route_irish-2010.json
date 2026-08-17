@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_route_irish_2010",
+  "title": "Route Irish",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2467712",
+    "imdb": "tt1528312",
+    "tmdb": 59065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-20",
+  "runtime_minutes": 109
+}

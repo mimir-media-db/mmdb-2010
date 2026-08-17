@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_randka_w_ciemno_2010",
+  "title": "Randka w ciemno",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9303978",
+    "imdb": "tt1455241",
+    "tmdb": 81311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-05"
+}

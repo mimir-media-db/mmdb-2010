@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rita_cadillac_a_lady_do_povo_2010",
+  "title": "Rita Cadillac: A Lady do Povo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19427625",
+    "imdb": "tt2831562",
+    "tmdb": 241993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

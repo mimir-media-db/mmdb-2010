@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rat_race_2010",
+  "title": "The Rat Race",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50330161",
+    "imdb": "tt2308985",
+    "tmdb": 373504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

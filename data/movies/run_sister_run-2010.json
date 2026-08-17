@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_run_sister_run_2010",
+  "title": "Run Sister Run!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18693408",
+    "imdb": "tt1380201",
+    "tmdb": 51190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-13",
+  "runtime_minutes": 112
+}

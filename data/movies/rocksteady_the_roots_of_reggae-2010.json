@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rocksteady_the_roots_of_reggae_2010",
+  "title": "Rocksteady: The Roots of Reggae",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61741851",
+    "imdb": "tt1320257",
+    "tmdb": 74793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-29",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rubber_room_2010",
+  "title": "The Rubber Room",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7761757",
+    "imdb": "tt1682999",
+    "tmdb": 273531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

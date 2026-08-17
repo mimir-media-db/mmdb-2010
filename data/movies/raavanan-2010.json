@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raavanan_2010",
+  "title": "Raavanan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521744",
+    "imdb": "tt1664806",
+    "tmdb": 54456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-18",
+  "runtime_minutes": 134
+}

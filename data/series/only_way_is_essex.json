@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_only_way_is_essex",
+  "title": "The Only Way Is Essex",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1532410",
+    "imdb": "tt1737565",
+    "tmdb": 34284
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 32,
+  "total_episodes": 395
+}

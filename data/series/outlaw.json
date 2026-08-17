@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_outlaw",
+  "title": "Outlaw",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3887566",
+    "imdb": "tt1592226",
+    "tmdb": 32820
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

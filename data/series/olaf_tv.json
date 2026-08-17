@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_olaf_tv",
+  "title": "Olaf TV",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15867465",
+    "imdb": "tt1740988",
+    "tmdb": 84204
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 16
+}

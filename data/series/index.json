@@ -5873,6 +5873,13 @@
     "path": "data/series/meteor_shower_ii.json"
   },
   {
+    "id": "s_mia",
+    "title": "MIA",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/mia.json"
+  },
+  {
     "id": "s_miami_medical",
     "title": "Miami Medical",
     "start_year": 2010,

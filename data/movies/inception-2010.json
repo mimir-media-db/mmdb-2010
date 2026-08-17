@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inception_2010",
+  "title": "Inception",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25188",
+    "imdb": "tt1375666",
+    "tmdb": 27205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-08",
+  "runtime_minutes": 148
+}

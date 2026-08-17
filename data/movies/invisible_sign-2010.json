@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_sign_2010",
+  "title": "An Invisible Sign",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1041743",
+    "imdb": "tt1212454",
+    "tmdb": 59435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-07",
+  "runtime_minutes": 96
+}

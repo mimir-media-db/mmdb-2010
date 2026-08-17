@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_complicated_2010",
+  "title": "It's Complicated",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q843950",
+    "imdb": "tt1230414",
+    "tmdb": 22897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-21",
+  "runtime_minutes": 118
+}

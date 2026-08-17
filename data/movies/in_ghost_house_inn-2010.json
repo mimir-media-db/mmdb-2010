@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_ghost_house_inn_2010",
+  "title": "In Ghost House Inn",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6009528",
+    "imdb": "tt1732659",
+    "tmdb": 202724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-25"
+}

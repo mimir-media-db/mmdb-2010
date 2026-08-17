@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_interrupted_streams_2010",
+  "title": "Interrupted Streams",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14928280",
+    "imdb": "tt1692103",
+    "tmdb": 1193177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 75
+}

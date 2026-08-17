@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inkosaari_2010",
+  "title": "Inkosaari",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249241",
+    "imdb": "tt1740676",
+    "tmdb": 530750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

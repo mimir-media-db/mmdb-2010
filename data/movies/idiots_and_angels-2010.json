@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_idiots_and_angels_2010",
+  "title": "Idiots and Angels",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3024138",
+    "imdb": "tt1013607",
+    "tmdb": 42521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-06",
+  "runtime_minutes": 78
+}

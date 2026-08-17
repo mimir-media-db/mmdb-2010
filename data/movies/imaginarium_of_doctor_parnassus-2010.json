@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imaginarium_of_doctor_parnassus_2010",
+  "title": "The Imaginarium of Doctor Parnassus",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q578344",
+    "imdb": "tt1054606",
+    "tmdb": 8054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-07",
+  "runtime_minutes": 122
+}

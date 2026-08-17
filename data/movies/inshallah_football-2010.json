@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inshallah_football_2010",
+  "title": "Inshallah, Football",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249283",
+    "imdb": "tt1758662",
+    "tmdb": 375470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

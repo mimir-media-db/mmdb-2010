@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ishqiya_2010",
+  "title": "Ishqiya",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3631071",
+    "imdb": "tt1345777",
+    "tmdb": 33556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-29",
+  "runtime_minutes": 115
+}

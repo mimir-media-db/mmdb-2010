@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_want_to_die_2010",
+  "title": "I Want to Die",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19544799",
+    "imdb": "tt1717229",
+    "tmdb": 60619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_you_phillip_morris_2010",
+  "title": "I Love You Phillip Morris",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1128867",
+    "imdb": "tt1045772",
+    "tmdb": 8952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-29",
+  "runtime_minutes": 102
+}

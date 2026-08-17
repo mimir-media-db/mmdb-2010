@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_came_from_busan_2010",
+  "title": "I Came from Busan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108166861",
+    "imdb": "tt1509286",
+    "tmdb": 322692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-01"
+}

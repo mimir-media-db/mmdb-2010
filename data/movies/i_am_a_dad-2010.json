@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_a_dad_2010",
+  "title": "I Am a Dad",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6391526",
+    "imdb": "tt2009494",
+    "tmdb": 64845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-01",
+  "runtime_minutes": 99
+}

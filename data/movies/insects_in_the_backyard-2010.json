@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_insects_in_the_backyard_2010",
+  "title": "Insects in the Backyard",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13024085",
+    "imdb": "tt1819550",
+    "tmdb": 244309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

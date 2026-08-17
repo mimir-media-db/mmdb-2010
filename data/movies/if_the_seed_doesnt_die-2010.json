@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_the_seed_doesnt_die_2010",
+  "title": "If the Seed Doesn't Die",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44862672",
+    "imdb": "tt1733118",
+    "tmdb": 122174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-25",
+  "runtime_minutes": 113
+}

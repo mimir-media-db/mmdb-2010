@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightmare_on_elm_street_2010",
+  "title": "A Nightmare on Elm Street",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300508",
+    "imdb": "tt1179056",
+    "tmdb": 23437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-27",
+  "runtime_minutes": 95
+}

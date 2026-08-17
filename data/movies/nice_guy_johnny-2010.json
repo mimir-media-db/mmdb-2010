@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nice_guy_johnny_2010",
+  "title": "Nice Guy Johnny",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4272175",
+    "imdb": "tt1619037",
+    "tmdb": 43938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-01",
+  "runtime_minutes": 89
+}

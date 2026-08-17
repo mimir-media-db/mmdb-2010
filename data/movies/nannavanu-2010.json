@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nannavanu_2010",
+  "title": "Nannavanu",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17064879",
+    "imdb": "tt13725564",
+    "tmdb": 1734987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

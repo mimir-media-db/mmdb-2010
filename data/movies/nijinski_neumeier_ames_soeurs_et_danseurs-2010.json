@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nijinski_neumeier_ames_soeurs_et_danseurs_2010",
+  "title": "Nijinski & Neumeier - Ames soeurs et danseurs",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30802493",
+    "imdb": "tt1623281"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-12",
+  "runtime_minutes": 88
+}

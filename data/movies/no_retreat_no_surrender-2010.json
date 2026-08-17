@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_retreat_no_surrender_2010",
+  "title": "No Retreat, No Surrender",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12236845",
+    "imdb": "tt1920997",
+    "tmdb": 60263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-30",
+  "runtime_minutes": 116
+}

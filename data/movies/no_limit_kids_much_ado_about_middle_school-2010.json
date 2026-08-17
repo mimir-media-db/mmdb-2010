@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_limit_kids_much_ado_about_middle_school_2010",
+  "title": "No Limit Kids: Much Ado About Middle School",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12196836",
+    "imdb": "tt1394240",
+    "tmdb": 270852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

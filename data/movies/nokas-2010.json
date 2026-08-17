@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nokas_2010",
+  "title": "Nokas",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7047834",
+    "imdb": "tt1337366",
+    "tmdb": 48161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-01"
+}

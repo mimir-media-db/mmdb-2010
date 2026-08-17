@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_comfort_2010",
+  "title": "Northern Comfort",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12064445",
+    "imdb": "tt1254966",
+    "tmdb": 396613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

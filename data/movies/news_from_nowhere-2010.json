@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_news_from_nowhere_2010",
+  "title": "News from Nowhere",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26833709",
+    "imdb": "tt2354274",
+    "tmdb": 340365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-10",
+  "runtime_minutes": 94
+}

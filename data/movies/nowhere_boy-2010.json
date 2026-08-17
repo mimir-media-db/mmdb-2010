@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nowhere_boy_2010",
+  "title": "Nowhere Boy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q576877",
+    "imdb": "tt1266029",
+    "tmdb": 33511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-08",
+  "runtime_minutes": 98
+}

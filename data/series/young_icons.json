@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_young_icons",
+  "title": "The Young Icons",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7776755",
+    "imdb": "tt1795498",
+    "tmdb": 43530
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 81
+}

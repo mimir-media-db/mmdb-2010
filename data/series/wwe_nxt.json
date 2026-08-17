@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wwe_nxt",
+  "title": "WWE NXT",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16324425",
+    "imdb": "tt1601141",
+    "tmdb": 31991
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 777
+}

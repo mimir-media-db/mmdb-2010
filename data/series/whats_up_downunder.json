@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_whats_up_downunder",
+  "title": "What's Up Downunder",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17059133"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 115
+}

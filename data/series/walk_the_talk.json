@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_walk_the_talk",
+  "title": "Walk the Talk",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q10718766",
+    "imdb": "tt1509717",
+    "tmdb": 38140
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wingin_it",
+  "title": "Wingin' It",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q326314",
+    "imdb": "tt1479978",
+    "tmdb": 32547
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 51
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thorne",
+  "title": "Thorne",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7796376",
+    "imdb": "tt1610518",
+    "tmdb": 34235
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

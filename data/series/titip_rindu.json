@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_titip_rindu",
+  "title": "Titip Rindu",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q12521700",
+    "tmdb": 50078
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

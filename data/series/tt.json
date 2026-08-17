@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tt",
+  "title": "TT",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4465233",
+    "imdb": "tt1712153",
+    "tmdb": 63445
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

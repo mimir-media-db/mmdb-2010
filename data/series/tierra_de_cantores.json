@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tierra_de_cantores",
+  "title": "Tierra de cantores",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6146690",
+    "imdb": "tt5333376",
+    "tmdb": 124581
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

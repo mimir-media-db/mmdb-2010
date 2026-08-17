@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_a_beginning_2010",
+  "title": "Just a Beginning",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2943580",
+    "imdb": "tt1686022",
+    "tmdb": 63976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

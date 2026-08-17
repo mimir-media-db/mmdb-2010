@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joffa_the_movie_2010",
+  "title": "Joffa: The Movie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6214614",
+    "imdb": "tt1815771",
+    "tmdb": 59880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

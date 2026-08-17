@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_ne_vous_oublierai_jamais_2010",
+  "title": "Je ne vous oublierai jamais",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3163478",
+    "imdb": "tt1064960",
+    "tmdb": 534624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

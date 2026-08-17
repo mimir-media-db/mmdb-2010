@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeanmichel_basquiat_the_radiant_child_2010",
+  "title": "Jean-Michel Basquiat: The Radiant Child",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2002249",
+    "imdb": "tt1568335",
+    "tmdb": 51486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

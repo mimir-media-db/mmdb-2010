@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jade_and_the_pearl_2010",
+  "title": "The Jade and the Pearl",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184034",
+    "imdb": "tt1711475",
+    "tmdb": 46129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

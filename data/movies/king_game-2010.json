@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_game_2010",
+  "title": "King Game",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17222412",
+    "imdb": "tt1677564",
+    "tmdb": 255146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kino_caravan_2010",
+  "title": "Kino Caravan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11739413",
+    "imdb": "tt1519468",
+    "tmdb": 283145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-28",
+  "runtime_minutes": 100
+}

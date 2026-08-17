@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kandahar_2010",
+  "title": "Kandahar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6361199",
+    "imdb": "tt1825833",
+    "tmdb": 234631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-16"
+}

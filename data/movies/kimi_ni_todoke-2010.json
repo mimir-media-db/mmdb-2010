@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kimi_ni_todoke_2010",
+  "title": "Kimi ni Todoke",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8982692",
+    "imdb": "tt1632544",
+    "tmdb": 59944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-25",
+  "runtime_minutes": 128
+}

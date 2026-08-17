@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karate_kid_2010",
+  "title": "The Karate Kid",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q327685",
+    "imdb": "tt1155076",
+    "tmdb": 38575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-11",
+  "runtime_minutes": 140
+}

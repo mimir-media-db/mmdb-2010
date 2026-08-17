@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kazura_2010",
+  "title": "Kazura",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11263834",
+    "imdb": "tt1584798",
+    "tmdb": 255152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

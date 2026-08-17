@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kandagar_2010",
+  "title": "Kandagar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1771340",
+    "imdb": "tt1272018",
+    "tmdb": 34586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-04",
+  "runtime_minutes": 100
+}

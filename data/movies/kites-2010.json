@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kites_2010",
+  "title": "Kites",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3032397",
+    "imdb": "tt1198101",
+    "tmdb": 37737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-21",
+  "runtime_minutes": 123
+}

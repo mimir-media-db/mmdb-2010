@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khaleja_2010",
+  "title": "Khaleja",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1010104",
+    "imdb": "tt1582519",
+    "tmdb": 56986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-07",
+  "runtime_minutes": 170
+}

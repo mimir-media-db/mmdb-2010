@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koottukar_2010",
+  "title": "Koottukar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6430870",
+    "imdb": "tt2245466",
+    "tmdb": 491421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-19"
+}

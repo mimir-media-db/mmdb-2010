@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kathai_2010",
+  "title": "Kathai",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6376087",
+    "imdb": "tt1841682",
+    "tmdb": 99182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-29"
+}

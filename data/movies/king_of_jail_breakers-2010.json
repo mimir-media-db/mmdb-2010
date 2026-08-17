@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_jail_breakers_2010",
+  "title": "The King of Jail Breakers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11532589",
+    "imdb": "tt1519634",
+    "tmdb": 241950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

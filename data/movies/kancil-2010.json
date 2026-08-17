@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_kancil_2010",
+  "title": "Kancil",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121634117"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

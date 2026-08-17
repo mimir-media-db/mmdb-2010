@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kommissarie_spack_2010",
+  "title": "Kommissarie Späck",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10547354",
+    "imdb": "tt1580798",
+    "tmdb": 49874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-04",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_24_hrs_2010",
+  "title": "24 Hrs",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4631885",
+    "imdb": "tt1639312",
+    "tmdb": 473032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

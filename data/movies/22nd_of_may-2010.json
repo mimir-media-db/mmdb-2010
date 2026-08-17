@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_22nd_of_may_2010",
+  "title": "22nd of May",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4631455",
+    "imdb": "tt1245647",
+    "tmdb": 78197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

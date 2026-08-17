@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_8_sentiments_2010",
+  "title": "The 8 Sentiments",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17401372",
+    "imdb": "tt6448986",
+    "tmdb": 1015129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-30"
+}

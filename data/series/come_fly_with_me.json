@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_come_fly_with_me",
+  "title": "Come Fly with Me",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1113852",
+    "imdb": "tt1749004",
+    "tmdb": 34604
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

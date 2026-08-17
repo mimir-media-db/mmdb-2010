@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cidade_despida",
+  "title": "Cidade Despida",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q9758012",
+    "imdb": "tt1591178",
+    "tmdb": 203398
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

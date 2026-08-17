@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cesty_domu",
+  "title": "Cesty domů",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11722952",
+    "imdb": "tt1833295",
+    "tmdb": 50829
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 195
+}

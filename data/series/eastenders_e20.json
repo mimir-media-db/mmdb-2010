@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eastenders_e20",
+  "title": "EastEnders: E20",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5327582",
+    "imdb": "tt1581724",
+    "tmdb": 31142
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 37
+}

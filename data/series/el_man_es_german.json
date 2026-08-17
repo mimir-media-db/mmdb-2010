@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_man_es_german",
+  "title": "El man es Germán",
+  "start_year": 2010,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q5825634",
+    "imdb": "tt1829919",
+    "tmdb": 114605
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 164
+}

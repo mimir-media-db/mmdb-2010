@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_elias_paniki",
+  "title": "Elias Paniki",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5360578",
+    "imdb": "tt1795802",
+    "tmdb": 32765
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

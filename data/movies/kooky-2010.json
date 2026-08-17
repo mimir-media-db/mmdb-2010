@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kooky_2010",
+  "title": "Kooky",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1343567",
+    "imdb": "tt1630603",
+    "tmdb": 50294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

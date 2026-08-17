@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kola_kolaya_mundhirika_2010",
+  "title": "Kola Kolaya Mundhirika",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6426957",
+    "imdb": "tt1506443",
+    "tmdb": 78641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kevin_smith_too_fat_for_40_2010",
+  "title": "Kevin Smith: Too Fat for 40",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6397510",
+    "imdb": "tt1705115",
+    "tmdb": 48132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

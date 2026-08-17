@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kathi_kantha_rao_2010",
+  "title": "Kathi Kantha Rao",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6376598",
+    "imdb": "tt1798185",
+    "tmdb": 77802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

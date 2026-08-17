@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kafka_au_congo_2010",
+  "title": "Kafka au Congo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2879165",
+    "imdb": "tt1634123"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

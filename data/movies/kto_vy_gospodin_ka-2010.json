@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kto_vy_gospodin_ka_2010",
+  "title": "Kto vy, gospodin Ka?",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5960825",
+    "imdb": "tt1773519",
+    "tmdb": 62319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 96
+}

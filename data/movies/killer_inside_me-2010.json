@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_inside_me_2010",
+  "title": "The Killer Inside Me",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1409165",
+    "imdb": "tt0954947",
+    "tmdb": 37414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 108
+}

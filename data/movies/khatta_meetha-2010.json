@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khatta_meetha_2010",
+  "title": "Khatta Meetha",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6400953",
+    "imdb": "tt1455811",
+    "tmdb": 44565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 158
+}

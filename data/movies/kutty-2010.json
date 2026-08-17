@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kutty_2010",
+  "title": "Kutty",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3200708",
+    "imdb": "tt1708487",
+    "tmdb": 69512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_king_kong_360_3d_2010",
+  "title": "King Kong: 360 3-D",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6411805",
+    "imdb": "tt2118664"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

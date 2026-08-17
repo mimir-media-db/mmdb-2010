@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_backyards_2010",
+  "title": "3 Backyards",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4636468",
+    "imdb": "tt1314190",
+    "tmdb": 68412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 88
+}

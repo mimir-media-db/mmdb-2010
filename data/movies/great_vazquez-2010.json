@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_vazquez_2010",
+  "title": "The Great Vazquez",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8773784",
+    "imdb": "tt1525915",
+    "tmdb": 57413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-24",
+  "runtime_minutes": 100
+}

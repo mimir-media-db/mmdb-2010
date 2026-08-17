@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gentlemen_broncos_2010",
+  "title": "Gentlemen Broncos",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q164080",
+    "imdb": "tt1161418",
+    "tmdb": 22820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-27",
+  "runtime_minutes": 89
+}

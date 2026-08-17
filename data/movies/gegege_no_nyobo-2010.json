@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gegege_no_nyobo_2010",
+  "title": "GeGeGe no Nyōbō",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11301518",
+    "imdb": "tt1424058",
+    "tmdb": 491868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

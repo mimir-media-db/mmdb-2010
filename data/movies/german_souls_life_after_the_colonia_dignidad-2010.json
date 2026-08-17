@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_german_souls_life_after_the_colonia_dignidad_2010",
+  "title": "German Souls - Life after the Colonia Dignidad",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33001032",
+    "imdb": "tt1399538",
+    "tmdb": 667776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-01",
+  "runtime_minutes": 96
+}

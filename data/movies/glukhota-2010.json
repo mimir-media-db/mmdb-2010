@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glukhota_2010",
+  "title": "Glukhota",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16696464",
+    "imdb": "tt1606227",
+    "tmdb": 267162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 11
+}

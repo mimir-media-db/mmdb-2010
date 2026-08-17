@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goringin_sauva_2010",
+  "title": "Göringin sauva",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113550118",
+    "imdb": "tt1582502",
+    "tmdb": 1112784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 38
+}

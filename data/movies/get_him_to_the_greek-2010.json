@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_him_to_the_greek_2010",
+  "title": "Get Him to the Greek",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q940139",
+    "imdb": "tt1226229",
+    "tmdb": 32823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-04",
+  "runtime_minutes": 109
+}

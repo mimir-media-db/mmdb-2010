@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gimme_some_respect_2010",
+  "title": "Gimme Some Respect",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17384999",
+    "imdb": "tt1433827",
+    "tmdb": 131760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

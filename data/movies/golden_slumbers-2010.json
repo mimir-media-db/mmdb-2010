@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_slumbers_2010",
+  "title": "Golden Slumbers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10847339",
+    "imdb": "tt1413529",
+    "tmdb": 46911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-30"
+}

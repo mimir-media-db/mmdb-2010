@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stomp_the_yard_homecoming_2010",
+  "title": "Stomp the Yard: Homecoming",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2580402",
+    "imdb": "tt1533817",
+    "tmdb": 33473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 89
+}

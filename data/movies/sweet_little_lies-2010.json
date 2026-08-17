@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_little_lies_2010",
+  "title": "Sweet Little Lies",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189751",
+    "imdb": "tt1603395",
+    "tmdb": 80649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 117
+}

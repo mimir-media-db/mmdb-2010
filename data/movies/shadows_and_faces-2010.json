@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadows_and_faces_2010",
+  "title": "Shadows and Faces",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7460798",
+    "imdb": "tt1834824",
+    "tmdb": 128015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

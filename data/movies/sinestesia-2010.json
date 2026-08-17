@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sinestesia_2010",
+  "title": "Sinestesia",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3961722",
+    "imdb": "tt1578135",
+    "tmdb": 118645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 91
+}

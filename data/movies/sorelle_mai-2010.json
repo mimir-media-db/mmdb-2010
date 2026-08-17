@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorelle_mai_2010",
+  "title": "Sorelle mai",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3965057",
+    "imdb": "tt1698566",
+    "tmdb": 72057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 105
+}

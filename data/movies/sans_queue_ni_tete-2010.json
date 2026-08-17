@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sans_queue_ni_tete_2010",
+  "title": "Sans queue ni tête",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3472464",
+    "imdb": "tt1590157",
+    "tmdb": 56174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 95
+}

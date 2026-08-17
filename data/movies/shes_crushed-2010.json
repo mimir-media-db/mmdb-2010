@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shes_crushed_2010",
+  "title": "She's Crushed",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7491795",
+    "imdb": "tt1192621",
+    "tmdb": 32367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

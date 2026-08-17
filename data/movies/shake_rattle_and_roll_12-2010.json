@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shake_rattle_and_roll_12_2010",
+  "title": "Shake, Rattle and Roll 12",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7462587",
+    "imdb": "tt1789902",
+    "tmdb": 58672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

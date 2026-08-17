@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_claus_gang_2010",
+  "title": "The Santa Claus Gang",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3821373",
+    "imdb": "tt1680095",
+    "tmdb": 58013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

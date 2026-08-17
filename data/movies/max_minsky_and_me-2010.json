@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_minsky_and_me_2010",
+  "title": "Max Minsky and Me",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3801126",
+    "imdb": "tt0466100",
+    "tmdb": 131407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-12",
+  "runtime_minutes": 94
+}

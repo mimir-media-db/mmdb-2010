@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_best_bodyguard_2010",
+  "title": "My Best Bodyguard",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13018950",
+    "imdb": "tt1772984",
+    "tmdb": 65848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

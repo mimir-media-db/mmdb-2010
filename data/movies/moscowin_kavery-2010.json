@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moscowin_kavery_2010",
+  "title": "Moscowin Kavery",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15286769",
+    "imdb": "tt2041424",
+    "tmdb": 111581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

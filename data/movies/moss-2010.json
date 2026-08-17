@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moss_2010",
+  "title": "Moss",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492148",
+    "imdb": "tt1694019",
+    "tmdb": 49087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-15",
+  "runtime_minutes": 163
+}

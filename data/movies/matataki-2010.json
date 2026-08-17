@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_matataki_2010",
+  "title": "Matataki",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10864019",
+    "imdb": "tt1611115",
+    "tmdb": 71435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

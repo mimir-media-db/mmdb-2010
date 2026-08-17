@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_manus_man_of_war_2010",
+  "title": "Max Manus: Man of War",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1753970",
+    "imdb": "tt1029235",
+    "tmdb": 13752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-11",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_khan_2010",
+  "title": "My Name Is Khan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q330663",
+    "imdb": "tt1188996",
+    "tmdb": 26022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-10",
+  "runtime_minutes": 155
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_steel_vs_the_toxic_legion_2010",
+  "title": "Max Steel vs The Toxic Legion",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10327769",
+    "imdb": "tt1805326",
+    "tmdb": 810506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 52
+}

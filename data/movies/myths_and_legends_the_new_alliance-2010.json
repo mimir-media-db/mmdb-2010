@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_myths_and_legends_the_new_alliance_2010",
+  "title": "Myths and Legends: The New Alliance",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106764908",
+    "imdb": "tt1739196",
+    "tmdb": 80903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_master_haroldand_the_boys_2010",
+  "title": "Master Harold...and the Boys",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3851580",
+    "imdb": "tt1234546",
+    "tmdb": 76424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-17",
+  "runtime_minutes": 87
+}

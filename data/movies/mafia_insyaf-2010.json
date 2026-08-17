@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mafia_insyaf_2010",
+  "title": "Mafia Insyaf",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12496052",
+    "imdb": "tt1774477",
+    "tmdb": 629747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

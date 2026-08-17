@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_flesh_my_blood_2010",
+  "title": "My Flesh My Blood",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11784705",
+    "imdb": "tt1471195",
+    "tmdb": 68634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-29",
+  "runtime_minutes": 90
+}

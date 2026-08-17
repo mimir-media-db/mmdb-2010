@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manual_on_how_to_create_a_terrorist_2010",
+  "title": "Manual on How to Create a Terrorist",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12035216",
+    "imdb": "tt1772304"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mothers_daughters_dresses_2010",
+  "title": "Mothers, Daughters, Dresses",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130545420",
+    "imdb": "tt1772941",
+    "tmdb": 772920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-22",
+  "runtime_minutes": 55
+}

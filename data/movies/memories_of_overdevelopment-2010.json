@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memories_of_overdevelopment_2010",
+  "title": "Memories of Overdevelopment",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9031472",
+    "imdb": "tt0457591",
+    "tmdb": 237767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 112
+}

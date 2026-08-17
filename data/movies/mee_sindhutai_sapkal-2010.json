@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mee_sindhutai_sapkal_2010",
+  "title": "Mee Sindhutai Sapkal",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6807479",
+    "imdb": "tt1804604",
+    "tmdb": 702216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-30",
+  "runtime_minutes": 120
+}

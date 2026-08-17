@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machete_maidens_unleashed_2010",
+  "title": "Machete Maidens Unleashed!",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18166100",
+    "imdb": "tt1623757",
+    "tmdb": 70115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 84
+}

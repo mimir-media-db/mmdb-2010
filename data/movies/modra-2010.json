@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_modra_2010",
+  "title": "Modra",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737755",
+    "imdb": "tt1664708",
+    "tmdb": 76717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-15"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_cousing_the_pirate_2010",
+  "title": "My Cousing the Pirate",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494334",
+    "imdb": "tt4145758",
+    "tmdb": 1386422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 45
+}

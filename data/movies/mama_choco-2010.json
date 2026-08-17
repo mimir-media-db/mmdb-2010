@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mama_choco_2010",
+  "title": "Mamá Chocó",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719314",
+    "imdb": "tt1820519"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 57
+}

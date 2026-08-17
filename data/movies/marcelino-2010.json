@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marcelino_2010",
+  "title": "Marcelino",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17462475",
+    "imdb": "tt1757806",
+    "tmdb": 75956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_zombie_2010",
+  "title": "Mr. Zombie",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19939878",
+    "tmdb": 322528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26"
+}

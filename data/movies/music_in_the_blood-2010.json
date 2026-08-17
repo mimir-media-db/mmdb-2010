@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_music_in_the_blood_2010",
+  "title": "Music in the Blood",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44869290",
+    "imdb": "tt1611928",
+    "tmdb": 55299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

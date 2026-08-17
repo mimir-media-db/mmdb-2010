@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_world_2010",
+  "title": "Mad World",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44868087",
+    "imdb": "tt0451108",
+    "tmdb": 185200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

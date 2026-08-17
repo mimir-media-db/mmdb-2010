@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mega_toby_2010",
+  "title": "Mega Toby",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3133534",
+    "imdb": "tt1601212",
+    "tmdb": 45798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-06",
+  "runtime_minutes": 39
+}

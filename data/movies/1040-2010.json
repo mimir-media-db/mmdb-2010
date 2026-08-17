@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1040_2010",
+  "title": "1040",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4546517",
+    "imdb": "tt1609920",
+    "tmdb": 282252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

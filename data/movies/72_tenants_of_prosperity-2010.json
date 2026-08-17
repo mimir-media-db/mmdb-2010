@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_72_tenants_of_prosperity_2010",
+  "title": "72 Tenants of Prosperity",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4185448",
+    "imdb": "tt1602474",
+    "tmdb": 52776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 99
+}

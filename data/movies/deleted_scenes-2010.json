@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deleted_scenes_2010",
+  "title": "Deleted Scenes",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117232649",
+    "imdb": "tt1541699",
+    "tmdb": 120044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

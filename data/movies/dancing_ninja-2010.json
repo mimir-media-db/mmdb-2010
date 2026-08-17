@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_ninja_2010",
+  "title": "Dancing Ninja",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15270705",
+    "imdb": "tt1294141",
+    "tmdb": 278778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 98
+}

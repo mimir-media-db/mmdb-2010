@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_liebe_der_kinder_2010",
+  "title": "Die Liebe der Kinder",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1214472",
+    "imdb": "tt1422018",
+    "tmdb": 124683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-26",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_kappa_2010",
+  "title": "Death Kappa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11320563",
+    "imdb": "tt1642193",
+    "tmdb": 49395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

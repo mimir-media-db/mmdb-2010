@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dotcom_2010",
+  "title": "Dot.Com",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q309863",
+    "imdb": "tt0793413",
+    "tmdb": 71116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-08",
+  "runtime_minutes": 100
+}

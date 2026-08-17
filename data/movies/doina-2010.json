@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doina_2010",
+  "title": "Doina",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5288649",
+    "imdb": "tt1707355"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-02",
+  "runtime_minutes": 17
+}

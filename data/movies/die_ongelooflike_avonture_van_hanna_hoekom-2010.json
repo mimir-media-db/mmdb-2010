@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_ongelooflike_avonture_van_hanna_hoekom_2010",
+  "title": "Die Ongelooflike Avonture Van Hanna Hoekom",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13034602",
+    "imdb": "tt1687231",
+    "tmdb": 60780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-13",
+  "runtime_minutes": 90
+}

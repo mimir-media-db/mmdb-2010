@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_demi_dewi_2010",
+  "title": "Demi Dewi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12481215",
+    "imdb": "tt1657339",
+    "tmdb": 654360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-06"
+}

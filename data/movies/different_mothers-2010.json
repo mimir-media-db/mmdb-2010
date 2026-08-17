@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_different_mothers_2010",
+  "title": "Different Mothers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44863072",
+    "imdb": "tt1617244",
+    "tmdb": 451783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

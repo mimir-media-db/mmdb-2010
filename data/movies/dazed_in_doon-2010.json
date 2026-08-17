@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dazed_in_doon_2010",
+  "title": "Dazed In Doon",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12112510",
+    "imdb": "tt5613914",
+    "tmdb": 512753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-23"
+}

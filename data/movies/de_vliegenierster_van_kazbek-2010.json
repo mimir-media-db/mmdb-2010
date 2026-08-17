@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_vliegenierster_van_kazbek_2010",
+  "title": "De vliegenierster van Kazbek",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2017995",
+    "imdb": "tt1234540",
+    "tmdb": 71782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-08",
+  "runtime_minutes": 104
+}

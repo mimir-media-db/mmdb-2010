@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_carnival_2010",
+  "title": "The Death Carnival",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5868975",
+    "imdb": "tt2613288",
+    "tmdb": 817546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-02",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dnepr_2010",
+  "title": "Dnepr",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576038",
+    "imdb": "tt5815100",
+    "tmdb": 902968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-12",
+  "runtime_minutes": 75
+}

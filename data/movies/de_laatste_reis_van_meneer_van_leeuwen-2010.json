@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_laatste_reis_van_meneer_van_leeuwen_2010",
+  "title": "De laatste reis van meneer Van Leeuwen",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3252122",
+    "imdb": "tt1567124",
+    "tmdb": 246622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-07-17",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_at_the_oasis_2010",
+  "title": "A Day At The Oasis",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600277",
+    "imdb": "tt1655553",
+    "tmdb": 271474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

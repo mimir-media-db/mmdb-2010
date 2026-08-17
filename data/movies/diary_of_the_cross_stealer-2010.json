@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_the_cross_stealer_2010",
+  "title": "The Diary of the Cross Stealer",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4163087",
+    "imdb": "tt2571582",
+    "tmdb": 1246621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-04",
+  "runtime_minutes": 156
+}

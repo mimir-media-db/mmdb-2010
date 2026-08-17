@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_did_you_hear_about_the_morgans_2010",
+  "title": "Did You Hear About the Morgans?",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q379296",
+    "imdb": "tt1314228",
+    "tmdb": 24438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-07",
+  "runtime_minutes": 103
+}

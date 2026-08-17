@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_distant_neighborhood_2010",
+  "title": "A Distant Neighborhood",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1705681",
+    "imdb": "tt1266037",
+    "tmdb": 62871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-20",
+  "runtime_minutes": 100
+}

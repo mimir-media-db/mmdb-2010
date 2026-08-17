@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_with_the_jackals_2010",
+  "title": "Dance with the Jackals",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6052071",
+    "imdb": "tt1783423",
+    "tmdb": 59811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-17"
+}

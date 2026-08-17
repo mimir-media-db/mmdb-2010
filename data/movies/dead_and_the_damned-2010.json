@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_and_the_damned_2010",
+  "title": "The Dead and the Damned",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19867614",
+    "imdb": "tt1565441",
+    "tmdb": 71548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

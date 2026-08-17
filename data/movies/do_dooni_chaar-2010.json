@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_do_dooni_chaar_2010",
+  "title": "Do Dooni Chaar",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3419925",
+    "imdb": "tt1714832",
+    "tmdb": 53284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-08",
+  "runtime_minutes": 110
+}

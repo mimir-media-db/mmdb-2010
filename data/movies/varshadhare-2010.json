@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_varshadhare_2010",
+  "title": "Varshadhare",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24038014",
+    "imdb": "tt2456116"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

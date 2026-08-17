@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vincent_wants_to_sea_2010",
+  "title": "Vincent Wants to Sea",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q822431",
+    "imdb": "tt1611211",
+    "tmdb": 47979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-22",
+  "runtime_minutes": 96
+}

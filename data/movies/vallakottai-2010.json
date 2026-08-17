@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vallakottai_2010",
+  "title": "Vallakottai",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22315224",
+    "imdb": "tt3764444",
+    "tmdb": 66495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

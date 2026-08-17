@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_versailles_2010",
+  "title": "Versailles",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3556150",
+    "imdb": "tt1132607",
+    "tmdb": 8941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-27",
+  "runtime_minutes": 102
+}

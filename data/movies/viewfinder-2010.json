@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viewfinder_2010",
+  "title": "Viewfinder",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19483579",
+    "imdb": "tt1519659",
+    "tmdb": 342877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-29",
+  "runtime_minutes": 94
+}

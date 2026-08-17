@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virsa_2010",
+  "title": "Virsa",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7934893",
+    "imdb": "tt1636842",
+    "tmdb": 107565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-05-07"
+}

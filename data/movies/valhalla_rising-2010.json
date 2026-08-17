@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valhalla_rising_2010",
+  "title": "Valhalla Rising",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1446749",
+    "imdb": "tt0862467",
+    "tmdb": 37861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-10",
+  "runtime_minutes": 89
+}

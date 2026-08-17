@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunters_2010",
+  "title": "Haunters",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5682734",
+    "imdb": "tt1900891",
+    "tmdb": 68252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-11-10",
+  "runtime_minutes": 119
+}

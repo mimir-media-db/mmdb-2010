@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hustlers_2010",
+  "title": "Hustlers",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18693430",
+    "imdb": "tt1604115",
+    "tmdb": 68861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

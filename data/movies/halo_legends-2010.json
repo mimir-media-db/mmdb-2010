@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_halo_legends_2010",
+  "title": "Halo Legends",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3113058",
+    "imdb": "tt1480660",
+    "tmdb": 573531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-02-16",
+  "runtime_minutes": 119
+}

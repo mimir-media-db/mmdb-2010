@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_human_centipede_2010",
+  "title": "The Human Centipede",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q854419",
+    "imdb": "tt1467304",
+    "tmdb": 37169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-04-30",
+  "runtime_minutes": 92
+}

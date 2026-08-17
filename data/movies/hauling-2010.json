@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hauling_2010",
+  "title": "Hauling",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5682555",
+    "imdb": "tt1531677",
+    "tmdb": 648978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-11"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hangman_2010",
+  "title": "The Hangman",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7738765",
+    "imdb": "tt0417735",
+    "tmdb": 340722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

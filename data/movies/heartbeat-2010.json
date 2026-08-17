@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heartbeat_2010",
+  "title": "Heartbeat",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5692565",
+    "imdb": "tt1820667",
+    "tmdb": 65248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-22",
+  "runtime_minutes": 114
+}

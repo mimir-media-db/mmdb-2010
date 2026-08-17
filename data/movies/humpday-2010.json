@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_humpday_2010",
+  "title": "Humpday",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1750540",
+    "imdb": "tt1334537",
+    "tmdb": 23720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-09",
+  "runtime_minutes": 94
+}

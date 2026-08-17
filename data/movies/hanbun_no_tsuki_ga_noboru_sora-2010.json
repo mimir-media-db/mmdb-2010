@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanbun_no_tsuki_ga_noboru_sora_2010",
+  "title": "Hanbun no Tsuki ga Noboru Sora",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632277",
+    "imdb": "tt1542892",
+    "tmdb": 558766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 112
+}

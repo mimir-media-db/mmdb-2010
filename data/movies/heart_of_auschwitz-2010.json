@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_auschwitz_2010",
+  "title": "Heart of Auschwitz",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055332",
+    "imdb": "tt1780890",
+    "tmdb": 249812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 85
+}

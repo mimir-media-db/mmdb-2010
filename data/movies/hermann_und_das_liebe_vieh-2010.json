@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hermann_und_das_liebe_vieh_2010",
+  "title": "Hermann und das liebe Vieh",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124788829",
+    "imdb": "tt22256988",
+    "tmdb": 1186664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 30
+}

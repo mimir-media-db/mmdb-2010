@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_house_project_2010",
+  "title": "The Haunted House Project",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20445540",
+    "imdb": "tt1831744",
+    "tmdb": 56604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-19",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_here_and_there_2010",
+  "title": "Here and There",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3133996",
+    "imdb": "tt1118045",
+    "tmdb": 41483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-25",
+  "runtime_minutes": 85
+}

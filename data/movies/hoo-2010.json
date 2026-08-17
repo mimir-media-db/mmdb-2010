@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hoo_2010",
+  "title": "Hoo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5897362",
+    "imdb": "tt13724976"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-06-04"
+}

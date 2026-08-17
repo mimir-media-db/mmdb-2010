@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_wars_2010",
+  "title": "Holy Wars",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124811",
+    "imdb": "tt1014799",
+    "tmdb": 156937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 84
+}

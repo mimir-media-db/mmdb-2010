@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hachi_a_dogs_tale_2010",
+  "title": "Hachi: A Dog's Tale",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59249",
+    "imdb": "tt1028532",
+    "tmdb": 28178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-12",
+  "runtime_minutes": 93
+}

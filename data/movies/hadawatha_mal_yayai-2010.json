@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hadawatha_mal_yayai_2010",
+  "title": "Hadawatha Mal Yayai",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830502",
+    "imdb": "tt9850084"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-03-04"
+}

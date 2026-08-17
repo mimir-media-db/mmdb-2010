@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_here_comes_fortune_2010",
+  "title": "Here Comes Fortune",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252119",
+    "imdb": "tt1602480",
+    "tmdb": 45889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

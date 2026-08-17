@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hdsp_hunting_down_small_predators_2010",
+  "title": "HDSP: Hunting Down Small Predators",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12285001",
+    "imdb": "tt1666364",
+    "tmdb": 80355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-17",
+  "runtime_minutes": 100
+}

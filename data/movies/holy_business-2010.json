@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_business_2010",
+  "title": "Holy Business",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9396914",
+    "imdb": "tt1708533",
+    "tmdb": 68791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-08-27",
+  "runtime_minutes": 86
+}

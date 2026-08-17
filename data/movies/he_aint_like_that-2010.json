@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_he_aint_like_that_2010",
+  "title": "He Ain't Like That",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12635968",
+    "imdb": "tt1114710",
+    "tmdb": 110942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

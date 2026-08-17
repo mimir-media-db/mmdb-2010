@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beck_2010",
+  "title": "Beck",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q766799",
+    "imdb": "tt1587118",
+    "tmdb": 60163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 145
+}

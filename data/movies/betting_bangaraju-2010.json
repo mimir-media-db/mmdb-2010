@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_betting_bangaraju_2010",
+  "title": "Betting Bangaraju",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4898637",
+    "imdb": "tt1649286",
+    "tmdb": 77799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

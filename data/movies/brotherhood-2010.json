@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brotherhood_2010",
+  "title": "Brotherhood",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2184230",
+    "imdb": "tt1273241",
+    "tmdb": 51462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 76
+}

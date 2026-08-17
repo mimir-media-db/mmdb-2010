@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ben_sam_2010",
+  "title": "Ben & Sam",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4885183",
+    "imdb": "tt1604556",
+    "tmdb": 236666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

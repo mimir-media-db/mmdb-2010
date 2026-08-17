@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_moon_rising_2010",
+  "title": "Blue Moon Rising",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4929466",
+    "imdb": "tt1641390",
+    "tmdb": 50414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 97
+}

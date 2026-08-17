@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benny_and_babloo_2010",
+  "title": "Benny and Babloo",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4890069",
+    "imdb": "tt1740662",
+    "tmdb": 117133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

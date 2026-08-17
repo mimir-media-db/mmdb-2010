@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bones_2010",
+  "title": "Bones",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4941738",
+    "imdb": "tt1447480",
+    "tmdb": 160210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

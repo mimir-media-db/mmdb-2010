@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_and_white_2010",
+  "title": "Black and White",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4922219",
+    "imdb": "tt1636833",
+    "tmdb": 64138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

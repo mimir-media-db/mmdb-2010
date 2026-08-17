@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_and_his_samurai_2010",
+  "title": "A Boy and His Samurai",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q870350",
+    "imdb": "tt1595354",
+    "tmdb": 61682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 108
+}

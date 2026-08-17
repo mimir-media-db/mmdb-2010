@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_test_2010",
+  "title": "Blind test",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2906623",
+    "imdb": "tt1718740",
+    "tmdb": 576171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

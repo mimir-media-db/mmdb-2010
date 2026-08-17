@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_better_tomorrow_2010",
+  "title": "A Better Tomorrow",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q498105",
+    "imdb": "tt1138442",
+    "tmdb": 58959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 124
+}

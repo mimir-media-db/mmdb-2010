@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_wonder_2010",
+  "title": "Boy Wonder",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4952147",
+    "imdb": "tt1456060",
+    "tmdb": 80188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 93
+}

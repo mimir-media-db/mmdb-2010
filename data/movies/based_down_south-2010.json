@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_based_down_south_2010",
+  "title": "Based Down South",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4866629",
+    "imdb": "tt1696566",
+    "tmdb": 495633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

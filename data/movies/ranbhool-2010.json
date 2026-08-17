@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ranbhool_2010",
+  "title": "Ranbhool",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7290749",
+    "imdb": "tt2612162",
+    "tmdb": 495126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

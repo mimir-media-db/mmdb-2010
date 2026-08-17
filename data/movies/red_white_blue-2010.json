@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_white_blue_2010",
+  "title": "Red, White & Blue",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7303410",
+    "imdb": "tt1465505",
+    "tmdb": 41827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

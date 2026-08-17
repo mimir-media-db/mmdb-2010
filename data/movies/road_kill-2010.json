@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_road_kill_2010",
+  "title": "Road Kill",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2710763",
+    "imdb": "tt1241330",
+    "tmdb": 42307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

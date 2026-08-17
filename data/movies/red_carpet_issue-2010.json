@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_carpet_issue_2010",
+  "title": "The Red Carpet Issue",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3522456",
+    "imdb": "tt1601232"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 60
+}

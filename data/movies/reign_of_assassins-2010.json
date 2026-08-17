@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reign_of_assassins_2010",
+  "title": "Reign of Assassins",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q718130",
+    "imdb": "tt1460743",
+    "tmdb": 44092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_remain_with_me_2010",
+  "title": "Remain with Me",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3427950",
+    "imdb": "tt1691877",
+    "tmdb": 60992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

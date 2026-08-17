@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ristabbanna_2010",
+  "title": "Ristabbanna",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3937084",
+    "imdb": "tt2167871",
+    "tmdb": 254422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 87
+}

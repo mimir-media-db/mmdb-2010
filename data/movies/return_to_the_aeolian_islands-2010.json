@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_the_aeolian_islands_2010",
+  "title": "Return to The Aeolian Islands",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3754080",
+    "imdb": "tt1764326",
+    "tmdb": 502407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 75
+}

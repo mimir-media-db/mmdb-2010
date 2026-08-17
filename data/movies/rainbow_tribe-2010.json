@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rainbow_tribe_2010",
+  "title": "The Rainbow Tribe",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3213280",
+    "imdb": "tt1083470",
+    "tmdb": 64130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

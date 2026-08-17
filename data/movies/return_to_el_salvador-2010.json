@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_el_salvador_2010",
+  "title": "Return to El Salvador",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7317284",
+    "imdb": "tt1593775",
+    "tmdb": 276416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 68
+}

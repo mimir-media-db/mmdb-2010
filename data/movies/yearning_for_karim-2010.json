@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yearning_for_karim_2010",
+  "title": "Yearning for Karim",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13090448",
+    "imdb": "tt1519396",
+    "tmdb": 369937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 95
+}

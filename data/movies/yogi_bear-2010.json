@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yogi_bear_2010",
+  "title": "Yogi Bear",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q570271",
+    "imdb": "tt1302067",
+    "tmdb": 41515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-12-11",
+  "runtime_minutes": 80
+}

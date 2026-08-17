@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yakuzas_daughter_never_cries_2010",
+  "title": "A Yakuza's Daughter Never Cries",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16698210",
+    "imdb": "tt1547089",
+    "tmdb": 62780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 81
+}

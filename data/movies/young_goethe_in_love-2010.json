@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_goethe_in_love_2010",
+  "title": "Young Goethe in Love",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q250971",
+    "imdb": "tt1440180",
+    "tmdb": 52475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-10-14",
+  "runtime_minutes": 100
+}

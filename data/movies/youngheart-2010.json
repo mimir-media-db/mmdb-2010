@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youngheart_2010",
+  "title": "Young@Heart",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3147087",
+    "imdb": "tt1047007",
+    "tmdb": 21182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-09-16",
+  "runtime_minutes": 107
+}

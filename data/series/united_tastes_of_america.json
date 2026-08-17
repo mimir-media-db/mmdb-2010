@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_united_tastes_of_america",
+  "title": "United Tastes of America",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7893589",
+    "imdb": "tt1932427"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 39
+}

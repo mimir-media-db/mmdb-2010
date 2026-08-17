@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_reparto_retrato_de_un_actor_2010",
+  "title": "De reparto (Retrato de un actor)",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5800649",
+    "imdb": "tt2807504",
+    "tmdb": 453670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

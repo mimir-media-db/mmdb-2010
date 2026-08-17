@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dunno_y_na_jaane_kyon_2010",
+  "title": "Dunno Y... Na Jaane Kyon",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3041368",
+    "imdb": "tt1742307",
+    "tmdb": 163807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

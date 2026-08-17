@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamkiller_2010",
+  "title": "Dreamkiller",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5306636",
+    "imdb": "tt0818098",
+    "tmdb": 902135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

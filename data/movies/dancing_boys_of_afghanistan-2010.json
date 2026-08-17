@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_boys_of_afghanistan_2010",
+  "title": "The Dancing Boys of Afghanistan",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3867173",
+    "imdb": "tt1559673",
+    "tmdb": 471419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 52
+}

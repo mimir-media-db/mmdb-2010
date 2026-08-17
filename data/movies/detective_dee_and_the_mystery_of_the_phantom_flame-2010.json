@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_detective_dee_and_the_mystery_of_the_phantom_flame_2010",
+  "title": "Detective Dee and the Mystery of the Phantom Flame",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2412823",
+    "imdb": "tt1123373",
+    "tmdb": 48492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 122
+}

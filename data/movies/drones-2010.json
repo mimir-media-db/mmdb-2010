@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drones_2010",
+  "title": "Drones",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5308326",
+    "imdb": "tt1232775",
+    "tmdb": 49250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

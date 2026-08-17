@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dreams_of_elibidi_2010",
+  "title": "The Dreams of Elibidi",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6983803",
+    "imdb": "tt2179888",
+    "tmdb": 338813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

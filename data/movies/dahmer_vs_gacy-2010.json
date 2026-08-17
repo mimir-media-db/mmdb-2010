@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dahmer_vs_gacy_2010",
+  "title": "Dahmer Vs. Gacy",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5208923",
+    "imdb": "tt1335986",
+    "tmdb": 70112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_awake_2010",
+  "title": "Dead Awake",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5245097",
+    "imdb": "tt1501652",
+    "tmdb": 50023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

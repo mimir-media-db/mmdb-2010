@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dads_in_heaven_with_nixon_2010",
+  "title": "Dad's in Heaven with Nixon",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5207836",
+    "imdb": "tt1469273",
+    "tmdb": 114614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2010-01-01"
+}

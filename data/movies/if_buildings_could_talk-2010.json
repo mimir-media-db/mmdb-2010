@@ -9,7 +9,12 @@
     "imdb": "tt1707382",
     "tmdb": 1123394
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-08-26",
-  "runtime_minutes": 24
+  "runtime_minutes": 24,
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "is_adult": false
 }

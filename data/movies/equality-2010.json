@@ -8,7 +8,13 @@
     "wikidata": "Q5384166",
     "imdb": "tt1612311"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-01-01",
-  "runtime_minutes": 6
+  "runtime_minutes": 6,
+  "genres": [
+    "Documentary",
+    "History",
+    "News"
+  ],
+  "is_adult": false
 }

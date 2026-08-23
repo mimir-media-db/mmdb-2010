@@ -9,7 +9,13 @@
     "imdb": "tt1164647",
     "tmdb": 14749
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-03-03",
-  "runtime_minutes": 84
+  "runtime_minutes": 84,
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

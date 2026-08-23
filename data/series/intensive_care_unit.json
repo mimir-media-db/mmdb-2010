@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q6044356"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 1
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "reality television",
+    "drama television series"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt1392197",
     "tmdb": 38579
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-05-27",
-  "runtime_minutes": 88
+  "runtime_minutes": 88,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,10 @@
     "wikidata": "Q7367273",
     "tmdb": 32624
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 115
+  "last_updated": "2026-08-23",
+  "total_episodes": 115,
+  "genres": [
+    "fantasy television program"
+  ],
+  "is_adult": false
 }

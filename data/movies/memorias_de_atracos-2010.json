@@ -8,7 +8,13 @@
     "wikidata": "Q10328570",
     "imdb": "tt1664693"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-01-01",
-  "runtime_minutes": 14
+  "runtime_minutes": 14,
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Short"
+  ],
+  "is_adult": false
 }

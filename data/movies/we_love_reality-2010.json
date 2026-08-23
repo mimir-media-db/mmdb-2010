@@ -8,6 +8,12 @@
     "wikidata": "Q60580620",
     "imdb": "tt9582552"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-08-19"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-08-19",
+  "genres": [
+    "Comedy",
+    "Reality-TV",
+    "Short"
+  ],
+  "is_adult": false
 }

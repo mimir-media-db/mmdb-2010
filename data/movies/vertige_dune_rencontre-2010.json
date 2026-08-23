@@ -9,6 +9,10 @@
     "imdb": "tt1695829",
     "tmdb": 534622
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-07-21"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-07-21",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

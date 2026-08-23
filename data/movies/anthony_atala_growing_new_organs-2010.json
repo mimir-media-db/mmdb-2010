@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q22976907"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-01-21"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-01-21",
+  "genres": [
+    "educational film"
+  ],
+  "is_adult": false
 }

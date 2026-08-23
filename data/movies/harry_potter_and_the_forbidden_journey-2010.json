@@ -8,6 +8,12 @@
     "wikidata": "Q16641324",
     "imdb": "tt1756545"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-01-01",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Short"
+  ],
+  "is_adult": false
 }

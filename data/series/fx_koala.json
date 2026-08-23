@@ -8,6 +8,10 @@
     "wikidata": "Q5423557",
     "tmdb": 90548
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 15
+  "last_updated": "2026-08-23",
+  "total_episodes": 15,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false
 }

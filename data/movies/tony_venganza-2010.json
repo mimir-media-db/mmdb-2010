@@ -8,6 +8,12 @@
     "wikidata": "Q20495612",
     "imdb": "tt1258165"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-01-01",
+  "genres": [
+    "Action",
+    "Comedy",
+    "War"
+  ],
+  "is_adult": false
 }

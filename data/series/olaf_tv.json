@@ -9,7 +9,13 @@
     "imdb": "tt1740988",
     "tmdb": 84204
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 4,
-  "total_episodes": 16
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Music",
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

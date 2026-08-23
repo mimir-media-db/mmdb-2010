@@ -8,6 +8,10 @@
     "wikidata": "Q16733432",
     "tmdb": 347818
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-05-15"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-05-15",
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false
 }

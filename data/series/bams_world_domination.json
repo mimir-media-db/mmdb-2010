@@ -8,6 +8,12 @@
     "wikidata": "Q4853242",
     "imdb": "tt1753474"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 1
+  "last_updated": "2026-08-23",
+  "total_episodes": 1,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

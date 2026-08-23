@@ -9,7 +9,11 @@
     "imdb": "tt1703122",
     "tmdb": 114196
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-08-13",
-  "runtime_minutes": 83
+  "runtime_minutes": 83,
+  "genres": [
+    "Horror"
+  ],
+  "is_adult": false
 }

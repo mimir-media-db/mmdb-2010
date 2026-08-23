@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q6796596"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 5,
-  "total_episodes": 131
+  "total_episodes": 131,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false
 }

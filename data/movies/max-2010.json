@@ -8,7 +8,13 @@
     "wikidata": "Q3841214",
     "imdb": "tt1830712"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-01-01",
-  "runtime_minutes": 55
+  "runtime_minutes": 55,
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt0403645",
     "tmdb": 38318
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-04-17",
-  "runtime_minutes": 181
+  "runtime_minutes": 181,
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "is_adult": false
 }

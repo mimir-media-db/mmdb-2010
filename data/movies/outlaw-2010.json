@@ -9,6 +9,12 @@
     "imdb": "tt1760984",
     "tmdb": 108800
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-03-18"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-03-18",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false
 }

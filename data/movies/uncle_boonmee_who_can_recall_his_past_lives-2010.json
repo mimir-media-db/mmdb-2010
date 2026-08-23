@@ -9,7 +9,12 @@
     "imdb": "tt1588895",
     "tmdb": 38368
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-05-21",
-  "runtime_minutes": 113
+  "runtime_minutes": 113,
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt1530935",
     "tmdb": 832243
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-05-19",
-  "runtime_minutes": 77
+  "runtime_minutes": 77,
+  "genres": [
+    "Biography",
+    "Documentary"
+  ],
+  "is_adult": false
 }

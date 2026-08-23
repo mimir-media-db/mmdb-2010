@@ -8,6 +8,10 @@
     "wikidata": "Q5500533",
     "tmdb": 34953
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 5
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "sageuk"
+  ],
+  "is_adult": false
 }

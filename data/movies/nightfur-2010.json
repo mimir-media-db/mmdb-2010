@@ -9,6 +9,11 @@
     "imdb": "tt1522203",
     "tmdb": 275525
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-01-01",
+  "genres": [
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

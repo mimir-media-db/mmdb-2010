@@ -8,7 +8,12 @@
     "wikidata": "Q1305303",
     "imdb": "tt1585565"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-01-01",
-  "runtime_minutes": 40
+  "runtime_minutes": 40,
+  "genres": [
+    "History",
+    "Short"
+  ],
+  "is_adult": false
 }

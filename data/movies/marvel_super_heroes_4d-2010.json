@@ -8,7 +8,13 @@
     "wikidata": "Q1515854",
     "imdb": "tt1695137"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-01-01",
-  "runtime_minutes": 9
+  "runtime_minutes": 9,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+  ],
+  "is_adult": false
 }

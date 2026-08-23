@@ -9,6 +9,12 @@
     "imdb": "tt1651084",
     "tmdb": 51074
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-01-01",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "is_adult": false
 }

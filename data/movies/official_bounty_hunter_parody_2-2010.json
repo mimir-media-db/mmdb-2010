@@ -9,7 +9,11 @@
     "imdb": "tt1698546",
     "tmdb": 910981
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-07-19",
-  "runtime_minutes": 185
+  "runtime_minutes": 185,
+  "genres": [
+    "Adult"
+  ],
+  "is_adult": true
 }

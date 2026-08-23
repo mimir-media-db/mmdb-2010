@@ -8,7 +8,11 @@
     "wikidata": "Q6495233",
     "imdb": "tt2780658"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 5,
-  "total_episodes": 64
+  "total_episodes": 64,
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt1640680",
     "tmdb": 37828
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-05-16",
-  "runtime_minutes": 105
+  "runtime_minutes": 105,
+  "genres": [
+    "Documentary",
+    "War"
+  ],
+  "is_adult": false
 }

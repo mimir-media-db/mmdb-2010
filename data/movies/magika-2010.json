@@ -9,7 +9,13 @@
     "imdb": "tt1728655",
     "tmdb": 204239
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-09-23",
-  "runtime_minutes": 94
+  "runtime_minutes": 94,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Musical"
+  ],
+  "is_adult": false
 }

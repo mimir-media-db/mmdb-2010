@@ -9,6 +9,12 @@
     "imdb": "tt3280718",
     "tmdb": 32489
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 405
+  "last_updated": "2026-08-23",
+  "total_episodes": 405,
+  "genres": [
+    "Documentary",
+    "Fantasy",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

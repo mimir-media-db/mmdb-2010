@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q124670549"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 70
+  "last_updated": "2026-08-23",
+  "total_episodes": 70,
+  "genres": [
+    "comedy television series"
+  ],
+  "is_adult": false
 }

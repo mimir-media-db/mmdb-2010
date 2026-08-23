@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q122723979"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 361
+  "total_episodes": 361,
+  "genres": [
+    "melodrama"
+  ],
+  "is_adult": false
 }

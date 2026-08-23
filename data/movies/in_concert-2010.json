@@ -8,6 +8,10 @@
     "wikidata": "Q62824578",
     "imdb": "tt6298116"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-12-04"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-12-04",
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false
 }

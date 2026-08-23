@@ -9,6 +9,12 @@
     "imdb": "tt2158922",
     "tmdb": 32271
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 13
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "Family",
+    "Game-Show",
+    "History"
+  ],
+  "is_adult": false
 }

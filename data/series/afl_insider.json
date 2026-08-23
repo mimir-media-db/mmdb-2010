@@ -8,6 +8,11 @@
     "wikidata": "Q4651530",
     "imdb": "tt1924540"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 5
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "genres": [
+    "Sport",
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

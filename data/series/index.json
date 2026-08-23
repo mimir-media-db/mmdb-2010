@@ -245,11 +245,25 @@
     "path": "data/series/9_by_design-2010.json"
   },
   {
+    "id": "s_aarti_party",
+    "title": "Aarti Party",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/aarti_party.json"
+  },
+  {
     "id": "s_aarti_party_2010",
     "title": "Aarti Party",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/aarti_party-2010.json"
+  },
+  {
+    "id": "s_accused",
+    "title": "Accused",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/accused.json"
   },
   {
     "id": "s_accused_2010",
@@ -259,11 +273,25 @@
     "path": "data/series/accused-2010.json"
   },
   {
+    "id": "s_adaalat",
+    "title": "Adaalat",
+    "start_year": 2010,
+    "end_year": 2016,
+    "path": "data/series/adaalat.json"
+  },
+  {
     "id": "s_adaalat_2010",
     "title": "Adaalat",
     "start_year": 2010,
     "end_year": 2016,
     "path": "data/series/adaalat-2010.json"
+  },
+  {
+    "id": "s_addicted",
+    "title": "Addicted",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/addicted.json"
   },
   {
     "id": "s_addicted_2010",
@@ -278,6 +306,13 @@
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/adios_al_septimo_de_linea-2010.json"
+  },
+  {
+    "id": "s_aerial_america",
+    "title": "Aerial America",
+    "start_year": 2010,
+    "end_year": 2017,
+    "path": "data/series/aerial_america.json"
   },
   {
     "id": "s_aerial_america_2010",
@@ -315,11 +350,25 @@
     "path": "data/series/afl_insider-2010.json"
   },
   {
+    "id": "s_aftermath",
+    "title": "Aftermath",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/aftermath.json"
+  },
+  {
     "id": "s_aftermath_2009",
     "title": "Aftermath",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/aftermath-2009.json"
+  },
+  {
+    "id": "s_aftermath_with_william_shatner",
+    "title": "Aftermath with William Shatner",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/aftermath_with_william_shatner.json"
   },
   {
     "id": "s_aftermath_with_william_shatner_2010",
@@ -329,11 +378,25 @@
     "path": "data/series/aftermath_with_william_shatner-2010.json"
   },
   {
+    "id": "s_agenda",
+    "title": "Agenda",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/agenda.json"
+  },
+  {
     "id": "s_agenda_2010",
     "title": "Agenda",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/agenda-2010.json"
+  },
+  {
+    "id": "s_agent_osobogo_naznacheniya",
+    "title": "Agent osobogo naznacheniya",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/agent_osobogo_naznacheniya.json"
   },
   {
     "id": "s_agent_osobogo_naznacheniya_2010",
@@ -343,11 +406,25 @@
     "path": "data/series/agent_osobogo_naznacheniya-2010.json"
   },
   {
+    "id": "s_agnipareeksha_jeevan_ki_gangaa",
+    "title": "Agnipareeksha Jeevan Ki – Gangaa",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/agnipareeksha_jeevan_ki_gangaa.json"
+  },
+  {
     "id": "s_agnipareeksha_jeevan_ki_gangaa_2010",
     "title": "Agnipareeksha Jeevan Ki – Gangaa",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/agnipareeksha_jeevan_ki_gangaa-2010.json"
+  },
+  {
+    "id": "s_ah_so_thats_how_it_is",
+    "title": "Ah! So that's how it is!",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/ah_so_thats_how_it_is.json"
   },
   {
     "id": "s_ah_so_thats_how_it_is_2010",
@@ -371,11 +448,25 @@
     "path": "data/series/aha-2010.json"
   },
   {
+    "id": "s_airplane_repo",
+    "title": "Airplane Repo",
+    "start_year": 2010,
+    "end_year": 2015,
+    "path": "data/series/airplane_repo.json"
+  },
+  {
     "id": "s_airplane_repo_2010",
     "title": "Airplane Repo",
     "start_year": 2010,
     "end_year": 2015,
     "path": "data/series/airplane_repo-2010.json"
+  },
+  {
+    "id": "s_aise_karo_naa_vidaa",
+    "title": "Aise Karo Naa Vidaa",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/aise_karo_naa_vidaa.json"
   },
   {
     "id": "s_aise_karo_naa_vidaa_2010",
@@ -385,11 +476,25 @@
     "path": "data/series/aise_karo_naa_vidaa-2010.json"
   },
   {
+    "id": "s_akiyaan_to_door_jayen_na",
+    "title": "Akiyaan To Door Jayen Na",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/akiyaan_to_door_jayen_na.json"
+  },
+  {
     "id": "s_akiyaan_to_door_jayen_na_2009",
     "title": "Akiyaan To Door Jayen Na",
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/akiyaan_to_door_jayen_na-2009.json"
+  },
+  {
+    "id": "s_aksyon",
+    "title": "Aksyon",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/aksyon.json"
   },
   {
     "id": "s_aksyon_2010",
@@ -399,6 +504,13 @@
     "path": "data/series/aksyon-2010.json"
   },
   {
+    "id": "s_aksyon_journalismo",
+    "title": "Aksyon JournalisMO",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/aksyon_journalismo.json"
+  },
+  {
     "id": "s_aksyon_journalismo_2010",
     "title": "Aksyon JournalisMO",
     "start_year": 2010,
@@ -406,11 +518,25 @@
     "path": "data/series/aksyon_journalismo-2010.json"
   },
   {
+    "id": "s_al_di_la_del_lago",
+    "title": "Al di là del lago",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/al_di_la_del_lago.json"
+  },
+  {
     "id": "s_al_di_la_del_lago_2010",
     "title": "Al di là del lago",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/al_di_la_del_lago-2010.json"
+  },
+  {
+    "id": "s_albanias_got_talent",
+    "title": "Albania's Got Talent",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/albanias_got_talent.json"
   },
   {
     "id": "s_albanias_got_talent_2010",
@@ -427,6 +553,13 @@
     "path": "data/series/alguien_que_me_quiera-2010.json"
   },
   {
+    "id": "s_alguien_te_mira",
+    "title": "Alguien Te Mira",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/alguien_te_mira.json"
+  },
+  {
     "id": "s_alguien_te_mira_2010",
     "title": "Alguien Te Mira",
     "start_year": 2010,
@@ -439,6 +572,13 @@
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/alist_new_york-2010.json"
+  },
+  {
+    "id": "s_alkhobz_alharam",
+    "title": "Al-khobz al-haram",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/alkhobz_alharam.json"
   },
   {
     "id": "s_alkhobz_alharam_2010",
@@ -495,6 +635,13 @@
     "start_year": 2010,
     "end_year": 2012,
     "path": "data/series/allein_gegen_die_zeit-2010.json"
+  },
+  {
+    "id": "s_almaqsi",
+    "title": "Al-Maqsi",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/almaqsi.json"
   },
   {
     "id": "s_almaqsi_2010",

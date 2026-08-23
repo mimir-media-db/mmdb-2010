@@ -16,5 +16,31 @@
     "Documentary",
     "Sport"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "AT",
+    "BO",
+    "BR",
+    "CN",
+    "DE",
+    "EG",
+    "FR",
+    "GB",
+    "GE",
+    "HU",
+    "IL",
+    "IR",
+    "IT",
+    "JP",
+    "KE",
+    "MX",
+    "PE",
+    "PS",
+    "TG",
+    "TT",
+    "US",
+    "UY",
+    "ZA"
+  ]
 }

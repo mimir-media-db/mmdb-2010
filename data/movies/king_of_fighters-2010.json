@@ -17,5 +17,13 @@
     "Sci-Fi",
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "CA",
+    "HK",
+    "JP",
+    "TW",
+    "US"
+  ]
 }

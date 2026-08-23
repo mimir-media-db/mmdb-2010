@@ -7,7 +7,10 @@
   "external_ids": {
     "wikidata": "Q12203186"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-05-05",
-  "runtime_minutes": 120
+  "runtime_minutes": 120,
+  "countries": [
+    "EG"
+  ]
 }

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_corazon_abierto",
+  "title": "A Corazón Abierto",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3284375",
+    "imdb": "tt1748374",
+    "tmdb": 32702
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2011,
+  "total_seasons": 2,
+  "total_episodes": 120
+}

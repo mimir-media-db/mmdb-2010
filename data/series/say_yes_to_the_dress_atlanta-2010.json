@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_say_yes_to_the_dress_atlanta_2010",
+  "title": "Say Yes to the Dress: Atlanta",
+  "start_year": 2010,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q7429045",
+    "imdb": "tt1730755",
+    "tmdb": 33374
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 102,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

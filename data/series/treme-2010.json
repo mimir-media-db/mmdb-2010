@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_treme_2010",
+  "title": "Treme",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1784986",
+    "imdb": "tt1279972",
+    "tmdb": 17967
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 36,
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_interpol_2010",
+  "title": "Interpol",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3153549",
+    "imdb": "tt1661320",
+    "tmdb": 79428
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 13,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

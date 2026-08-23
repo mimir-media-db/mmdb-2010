@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_border_wars_2010",
+  "title": "Border Wars",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4944628",
+    "imdb": "tt1569544",
+    "tmdb": 33914
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 57,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

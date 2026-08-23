@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_what_the_future_2010",
+  "title": "What the Future",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7991618",
+    "imdb": "tt1713422"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

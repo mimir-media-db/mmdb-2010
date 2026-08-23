@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ti_ti_ti_2010",
+  "title": "Ti Ti Ti",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2724289",
+    "imdb": "tt1781724",
+    "tmdb": 46182
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 209,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

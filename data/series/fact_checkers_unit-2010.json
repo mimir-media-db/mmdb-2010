@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fact_checkers_unit_2010",
+  "title": "Fact Checkers Unit",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5428674",
+    "imdb": "tt1688297",
+    "tmdb": 39794
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

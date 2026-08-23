@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_rosalka_2010",
+  "title": "Rosalka",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7367273",
+    "tmdb": 32624
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 115,
+  "genres": [
+    "fantasy television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

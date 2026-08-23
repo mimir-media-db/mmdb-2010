@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_so_you_think_you_can_dance_2010",
+  "title": "So You Think You Can Dance",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3432118",
+    "imdb": "tt1577461",
+    "tmdb": 30937
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 19,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

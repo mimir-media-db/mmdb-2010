@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_kelseys_essentials_2010",
+  "title": "Kelsey's Essentials",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q96385610",
+    "imdb": "tt2995946",
+    "tmdb": 52267
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

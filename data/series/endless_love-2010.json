@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_endless_love_2010",
+  "title": "Endless Love",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5376173",
+    "imdb": "tt1634613",
+    "tmdb": 31642
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 100,
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

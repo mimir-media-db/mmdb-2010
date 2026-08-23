@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_nikita_2010",
+  "title": "Nikita",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q390405",
+    "imdb": "tt1592154",
+    "tmdb": 32868
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 73,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

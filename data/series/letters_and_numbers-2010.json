@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_letters_and_numbers_2010",
+  "title": "Letters and Numbers",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6533711",
+    "imdb": "tt1678659",
+    "tmdb": 34985
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 450,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

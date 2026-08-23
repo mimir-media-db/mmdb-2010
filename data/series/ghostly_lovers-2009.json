@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_ghostly_lovers_2009",
+  "title": "Ghostly Lovers",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139700474",
+    "imdb": "tt1834823"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": []
+}

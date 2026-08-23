@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_offspring_2010",
+  "title": "Offspring",
+  "start_year": 2010,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7079708",
+    "imdb": "tt1530541",
+    "tmdb": 33155
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 66,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

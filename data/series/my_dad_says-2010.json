@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_my_dad_says_2010",
+  "title": "$#*! My Dad Says",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q11510",
+    "imdb": "tt1612578",
+    "tmdb": 32843
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

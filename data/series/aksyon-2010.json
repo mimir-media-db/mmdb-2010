@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_aksyon_2010",
+  "title": "Aksyon",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3551653",
+    "tmdb": 32389
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "current affairs"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

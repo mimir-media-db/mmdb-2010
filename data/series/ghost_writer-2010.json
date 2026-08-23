@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_writer_2010",
+  "title": "Ghost Writer",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5557226",
+    "imdb": "tt10111578",
+    "tmdb": 32563
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 25,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

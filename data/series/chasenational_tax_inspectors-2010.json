@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_chasenational_tax_inspectors_2010",
+  "title": "Chase-national tax inspectors-",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q11317715",
+    "imdb": "tt1584770",
+    "tmdb": 46221
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

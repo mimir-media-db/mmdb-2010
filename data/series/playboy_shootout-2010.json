@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_playboy_shootout_2010",
+  "title": "Playboy Shootout",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4047072",
+    "imdb": "tt1675974",
+    "tmdb": 32439
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

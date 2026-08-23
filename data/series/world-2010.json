@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_world_2010",
+  "title": "The World",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18393994"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "countries": [
+    "AU"
+  ]
+}

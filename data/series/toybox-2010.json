@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_toybox_2010",
+  "title": "Toybox",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7830595"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 380,
+  "genres": [
+    "children's television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_event_2010",
+  "title": "The Event",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1164745",
+    "imdb": "tt1582459",
+    "tmdb": 32730
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tower_2010",
+  "title": "The Tower",
+  "start_year": 2010,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4080240",
+    "imdb": "tt2107567",
+    "tmdb": 92227
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

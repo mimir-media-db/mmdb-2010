@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_magpasikat_2010",
+  "title": "Magpasikat",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12967574",
+    "tmdb": 31806
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "talent show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

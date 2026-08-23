@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_couples_2010",
+  "title": "Perfect Couples",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1103292",
+    "imdb": "tt1595856",
+    "tmdb": 32700
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

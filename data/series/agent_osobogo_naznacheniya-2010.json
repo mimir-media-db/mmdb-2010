@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_agent_osobogo_naznacheniya_2010",
+  "title": "Agent osobogo naznacheniya",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60851791",
+    "imdb": "tt1744910",
+    "tmdb": 86869
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Crime",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

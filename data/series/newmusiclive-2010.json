@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_newmusiclive_2010",
+  "title": "New.Music.Live.",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17071594"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "CA"
+  ]
+}

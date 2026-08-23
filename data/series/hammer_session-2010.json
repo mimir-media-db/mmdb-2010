@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hammer_session_2010",
+  "title": "Hammer Session!",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3782890",
+    "imdb": "tt1690406",
+    "tmdb": 45812
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

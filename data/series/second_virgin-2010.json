@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_second_virgin_2010",
+  "title": "Second Virgin",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5358778",
+    "imdb": "tt1718532",
+    "tmdb": 41593
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

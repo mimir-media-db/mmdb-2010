@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_some_day_2010",
+  "title": "Some Day",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7559375",
+    "tmdb": 32905
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 117,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

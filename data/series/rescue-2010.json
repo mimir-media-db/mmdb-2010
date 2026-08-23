@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_rescue_2010",
+  "title": "Rescue",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12969899",
+    "imdb": "tt4208300",
+    "tmdb": 33891
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

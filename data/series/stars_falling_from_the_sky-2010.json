@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_stars_falling_from_the_sky_2010",
+  "title": "Stars Falling From the Sky",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q486327",
+    "imdb": "tt3246568",
+    "tmdb": 42219
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

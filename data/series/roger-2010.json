@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_roger_2010",
+  "title": "Roger",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7357760"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "police procedural"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

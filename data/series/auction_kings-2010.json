@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_auction_kings_2010",
+  "title": "Auction Kings",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4819597",
+    "imdb": "tt1772447",
+    "tmdb": 38137
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 89,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

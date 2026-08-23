@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_shinzanmono_2010",
+  "title": "Shinzanmono",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7497843",
+    "imdb": "tt1602379",
+    "tmdb": 45976
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

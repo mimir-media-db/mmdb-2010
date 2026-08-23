@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_spin_crowd_2010",
+  "title": "The Spin Crowd",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7765867",
+    "imdb": "tt1684855",
+    "tmdb": 34314
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

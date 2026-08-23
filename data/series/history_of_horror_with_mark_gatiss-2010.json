@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_history_of_horror_with_mark_gatiss_2010",
+  "title": "A History of Horror with Mark Gatiss",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4657328",
+    "imdb": "tt1738321",
+    "tmdb": 36002
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Documentary",
+    "History",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

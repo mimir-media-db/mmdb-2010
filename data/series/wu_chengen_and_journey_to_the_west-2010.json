@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_wu_chengen_and_journey_to_the_west_2010",
+  "title": "Wu Cheng'en and Journey to the West",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1767806",
+    "imdb": "tt30459543",
+    "tmdb": 48190
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 46,
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

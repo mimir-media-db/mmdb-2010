@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_yang_guifei_2010",
+  "title": "The Legend of Yang Guifei",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7746793",
+    "imdb": "tt6363176",
+    "tmdb": 79096
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 49,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ask_ve_ceza_2010",
+  "title": "Aşk ve Ceza",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1266346",
+    "imdb": "tt1580811",
+    "tmdb": 49482
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 62,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_my_sisters_march_2010",
+  "title": "My Sister's March",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16162384",
+    "tmdb": 271577
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

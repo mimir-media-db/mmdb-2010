@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_this_is_england_86_2010",
+  "title": "This Is England '86",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1575080",
+    "imdb": "tt1685471",
+    "tmdb": 33933
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

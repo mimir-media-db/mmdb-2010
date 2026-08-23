@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_greatest_tank_battles_2010",
+  "title": "Greatest Tank Battles",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5601471",
+    "imdb": "tt1973370",
+    "tmdb": 38432
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 26,
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

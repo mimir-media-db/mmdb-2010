@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lale_devri_2010",
+  "title": "Lale Devri",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1249399",
+    "imdb": "tt2024922",
+    "tmdb": 47918
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 135,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_my_life_as_an_animal_2009",
+  "title": "My Life as an Animal",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1170555"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

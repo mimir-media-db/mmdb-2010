@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sa_mycket_battre_2010",
+  "title": "Så mycket bättre",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2757779",
+    "imdb": "tt1786209",
+    "tmdb": 34481
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 48,
+  "genres": [
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

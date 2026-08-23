@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_call_me_fitz_2010",
+  "title": "Call Me Fitz",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1027097",
+    "imdb": "tt1558182",
+    "tmdb": 33059
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 48,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

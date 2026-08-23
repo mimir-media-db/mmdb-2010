@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_my_darling_aswang_2010",
+  "title": "My Darling Aswang",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6945222",
+    "imdb": "tt1731871",
+    "tmdb": 33401
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 58,
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

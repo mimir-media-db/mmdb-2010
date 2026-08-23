@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_i_genia_ton_592_euro_2010",
+  "title": "I genia ton 592 euro",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q61355264",
+    "imdb": "tt1742464",
+    "tmdb": 112628
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

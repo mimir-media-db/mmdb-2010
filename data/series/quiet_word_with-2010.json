@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_quiet_word_with_2010",
+  "title": "A Quiet Word With ...",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4659117",
+    "imdb": "tt1727400",
+    "tmdb": 40033
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

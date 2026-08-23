@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "s_pacific_2010",
+  "title": "The Pacific",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q598499",
+    "imdb": "tt0374463",
+    "tmdb": 16997
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "GB",
+    "US"
+  ]
+}

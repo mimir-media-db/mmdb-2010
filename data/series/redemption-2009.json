@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_redemption_2009",
+  "title": "The Redemption",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q42301727",
+    "imdb": "tt2644738",
+    "tmdb": 59797
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

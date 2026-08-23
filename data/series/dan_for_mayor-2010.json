@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dan_for_mayor_2010",
+  "title": "Dan for Mayor",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5214637",
+    "imdb": "tt1609540",
+    "tmdb": 31977
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

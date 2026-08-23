@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_gillian_in_georgia_2010",
+  "title": "Gillian in Georgia",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5562314",
+    "imdb": "tt1650624"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

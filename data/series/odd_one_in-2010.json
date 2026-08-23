@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_odd_one_in_2010",
+  "title": "Odd One In",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3683702"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "countries": [
+    "GB"
+  ]
+}

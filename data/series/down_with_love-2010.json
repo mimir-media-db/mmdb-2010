@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_down_with_love_2010",
+  "title": "Down with Love",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q528244",
+    "imdb": "tt5852764",
+    "tmdb": 33072
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

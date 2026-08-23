@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_summer_in_transylvania_2010",
+  "title": "Summer in Transylvania",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1331345",
+    "imdb": "tt1761870",
+    "tmdb": 34395
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

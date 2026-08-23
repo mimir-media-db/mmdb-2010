@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_sex_matters_2010",
+  "title": "Sex Matters",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7458407"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "talk show",
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

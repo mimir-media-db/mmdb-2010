@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mom_is_pretty_too_2010",
+  "title": "Mom is Pretty Too",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16174468",
+    "imdb": "tt27926281",
+    "tmdb": 227729
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 174,
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

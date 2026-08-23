@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_penoza_2010",
+  "title": "Penoza",
+  "start_year": 2010,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q3138219",
+    "imdb": "tt1674553",
+    "tmdb": 36536
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 48,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": []
+}

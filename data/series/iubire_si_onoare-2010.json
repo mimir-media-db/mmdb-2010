@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_iubire_si_onoare_2010",
+  "title": "Iubire și Onoare",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3156023",
+    "imdb": "tt1695569",
+    "tmdb": 70859
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RO"
+  ]
+}

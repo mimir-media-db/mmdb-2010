@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hilandertv_2010",
+  "title": "Hilander-TV",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q14883706",
+    "imdb": "tt1718983"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

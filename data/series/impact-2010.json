@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_impact_2010",
+  "title": "Impact",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6005786"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "GB"
+  ]
+}

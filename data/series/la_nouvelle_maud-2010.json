@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_la_nouvelle_maud_2010",
+  "title": "La Nouvelle Maud",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3211135",
+    "imdb": "tt1661316",
+    "tmdb": 89115
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

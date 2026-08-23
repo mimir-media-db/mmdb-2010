@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_paul_merton_in_europe_2010",
+  "title": "Paul Merton in Europe",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7152481",
+    "imdb": "tt1594953",
+    "tmdb": 31838
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

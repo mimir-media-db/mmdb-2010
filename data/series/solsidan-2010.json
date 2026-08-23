@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_solsidan_2010",
+  "title": "Solsidan",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3357491",
+    "imdb": "tt1593584",
+    "tmdb": 31934
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 50,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

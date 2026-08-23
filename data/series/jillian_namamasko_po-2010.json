@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_jillian_namamasko_po_2010",
+  "title": "Jillian: Namamasko Po",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6193125",
+    "imdb": "tt1952454",
+    "tmdb": 34497
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

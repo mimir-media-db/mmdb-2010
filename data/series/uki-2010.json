@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_uki_2010",
+  "title": "Uki",
+  "start_year": 2010,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2328624",
+    "imdb": "tt1764065",
+    "tmdb": 33578
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 52,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_kingdoms_of_africa_2010",
+  "title": "Lost Kingdoms of Africa",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6684086",
+    "imdb": "tt1587302",
+    "tmdb": 44660
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 8,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

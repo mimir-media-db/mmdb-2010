@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_buried_life_2010",
+  "title": "The Buried Life",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3986146",
+    "imdb": "tt1151910",
+    "tmdb": 31920
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Documentary",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

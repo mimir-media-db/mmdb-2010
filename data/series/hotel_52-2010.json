@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_52_2010",
+  "title": "Hotel 52",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2285700",
+    "imdb": "tt1699397",
+    "tmdb": 45412
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 91,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

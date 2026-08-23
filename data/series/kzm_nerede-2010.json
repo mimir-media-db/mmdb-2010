@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_kzm_nerede_2010",
+  "title": "Kızım Nerede?",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4811297",
+    "imdb": "tt1825375",
+    "tmdb": 92297
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

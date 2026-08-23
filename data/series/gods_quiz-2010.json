@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_gods_quiz_2010",
+  "title": "God's Quiz",
+  "start_year": 2010,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q12964313",
+    "imdb": "tt2150915",
+    "tmdb": 42552
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 46,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

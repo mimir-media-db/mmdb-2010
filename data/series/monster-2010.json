@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_monster_2010",
+  "title": "MONSTER!",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q15713385",
+    "imdb": "tt1815139",
+    "tmdb": 244318
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

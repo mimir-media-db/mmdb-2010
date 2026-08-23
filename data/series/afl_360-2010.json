@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_afl_360_2010",
+  "title": "AFL 360",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4651515",
+    "imdb": "tt1929482",
+    "tmdb": 44443
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

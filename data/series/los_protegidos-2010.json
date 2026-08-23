@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_los_protegidos_2010",
+  "title": "Los Protegidos",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2402176",
+    "imdb": "tt1534370",
+    "tmdb": 62466
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 41,
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

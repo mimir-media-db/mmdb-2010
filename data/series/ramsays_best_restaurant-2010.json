@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ramsays_best_restaurant_2010",
+  "title": "Ramsay's Best Restaurant",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3929951",
+    "imdb": "tt1744230",
+    "tmdb": 33883
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

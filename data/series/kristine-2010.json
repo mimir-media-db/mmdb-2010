@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_kristine_2010",
+  "title": "Kristine",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6438289",
+    "imdb": "tt1729621",
+    "tmdb": 33359
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 130,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

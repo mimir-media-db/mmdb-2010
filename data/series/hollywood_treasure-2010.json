@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood_treasure_2010",
+  "title": "Hollywood Treasure",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q16995704",
+    "imdb": "tt1759136",
+    "tmdb": 34484
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 30,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

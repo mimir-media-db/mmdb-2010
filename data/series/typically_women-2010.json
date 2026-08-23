@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_typically_women_2010",
+  "title": "Typically Women",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12972223"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

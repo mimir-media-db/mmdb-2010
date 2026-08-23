@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_les_virtuoses_2010",
+  "title": "Les Virtuoses",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19593751",
+    "imdb": "tt1651657",
+    "tmdb": 290398
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

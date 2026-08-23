@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_my_driver_sweet_lover_2010",
+  "title": "My Driver Sweet Lover",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6945309",
+    "imdb": "tt1781470",
+    "tmdb": 34367
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 74,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

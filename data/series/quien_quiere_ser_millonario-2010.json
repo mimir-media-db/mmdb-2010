@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_quien_quiere_ser_millonario_2010",
+  "title": "¿Quién quiere ser millonario?",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8076446",
+    "imdb": "tt1649263",
+    "tmdb": 44531
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

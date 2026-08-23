@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_szpilki_na_giewoncie_2009",
+  "title": "Szpilki na Giewoncie",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9352104",
+    "imdb": "tt1802698",
+    "tmdb": 38760
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 52,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

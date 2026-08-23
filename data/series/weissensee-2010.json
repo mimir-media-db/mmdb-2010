@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_weissensee_2010",
+  "title": "Weissensee",
+  "start_year": 2010,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q823158",
+    "imdb": "tt1525780",
+    "tmdb": 41072
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 24,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

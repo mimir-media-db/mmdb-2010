@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_verborgen_verleden_2010",
+  "title": "Verborgen Verleden",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2000953"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 22,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": []
+}

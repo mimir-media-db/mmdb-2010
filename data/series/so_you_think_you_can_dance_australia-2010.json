@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_so_you_think_you_can_dance_australia_2010",
+  "title": "So You Think You Can Dance Australia",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3440841"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 88,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

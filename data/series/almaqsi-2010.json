@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_almaqsi_2010",
+  "title": "Al-Maqsi",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12193958"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "historical fiction"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KW"
+  ]
+}

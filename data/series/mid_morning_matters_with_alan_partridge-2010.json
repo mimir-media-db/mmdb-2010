@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mid_morning_matters_with_alan_partridge_2010",
+  "title": "Mid Morning Matters with Alan Partridge",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q14924035",
+    "imdb": "tt1923623",
+    "tmdb": 41684
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

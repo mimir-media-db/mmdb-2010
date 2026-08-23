@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bert_the_conqueror_2010",
+  "title": "Bert the Conqueror",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q4895397",
+    "imdb": "tt1659771",
+    "tmdb": 33052
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 40,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

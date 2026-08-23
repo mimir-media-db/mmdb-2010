@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_penelope_k_by_the_way_2010",
+  "title": "Penelope K, by the way",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7162571",
+    "imdb": "tt1570347",
+    "tmdb": 41067
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 25,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

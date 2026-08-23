@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hadley_2010",
+  "title": "Hadley!",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5637945",
+    "imdb": "tt1791775"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

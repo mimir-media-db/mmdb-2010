@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_generations_project_2010",
+  "title": "The Generations Project",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7736085",
+    "imdb": "tt1791356"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

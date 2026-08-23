@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_bazaar_2009",
+  "title": "Bazaar",
+  "start_year": 2009,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q111104476",
+    "imdb": "tt5613974"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

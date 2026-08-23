@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_verruckt_nach_meer_2010",
+  "title": "Verrückt nach Meer",
+  "start_year": 2010,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q2517780",
+    "imdb": "tt2361025",
+    "tmdb": 73646
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 222,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

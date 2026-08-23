@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_benson_interruption_2010",
+  "title": "The Benson Interruption",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7716530",
+    "imdb": "tt1752127",
+    "tmdb": 34508
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

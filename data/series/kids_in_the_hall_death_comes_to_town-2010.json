@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kids_in_the_hall_death_comes_to_town_2010",
+  "title": "The Kids in the Hall: Death Comes to Town",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7744290",
+    "imdb": "tt1268797",
+    "tmdb": 31770
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

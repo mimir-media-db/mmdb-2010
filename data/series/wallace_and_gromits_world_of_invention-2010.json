@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_wallace_and_gromits_world_of_invention_2010",
+  "title": "Wallace and Gromit's World of Invention",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7962932",
+    "imdb": "tt1789621",
+    "tmdb": 30873
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

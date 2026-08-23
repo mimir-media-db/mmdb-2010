@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_michael_woods_story_of_england_2010",
+  "title": "Michael Wood's Story of England",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6835431",
+    "imdb": "tt1735365",
+    "tmdb": 36584
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

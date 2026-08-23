@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_yellow_peppers_2010",
+  "title": "Yellow Peppers",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q8051789",
+    "imdb": "tt1814346",
+    "tmdb": 201790
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_silence_2010",
+  "title": "The Silence",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7764189",
+    "imdb": "tt1568202",
+    "tmdb": 33267
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": []
+}

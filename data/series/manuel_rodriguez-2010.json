@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_manuel_rodriguez_2010",
+  "title": "Manuel Rodríguez",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3286929"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 109,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

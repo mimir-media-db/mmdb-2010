@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tanging_yaman_2010",
+  "title": "Tanging Yaman",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7682981",
+    "imdb": "tt0448304",
+    "tmdb": 31553
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 92,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

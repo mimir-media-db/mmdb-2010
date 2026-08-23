@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_she_solved_2010",
+  "title": "Murder She Solved",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q41904232",
+    "imdb": "tt1949875",
+    "tmdb": 227019
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 24,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

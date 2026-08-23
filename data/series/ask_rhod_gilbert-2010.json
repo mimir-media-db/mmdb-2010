@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ask_rhod_gilbert_2010",
+  "title": "Ask Rhod Gilbert",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4807089",
+    "imdb": "tt1735517",
+    "tmdb": 33978
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

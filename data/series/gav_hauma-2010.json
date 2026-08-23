@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_gav_hauma_2010",
+  "title": "Gav Ha'Uma",
+  "start_year": 2010,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q12409411",
+    "imdb": "tt2604320",
+    "tmdb": 51974
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

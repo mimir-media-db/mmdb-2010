@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_whats_eating_you_2010",
+  "title": "What's Eating You",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q20979446",
+    "imdb": "tt1713423",
+    "tmdb": 38523
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary",
+    "Drama",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

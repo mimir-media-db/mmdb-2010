@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_descorchando_chile_2010",
+  "title": "Descorchando Chile",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5803916"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "countries": [
+    "CL"
+  ]
+}

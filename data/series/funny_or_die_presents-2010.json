@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_funny_or_die_presents_2010",
+  "title": "Funny or Die Presents",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3090971",
+    "imdb": "tt1556078",
+    "tmdb": 32656
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

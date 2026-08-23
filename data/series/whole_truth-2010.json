@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_whole_truth_2010",
+  "title": "The Whole Truth",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3523365",
+    "imdb": "tt1610515",
+    "tmdb": 32788
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

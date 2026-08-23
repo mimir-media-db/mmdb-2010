@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_paranormal_state_the_new_class_2010",
+  "title": "Paranormal State: The New Class",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7135548",
+    "imdb": "tt1789428"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

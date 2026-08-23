@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_family_matters_2010",
+  "title": "Family Matters",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5433185",
+    "tmdb": 45231
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "PH"
+  ]
+}

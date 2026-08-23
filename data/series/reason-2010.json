@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_reason_2010",
+  "title": "Reason",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23891507"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 1,
+  "genres": [
+    "melodrama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

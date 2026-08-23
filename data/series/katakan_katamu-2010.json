@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_katakan_katamu_2010",
+  "title": "Katakan Katamu",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6375027",
+    "tmdb": 39064
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 154,
+  "countries": [
+    "ID"
+  ]
+}

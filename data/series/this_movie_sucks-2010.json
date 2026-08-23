@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_this_movie_sucks_2010",
+  "title": "This Movie Sucks!",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7786170",
+    "imdb": "tt1708448"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 13,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

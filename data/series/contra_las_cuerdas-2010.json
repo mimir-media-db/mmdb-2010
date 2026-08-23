@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_contra_las_cuerdas_2010",
+  "title": "Contra las cuerdas",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5785110",
+    "imdb": "tt1805761",
+    "tmdb": 234711
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 60,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

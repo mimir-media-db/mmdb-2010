@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sunao_ni_narenakute_2010",
+  "title": "Sunao ni Narenakute",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5230362",
+    "imdb": "tt1606736",
+    "tmdb": 32591
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

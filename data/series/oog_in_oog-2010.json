@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_oog_in_oog_2010",
+  "title": "Oog In Oog",
+  "start_year": 2010,
+  "end_year": 1995,
+  "external_ids": {
+    "wikidata": "Q2367965",
+    "imdb": "tt29157142"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 42,
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_white_room_2010",
+  "title": "The White Room",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q17031084",
+    "imdb": "tt1600693"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

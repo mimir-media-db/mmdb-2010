@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_entre_el_amor_y_el_deseo_2010",
+  "title": "Entre el Amor y el Deseo",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q280926",
+    "imdb": "tt1807234",
+    "tmdb": 33326
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_panahon_ko_to_ang_game_show_ng_buhay_ko_2010",
+  "title": "Panahon Ko 'to!: Ang Game Show ng Buhay Ko",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7129888",
+    "tmdb": 33045
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 109,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

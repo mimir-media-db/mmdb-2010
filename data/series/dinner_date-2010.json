@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dinner_date_2010",
+  "title": "Dinner date",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5278422",
+    "imdb": "tt1941774",
+    "tmdb": 32864
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

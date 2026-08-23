@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jabhook_2010",
+  "title": "Jabhook",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1583873",
+    "imdb": "tt2095273"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

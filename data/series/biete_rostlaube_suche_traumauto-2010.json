@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_biete_rostlaube_suche_traumauto_2010",
+  "title": "Biete Rostlaube, suche Traumauto",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19835460"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 51,
+  "countries": [
+    "DE"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_family_game_night_2010",
+  "title": "Family Game Night",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5433132",
+    "imdb": "tt1742341",
+    "tmdb": 34928
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 105,
+  "genres": [
+    "Family",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

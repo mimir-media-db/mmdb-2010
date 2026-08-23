@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_riese_kingdom_falling_2010",
+  "title": "Riese: Kingdom Falling",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1857691",
+    "imdb": "tt1542543",
+    "tmdb": 31254
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

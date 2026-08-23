@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_girl_in_blue_2010",
+  "title": "The Girl in Blue",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q10886997",
+    "imdb": "tt6284012",
+    "tmdb": 48235
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 32,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

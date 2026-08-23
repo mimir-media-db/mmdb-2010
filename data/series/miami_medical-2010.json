@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_miami_medical_2010",
+  "title": "Miami Medical",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1926620",
+    "imdb": "tt1406662",
+    "tmdb": 18660
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

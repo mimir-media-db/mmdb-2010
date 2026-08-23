@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_alpha_07_der_feind_in_dir_2010",
+  "title": "Alpha 0.7 – Der Feind in dir",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2650890",
+    "imdb": "tt1779569",
+    "tmdb": 39823
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

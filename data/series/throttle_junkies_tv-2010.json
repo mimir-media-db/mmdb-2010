@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_throttle_junkies_tv_2010",
+  "title": "Throttle Junkies TV",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7798384"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

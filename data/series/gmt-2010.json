@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gmt_2010",
+  "title": "GMT",
+  "start_year": 2010,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q5513805"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "GB"
+  ]
+}

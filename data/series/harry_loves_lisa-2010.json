@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_harry_loves_lisa_2010",
+  "title": "Harry Loves Lisa",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5670735",
+    "imdb": "tt1587393",
+    "tmdb": 33523
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

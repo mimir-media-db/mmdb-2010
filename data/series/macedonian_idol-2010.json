@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_macedonian_idol_2010",
+  "title": "Macedonian Idol",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6723130"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "talent show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MK"
+  ]
+}

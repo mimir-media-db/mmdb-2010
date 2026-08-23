@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_america_live_with_megyn_kelly_2010",
+  "title": "America Live with Megyn Kelly",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4742776",
+    "imdb": "tt1739296"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

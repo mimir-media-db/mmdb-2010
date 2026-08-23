@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_cnbc_titans_2010",
+  "title": "CNBC Titans",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5013079",
+    "imdb": "tt1829880",
+    "tmdb": 43321
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

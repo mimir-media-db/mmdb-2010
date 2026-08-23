@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_claudine_2010",
+  "title": "Claudine",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5129298",
+    "imdb": "tt1634546"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

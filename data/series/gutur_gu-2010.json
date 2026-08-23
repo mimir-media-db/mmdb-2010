@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_gutur_gu_2010",
+  "title": "Gutur Gu",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5621951"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 150,
+  "countries": [
+    "IN"
+  ]
+}

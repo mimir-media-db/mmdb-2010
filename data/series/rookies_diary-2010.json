@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_rookies_diary_2010",
+  "title": "Rookies' Diary",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11081200",
+    "imdb": "tt37930399",
+    "tmdb": 203995
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 43,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_dci_banks_2010",
+  "title": "DCI Banks",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5204509",
+    "imdb": "tt1652216",
+    "tmdb": 40675
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 26,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

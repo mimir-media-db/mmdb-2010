@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_uhikarotid_2010",
+  "title": "Ühikarotid",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q8079443",
+    "imdb": "tt1848752",
+    "tmdb": 34347
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 46,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "EE"
+  ]
+}

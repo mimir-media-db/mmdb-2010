@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_5_star_specials_2010",
+  "title": "5 Star Specials",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4641157",
+    "tmdb": 32687
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 23,
+  "countries": [
+    "PH"
+  ]
+}

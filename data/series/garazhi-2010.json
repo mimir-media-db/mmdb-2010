@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_garazhi_2010",
+  "title": "Garazhi",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4133528",
+    "imdb": "tt3572054",
+    "tmdb": 207529
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

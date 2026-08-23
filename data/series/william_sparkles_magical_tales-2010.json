@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_william_sparkles_magical_tales_2010",
+  "title": "William & Sparkles' Magical Tales",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q8003869",
+    "imdb": "tt1617472"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 270,
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

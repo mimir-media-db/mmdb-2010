@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_real_l_word_2010",
+  "title": "The Real L Word",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2656586",
+    "imdb": "tt1561756",
+    "tmdb": 33054
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 9,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

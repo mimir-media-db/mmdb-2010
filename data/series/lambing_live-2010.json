@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lambing_live_2010",
+  "title": "Lambing Live",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6481475"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "countries": [
+    "GB"
+  ]
+}

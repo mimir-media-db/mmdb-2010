@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_zakumi_the_animated_series_2010",
+  "title": "Zakumi The Animated Series",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q134302834",
+    "imdb": "tt12768026"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK",
+    "ZA"
+  ]
+}

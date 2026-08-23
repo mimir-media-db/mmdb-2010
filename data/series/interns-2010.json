@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_interns_2010",
+  "title": "Interns",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q1668081",
+    "imdb": "tt1647423",
+    "tmdb": 32651
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 14,
+  "total_episodes": 280,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

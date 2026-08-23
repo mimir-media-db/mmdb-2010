@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dirty_sexy_funny_2010",
+  "title": "Dirty Sexy Funny",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5281085",
+    "imdb": "tt1615697",
+    "tmdb": 32325
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

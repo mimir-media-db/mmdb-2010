@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_taxi_driver_2010",
+  "title": "Taxi Driver",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q12407718",
+    "imdb": "tt1623574",
+    "tmdb": 254099
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

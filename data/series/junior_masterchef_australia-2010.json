@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_junior_masterchef_australia_2010",
+  "title": "Junior MasterChef Australia",
+  "start_year": 2010,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q1093999",
+    "imdb": "tt1809687",
+    "tmdb": 33160
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 37,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

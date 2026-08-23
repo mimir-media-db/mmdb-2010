@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_40_y_tantos_2010",
+  "title": "40 y Tantos",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2816726",
+    "imdb": "tt1832536",
+    "tmdb": 290472
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 134,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

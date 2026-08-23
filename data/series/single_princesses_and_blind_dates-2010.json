@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_single_princesses_and_blind_dates_2010",
+  "title": "Single Princesses and Blind Dates",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7523877",
+    "tmdb": 52510
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "Spy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

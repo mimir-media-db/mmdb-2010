@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_show_me_the_money_2010",
+  "title": "Show Me the Money",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7503008"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 109,
+  "countries": [
+    "GB"
+  ]
+}

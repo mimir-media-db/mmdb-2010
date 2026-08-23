@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_girl_2010",
+  "title": "Lost Girl",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1870725",
+    "imdb": "tt1429449",
+    "tmdb": 33852
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 77,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

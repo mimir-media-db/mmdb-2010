@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_nick_swardsons_pretend_time_2010",
+  "title": "Nick Swardson's Pretend Time",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7028007",
+    "imdb": "tt2061329",
+    "tmdb": 34318
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

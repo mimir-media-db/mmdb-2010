@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_statesmen_of_comedy_2010",
+  "title": "Statesmen of Comedy",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q17055753"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "talk show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

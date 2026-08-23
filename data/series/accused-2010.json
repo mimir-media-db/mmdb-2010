@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_accused_2010",
+  "title": "Accused",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2822905",
+    "imdb": "tt1769411",
+    "tmdb": 32940
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 10,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_frozen_heart_2009",
+  "title": "The Frozen Heart",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5959163",
+    "imdb": "tt2413230",
+    "tmdb": 113345
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 54,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

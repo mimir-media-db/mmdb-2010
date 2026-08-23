@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_adaalat_2010",
+  "title": "Adaalat",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q4678319",
+    "imdb": "tt1943898",
+    "tmdb": 34522
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 431,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

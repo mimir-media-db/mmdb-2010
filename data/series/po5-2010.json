@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_po5_2010",
+  "title": "P.O.5",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7117040",
+    "tmdb": 32623
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 46,
+  "countries": [
+    "PH"
+  ]
+}

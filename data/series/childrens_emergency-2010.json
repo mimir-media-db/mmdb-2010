@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_childrens_emergency_2010",
+  "title": "Children's Emergency",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5098078"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Documentary",
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

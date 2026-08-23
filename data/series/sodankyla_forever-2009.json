@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_sodankyla_forever_2009",
+  "title": "Sodankylä Forever",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134577600",
+    "imdb": "tt2293052"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

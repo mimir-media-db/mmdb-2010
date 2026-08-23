@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_great_food_truck_race_2010",
+  "title": "The Great Food Truck Race",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3739992",
+    "imdb": "tt1711420",
+    "tmdb": 33665
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 12,
+  "total_episodes": 86,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

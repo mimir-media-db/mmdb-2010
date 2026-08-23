@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_2010",
+  "title": "MasterChef",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1090807",
+    "imdb": "tt1694423",
+    "tmdb": 40290
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 12,
+  "total_episodes": 205,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

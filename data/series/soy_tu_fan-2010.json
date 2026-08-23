@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_soy_tu_fan_2010",
+  "title": "Soy tu fan",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7571994",
+    "imdb": "tt1649632",
+    "tmdb": 34327
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_bookaboo_2010",
+  "title": "Bookaboo",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q4943147",
+    "imdb": "tt1371652",
+    "tmdb": 17481
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 55,
+  "genres": [
+    "Animation",
+    "Biography",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

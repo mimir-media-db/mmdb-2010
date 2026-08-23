@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_real_housewives_of_beverly_hills_2010",
+  "title": "The Real Housewives of Beverly Hills",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7759591",
+    "imdb": "tt1720601",
+    "tmdb": 32390
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 12,
+  "total_episodes": 258,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

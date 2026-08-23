@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_indonesias_got_talent_2010",
+  "title": "Indonesia's Got Talent",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6025816",
+    "tmdb": 33227
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 63,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jamies_30minute_meals_2010",
+  "title": "Jamie's 30-Minute Meals",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6146518",
+    "imdb": "tt1724448",
+    "tmdb": 35605
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 40,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

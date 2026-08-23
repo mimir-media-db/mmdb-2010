@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_melason_2010",
+  "title": "Melason",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6811618"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 33,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

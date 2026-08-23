@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_frankie_boyles_tramadol_nights_2010",
+  "title": "Frankie Boyle's Tramadol Nights",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5490920",
+    "imdb": "tt1798787",
+    "tmdb": 34609
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

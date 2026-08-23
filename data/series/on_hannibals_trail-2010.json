@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_on_hannibals_trail_2010",
+  "title": "On Hannibal's Trail",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7091006",
+    "imdb": "tt1691887",
+    "tmdb": 33247
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

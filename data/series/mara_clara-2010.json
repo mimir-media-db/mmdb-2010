@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mara_clara_2010",
+  "title": "Mara Clara",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3472409",
+    "imdb": "tt1758290",
+    "tmdb": 34331
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 158,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

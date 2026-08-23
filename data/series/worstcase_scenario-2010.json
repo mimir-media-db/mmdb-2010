@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_worstcase_scenario_2010",
+  "title": "Worst-Case Scenario",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1969628",
+    "imdb": "tt1620638",
+    "tmdb": 32704
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Adventure",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_town_2010",
+  "title": "Happy Town",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q370891",
+    "imdb": "tt1379722",
+    "tmdb": 18683
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

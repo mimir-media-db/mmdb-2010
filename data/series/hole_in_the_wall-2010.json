@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_hole_in_the_wall_2010",
+  "title": "Hole in the Wall",
+  "start_year": 2010,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q24038056",
+    "imdb": "tt1277979",
+    "tmdb": 5582
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

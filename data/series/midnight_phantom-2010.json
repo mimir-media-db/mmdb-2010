@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_midnight_phantom_2010",
+  "title": "Midnight Phantom",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6842748",
+    "tmdb": 31566
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 25,
+  "countries": [
+    "PH"
+  ]
+}

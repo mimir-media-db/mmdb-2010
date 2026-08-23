@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_need_to_know_2010",
+  "title": "Need to Know",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6986519",
+    "imdb": "tt2082774"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 166,
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

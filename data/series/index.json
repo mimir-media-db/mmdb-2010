@@ -546,6 +546,13 @@
     "path": "data/series/albanias_got_talent-2010.json"
   },
   {
+    "id": "s_alguien_que_me_quiera",
+    "title": "Alguien que me quiera",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/alguien_que_me_quiera.json"
+  },
+  {
     "id": "s_alguien_que_me_quiera_2010",
     "title": "Alguien que me quiera",
     "start_year": 2010,
@@ -588,11 +595,25 @@
     "path": "data/series/alkhobz_alharam-2010.json"
   },
   {
+    "id": "s_all_about_marriage",
+    "title": "All About Marriage",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/all_about_marriage.json"
+  },
+  {
     "id": "s_all_about_marriage_2010",
     "title": "All About Marriage",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/all_about_marriage-2010.json"
+  },
+  {
+    "id": "s_all_american_handyman",
+    "title": "All American Handyman",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/all_american_handyman.json"
   },
   {
     "id": "s_all_american_handyman_2010",
@@ -602,11 +623,25 @@
     "path": "data/series/all_american_handyman-2010.json"
   },
   {
+    "id": "s_all_for_nothing",
+    "title": "All for Nothing?",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/all_for_nothing.json"
+  },
+  {
     "id": "s_all_for_nothing_2010",
     "title": "All for Nothing?",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/all_for_nothing-2010.json"
+  },
+  {
+    "id": "s_all_for_one",
+    "title": "All for One",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/all_for_one.json"
   },
   {
     "id": "s_all_for_one_2010",
@@ -616,6 +651,13 @@
     "path": "data/series/all_for_one-2010.json"
   },
   {
+    "id": "s_all_my_love",
+    "title": "All My Love",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/all_my_love.json"
+  },
+  {
     "id": "s_all_my_love_2010",
     "title": "All My Love",
     "start_year": 2010,
@@ -623,11 +665,25 @@
     "path": "data/series/all_my_love-2010.json"
   },
   {
+    "id": "s_all_stars",
+    "title": "All Stars",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/all_stars.json"
+  },
+  {
     "id": "s_all_stars_2010",
     "title": "All Stars",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/all_stars-2010.json"
+  },
+  {
+    "id": "s_allein_gegen_die_zeit",
+    "title": "Allein gegen die Zeit",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/allein_gegen_die_zeit.json"
   },
   {
     "id": "s_allein_gegen_die_zeit_2010",
@@ -651,6 +707,13 @@
     "path": "data/series/almaqsi-2010.json"
   },
   {
+    "id": "s_alpha_07_der_feind_in_dir",
+    "title": "Alpha 0.7 – Der Feind in dir",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/alpha_07_der_feind_in_dir.json"
+  },
+  {
     "id": "s_alpha_07_der_feind_in_dir_2010",
     "title": "Alpha 0.7 – Der Feind in dir",
     "start_year": 2010,
@@ -658,11 +721,25 @@
     "path": "data/series/alpha_07_der_feind_in_dir-2010.json"
   },
   {
+    "id": "s_alyna",
+    "title": "Alyna",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/alyna.json"
+  },
+  {
     "id": "s_alyna_2010",
     "title": "Alyna",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/alyna-2010.json"
+  },
+  {
+    "id": "s_amanah_dalam_cinta",
+    "title": "Amanah dalam Cinta",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/amanah_dalam_cinta.json"
   },
   {
     "id": "s_amanah_dalam_cinta_2010",
@@ -679,11 +756,25 @@
     "path": "data/series/amazing_race_china_rush-2010.json"
   },
   {
+    "id": "s_america_live_with_megyn_kelly",
+    "title": "America Live with Megyn Kelly",
+    "start_year": 2010,
+    "end_year": 2013,
+    "path": "data/series/america_live_with_megyn_kelly.json"
+  },
+  {
     "id": "s_america_live_with_megyn_kelly_2010",
     "title": "America Live with Megyn Kelly",
     "start_year": 2010,
     "end_year": 2013,
     "path": "data/series/america_live_with_megyn_kelly-2010.json"
+  },
+  {
+    "id": "s_american_chopper_senior_vs_junior",
+    "title": "American Chopper: Senior vs. Junior",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/american_chopper_senior_vs_junior.json"
   },
   {
     "id": "s_american_chopper_senior_vs_junior_2010",
@@ -693,11 +784,25 @@
     "path": "data/series/american_chopper_senior_vs_junior-2010.json"
   },
   {
+    "id": "s_american_pickers",
+    "title": "American Pickers",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/american_pickers.json"
+  },
+  {
     "id": "s_american_pickers_2010",
     "title": "American Pickers",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/american_pickers-2010.json"
+  },
+  {
+    "id": "s_american_restoration",
+    "title": "American Restoration",
+    "start_year": 2010,
+    "end_year": 2016,
+    "path": "data/series/american_restoration.json"
   },
   {
     "id": "s_american_restoration_2010",
@@ -707,11 +812,25 @@
     "path": "data/series/american_restoration-2010.json"
   },
   {
+    "id": "s_american_treasures",
+    "title": "American Treasures",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/american_treasures.json"
+  },
+  {
     "id": "s_american_treasures_2010",
     "title": "American Treasures",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/american_treasures-2010.json"
+  },
+  {
+    "id": "s_americas_court_with_judge_ross",
+    "title": "America's Court with Judge Ross",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/americas_court_with_judge_ross.json"
   },
   {
     "id": "s_americas_court_with_judge_ross_2010",
@@ -721,6 +840,13 @@
     "path": "data/series/americas_court_with_judge_ross-2010.json"
   },
   {
+    "id": "s_americas_worst_driver",
+    "title": "America's Worst Driver",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/americas_worst_driver.json"
+  },
+  {
     "id": "s_americas_worst_driver_2010",
     "title": "America's Worst Driver",
     "start_year": 2010,
@@ -728,11 +854,25 @@
     "path": "data/series/americas_worst_driver-2010.json"
   },
   {
+    "id": "s_amor_sincero",
+    "title": "Amor sincero",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/amor_sincero.json"
+  },
+  {
     "id": "s_amor_sincero_2010",
     "title": "Amor sincero",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/amor_sincero-2010.json"
+  },
+  {
+    "id": "s_amor_virtual",
+    "title": "Amor virtual",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/amor_virtual.json"
   },
   {
     "id": "s_amor_virtual_2010",
@@ -2021,6 +2161,13 @@
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/crazy_mansion_professor_ambrosius-2009.json"
+  },
+  {
+    "id": "s_crisis",
+    "title": "An Crisis",
+    "start_year": 2010,
+    "end_year": 2013,
+    "path": "data/series/crisis.json"
   },
   {
     "id": "s_crisis_2010",

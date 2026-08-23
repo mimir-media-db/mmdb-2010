@@ -8,6 +8,11 @@
     "wikidata": "Q7753125",
     "imdb": "tt2149211"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 16
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

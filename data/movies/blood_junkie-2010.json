@@ -9,7 +9,13 @@
     "imdb": "tt1543752",
     "tmdb": 97183
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-05-20",
-  "runtime_minutes": 72
+  "runtime_minutes": 72,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Horror"
+  ],
+  "is_adult": false
 }

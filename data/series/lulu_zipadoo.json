@@ -9,7 +9,11 @@
     "imdb": "tt2108809",
     "tmdb": 94042
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 104
+  "total_episodes": 104,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false
 }

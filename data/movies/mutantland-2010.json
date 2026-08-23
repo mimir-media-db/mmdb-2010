@@ -9,7 +9,13 @@
     "imdb": "tt1712203",
     "tmdb": 455424
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-01-01",
-  "runtime_minutes": 197
+  "runtime_minutes": 197,
+  "genres": [
+    "Animation",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

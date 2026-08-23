@@ -9,6 +9,12 @@
     "imdb": "tt0303961",
     "tmdb": 576201
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-01-01",
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false
 }

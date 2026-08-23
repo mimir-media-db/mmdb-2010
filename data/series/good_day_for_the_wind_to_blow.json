@@ -8,7 +8,11 @@
     "wikidata": "Q493429",
     "tmdb": 31875
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 173
+  "total_episodes": 173,
+  "genres": [
+    "Spy"
+  ],
+  "is_adult": false
 }

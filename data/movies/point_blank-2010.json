@@ -9,7 +9,13 @@
     "imdb": "tt1545759",
     "tmdb": 61404
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-11-08",
-  "runtime_minutes": 81
+  "runtime_minutes": 81,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false
 }

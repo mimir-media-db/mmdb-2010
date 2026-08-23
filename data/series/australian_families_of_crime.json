@@ -9,6 +9,12 @@
     "imdb": "tt1704291",
     "tmdb": 33004
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 1
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Crime",
+    "News",
+    "Thriller"
+  ],
+  "is_adult": false
 }

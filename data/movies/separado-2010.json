@@ -9,7 +9,13 @@
     "imdb": "tt1505405",
     "tmdb": 52014
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-01-01",
-  "runtime_minutes": 84
+  "runtime_minutes": 84,
+  "genres": [
+    "Documentary",
+    "Family",
+    "Music"
+  ],
+  "is_adult": false
 }

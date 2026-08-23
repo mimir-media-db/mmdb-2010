@@ -8,6 +8,10 @@
     "wikidata": "Q7854866",
     "imdb": "tt1620385"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 27
+  "last_updated": "2026-08-23",
+  "total_episodes": 27,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

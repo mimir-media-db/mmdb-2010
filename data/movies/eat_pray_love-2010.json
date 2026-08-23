@@ -9,7 +9,13 @@
     "imdb": "tt0879870",
     "tmdb": 38167
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-09-23",
-  "runtime_minutes": 140
+  "runtime_minutes": 140,
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false
 }

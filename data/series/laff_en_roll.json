@@ -9,5 +9,10 @@
     "imdb": "tt1958945",
     "tmdb": 32863
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

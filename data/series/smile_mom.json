@@ -8,6 +8,10 @@
     "wikidata": "Q6801594",
     "tmdb": 59865
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 50
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false
 }

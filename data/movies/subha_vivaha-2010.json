@@ -8,6 +8,12 @@
     "wikidata": "Q46066903",
     "imdb": "tt1694565"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-02-28"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-02-28",
+  "genres": [
+    "Drama",
+    "Family",
+    "Musical"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt1415228",
     "tmdb": 45580
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-04-03",
-  "runtime_minutes": 126
+  "runtime_minutes": 126,
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false
 }

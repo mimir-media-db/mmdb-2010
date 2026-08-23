@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q4623782"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 229
+  "last_updated": "2026-08-23",
+  "total_episodes": 229,
+  "genres": [
+    "consumer program"
+  ],
+  "is_adult": false
 }

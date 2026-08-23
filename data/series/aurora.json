@@ -9,6 +9,10 @@
     "imdb": "tt1807106",
     "tmdb": 34035
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 135
+  "last_updated": "2026-08-23",
+  "total_episodes": 135,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false
 }

@@ -8,7 +8,13 @@
     "wikidata": "Q4000414",
     "tmdb": 80689
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 11
+  "total_episodes": 11,
+  "genres": [
+    "drama television series",
+    "spokon",
+    "school story"
+  ],
+  "is_adult": false
 }

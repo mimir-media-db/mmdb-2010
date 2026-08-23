@@ -9,7 +9,13 @@
     "imdb": "tt1601212",
     "tmdb": 45798
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-02-06",
-  "runtime_minutes": 39
+  "runtime_minutes": 39,
+  "genres": [
+    "Adventure",
+    "Crime",
+    "Family"
+  ],
+  "is_adult": false
 }

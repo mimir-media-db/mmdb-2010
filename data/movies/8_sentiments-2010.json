@@ -9,6 +9,7 @@
     "imdb": "tt6448986",
     "tmdb": 1015129
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-09-30"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-09-30",
+  "is_adult": false
 }

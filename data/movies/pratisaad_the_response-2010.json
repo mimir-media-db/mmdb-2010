@@ -8,6 +8,11 @@
     "wikidata": "Q18794292",
     "imdb": "tt1662540"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-05-28"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-05-28",
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "is_adult": false
 }

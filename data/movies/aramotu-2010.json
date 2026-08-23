@@ -8,7 +8,11 @@
     "wikidata": "Q18148655",
     "imdb": "tt22525954"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2010-12-20",
-  "runtime_minutes": 120
+  "runtime_minutes": 120,
+  "genres": [
+    "Fantasy"
+  ],
+  "is_adult": false
 }

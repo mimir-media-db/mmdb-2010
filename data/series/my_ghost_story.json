@@ -8,7 +8,13 @@
     "wikidata": "Q6945559",
     "imdb": "tt1592770"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 6,
-  "total_episodes": 75
+  "total_episodes": 75,
+  "genres": [
+    "Drama",
+    "Family",
+    "Horror"
+  ],
+  "is_adult": false
 }

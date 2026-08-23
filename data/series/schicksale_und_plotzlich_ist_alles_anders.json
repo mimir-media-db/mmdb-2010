@@ -8,6 +8,11 @@
     "wikidata": "Q2234244",
     "imdb": "tt1755870"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 7
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false
 }

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_quiet_word_with",
+  "title": "A Quiet Word With ...",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4659117",
+    "imdb": "tt1727400",
+    "tmdb": 40033
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_seasons": 2,
+  "total_episodes": 12
+}

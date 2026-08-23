@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_18_to_life",
+  "title": "18 to Life",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q204536",
+    "imdb": "tt1411254",
+    "tmdb": 31489
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2011,
+  "total_seasons": 2,
+  "total_episodes": 25
+}

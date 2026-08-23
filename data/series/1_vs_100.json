@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_1_vs_100",
+  "title": "1 vs. 100",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4596047",
+    "imdb": "tt0843318",
+    "tmdb": 6351
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2011,
+  "total_seasons": 3,
+  "total_episodes": 68
+}

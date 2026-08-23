@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_neprukhi_2010",
+  "title": "Neprukhi",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16581787",
+    "imdb": "tt8939146",
+    "tmdb": 215670
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL",
+    "UA"
+  ]
+}

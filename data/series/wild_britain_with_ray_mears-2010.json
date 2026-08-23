@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_britain_with_ray_mears_2010",
+  "title": "Wild Britain with Ray Mears",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8000556",
+    "imdb": "tt1744569",
+    "tmdb": 35630
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 26,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

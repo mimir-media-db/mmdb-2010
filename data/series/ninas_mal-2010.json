@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ninas_mal_2010",
+  "title": "Niñas mal",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q598047",
+    "imdb": "tt1791069",
+    "tmdb": 72055
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 140,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO",
+    "MX"
+  ]
+}

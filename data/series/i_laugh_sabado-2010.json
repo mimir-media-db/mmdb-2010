@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_i_laugh_sabado_2010",
+  "title": "I Laugh Sabado",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5977894",
+    "imdb": "tt3340628",
+    "tmdb": 32662
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

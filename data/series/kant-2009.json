@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_kant_2009",
+  "title": "Kanıt",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6096748",
+    "imdb": "tt2151208",
+    "tmdb": 65625
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

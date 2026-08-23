@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mahi_way_2010",
+  "title": "Mahi Way",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6733945",
+    "imdb": "tt1595198",
+    "tmdb": 31819
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 25,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

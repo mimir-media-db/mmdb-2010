@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_powder_2010",
+  "title": "Powder",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7235965",
+    "imdb": "tt1739744",
+    "tmdb": 31611
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

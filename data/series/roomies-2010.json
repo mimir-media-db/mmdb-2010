@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_roomies_2010",
+  "title": "Roomies",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6112012",
+    "imdb": "tt1645013"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 40,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

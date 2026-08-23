@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_victorian_pharmacy_2010",
+  "title": "Victorian Pharmacy",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7927251",
+    "imdb": "tt1707771",
+    "tmdb": 33274
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_adios_al_septimo_de_linea_2010",
+  "title": "Adiós al séptimo de línea",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5657773",
+    "imdb": "tt1511555",
+    "tmdb": 96731
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

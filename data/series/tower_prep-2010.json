@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_tower_prep_2010",
+  "title": "Tower Prep",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q31517",
+    "imdb": "tt1480669",
+    "tmdb": 33785
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

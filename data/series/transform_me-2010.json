@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_transform_me_2010",
+  "title": "TRANSform Me",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7671273",
+    "imdb": "tt1655350",
+    "tmdb": 42012
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

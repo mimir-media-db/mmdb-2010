@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_rizzoli_isles_2010",
+  "title": "Rizzoli & Isles",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q4456",
+    "imdb": "tt1551632",
+    "tmdb": 32895
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 105,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

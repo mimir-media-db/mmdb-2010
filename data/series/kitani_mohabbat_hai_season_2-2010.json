@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_kitani_mohabbat_hai_season_2_2010",
+  "title": "Kitani Mohabbat Hai Season 2",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6417845",
+    "imdb": "tt1900118",
+    "tmdb": 16354
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 153,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

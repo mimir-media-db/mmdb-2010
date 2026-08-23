@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_conan_2010",
+  "title": "Conan",
+  "start_year": 2010,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q2814593",
+    "imdb": "tt1637574",
+    "tmdb": 32415
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 1510,
+  "genres": [
+    "Comedy",
+    "Music",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

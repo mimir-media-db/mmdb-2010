@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_seven_ages_of_britain_2010",
+  "title": "Seven Ages of Britain",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7457171",
+    "imdb": "tt1415248",
+    "tmdb": 32091
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

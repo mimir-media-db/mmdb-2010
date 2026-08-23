@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_kalmoohi_2010_tv_series_2010",
+  "title": "Kalmoohi (2010 TV series)",
+  "start_year": 2010,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q122382422",
+    "imdb": "tt1636696"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 15,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

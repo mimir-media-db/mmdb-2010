@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_espn_sports_saturday_2010",
+  "title": "ESPN Sports Saturday",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5324278"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "genres": [
+    "anthology series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

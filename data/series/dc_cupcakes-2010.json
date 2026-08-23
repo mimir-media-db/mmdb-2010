@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dc_cupcakes_2010",
+  "title": "DC Cupcakes",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q135612",
+    "imdb": "tt1687366",
+    "tmdb": 33165
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 29,
+  "genres": [
+    "Family",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_detroit_187_2010",
+  "title": "Detroit 1-8-7",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1201528",
+    "imdb": "tt1578258",
+    "tmdb": 32776
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

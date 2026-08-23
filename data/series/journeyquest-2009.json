@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_journeyquest_2009",
+  "title": "JourneyQuest",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111630794",
+    "imdb": "tt1715332",
+    "tmdb": 45421
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

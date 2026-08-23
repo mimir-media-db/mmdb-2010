@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kaibutsukun_2010",
+  "title": "Kaibutsu-kun",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q603349",
+    "imdb": "tt0320874",
+    "tmdb": 66251
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

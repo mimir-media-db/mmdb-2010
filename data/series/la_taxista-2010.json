@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_la_taxista_2010",
+  "title": "La taxista",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q90649695"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 105,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "EC"
+  ]
+}

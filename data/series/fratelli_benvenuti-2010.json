@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fratelli_benvenuti_2010",
+  "title": "Fratelli Benvenuti",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3752365",
+    "imdb": "tt1570408",
+    "tmdb": 41486
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

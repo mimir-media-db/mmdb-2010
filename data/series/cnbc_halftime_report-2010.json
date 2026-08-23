@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_cnbc_halftime_report_2010",
+  "title": "CNBC Halftime Report",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97368717",
+    "imdb": "tt4592812"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

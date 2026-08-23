@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_shake_it_up_2010",
+  "title": "Shake It Up",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q308700",
+    "imdb": "tt1661326",
+    "tmdb": 33213
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 75,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_mugaldekoak_2010",
+  "title": "Mugaldekoak",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12263854",
+    "imdb": "tt1728166"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

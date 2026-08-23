@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_mutant_planet_2009",
+  "title": "Mutant Planet",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12045495",
+    "imdb": "tt2006797",
+    "tmdb": 38580
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

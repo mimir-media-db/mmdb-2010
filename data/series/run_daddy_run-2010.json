@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_run_daddy_run_2010",
+  "title": "Run Daddy Run",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16689835",
+    "tmdb": 202970
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_al_di_la_del_lago_2010",
+  "title": "Al di là del lago",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2817166",
+    "imdb": "tt1345771",
+    "tmdb": 40975
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

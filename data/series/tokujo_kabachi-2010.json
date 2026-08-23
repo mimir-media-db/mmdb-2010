@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_tokujo_kabachi_2010",
+  "title": "Tokujo Kabachi!!",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16680318"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Spy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

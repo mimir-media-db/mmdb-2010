@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_breaking_point_2010",
+  "title": "Breaking Point",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4959575",
+    "imdb": "tt1590842",
+    "tmdb": 58480
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

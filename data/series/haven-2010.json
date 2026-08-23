@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_haven_2010",
+  "title": "Haven",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q864422",
+    "imdb": "tt1519931",
+    "tmdb": 33001
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 78,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lauf_al_hamillion_2010",
+  "title": "Lauf al Hamillion",
+  "start_year": 2010,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q16340367",
+    "imdb": "tt8852622",
+    "tmdb": 329268
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 97,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

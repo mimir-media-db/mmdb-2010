@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_jejemom_2010",
+  "title": "JejeMom",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6176538",
+    "imdb": "tt1710521",
+    "tmdb": 33236
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

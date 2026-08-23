@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_benidorm_bastards_2009",
+  "title": "Benidorm Bastards",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2895931",
+    "imdb": "tt1714768",
+    "tmdb": 33994
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Comedy",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

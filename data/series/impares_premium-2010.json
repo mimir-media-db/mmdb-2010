@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_impares_premium_2010",
+  "title": "Impares Premium",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5914405",
+    "imdb": "tt1771375",
+    "tmdb": 107225
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

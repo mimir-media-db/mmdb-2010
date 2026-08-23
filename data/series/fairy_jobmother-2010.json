@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fairy_jobmother_2010",
+  "title": "The Fairy Jobmother",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7733127",
+    "imdb": "tt1802708",
+    "tmdb": 38642
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

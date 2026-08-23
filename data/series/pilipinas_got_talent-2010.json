@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_pilipinas_got_talent_2010",
+  "title": "Pilipinas Got Talent",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3585937",
+    "tmdb": 31203
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "countries": [
+    "PH"
+  ]
+}

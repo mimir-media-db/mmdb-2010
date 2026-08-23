@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_musee_eden_2010",
+  "title": "Musée Éden",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3330832",
+    "imdb": "tt1625015",
+    "tmdb": 45429
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

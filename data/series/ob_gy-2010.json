@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ob_gy_2010",
+  "title": "OB & GY",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7243890",
+    "imdb": "tt3364882",
+    "tmdb": 47273
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

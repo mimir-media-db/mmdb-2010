@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_strike_back_2010",
+  "title": "Strike Back",
+  "start_year": 2010,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q2296908",
+    "imdb": "tt1492179",
+    "tmdb": 32573
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 76,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

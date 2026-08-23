@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tegen_de_sterren_op_2010",
+  "title": "Tegen de Sterren op",
+  "start_year": 2010,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q2049753",
+    "imdb": "tt1773212",
+    "tmdb": 38599
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 91,
+  "genres": [
+    "Comedy",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

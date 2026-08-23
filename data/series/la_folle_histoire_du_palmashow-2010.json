@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_la_folle_histoire_du_palmashow_2010",
+  "title": "La Folle Histoire du Palmashow",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106496132",
+    "imdb": "tt2181217"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

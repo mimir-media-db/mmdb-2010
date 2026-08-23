@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_late_nite_news_with_loyiso_gola_2010",
+  "title": "Late Nite News with Loyiso Gola",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18345330",
+    "imdb": "tt3248492"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Short"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

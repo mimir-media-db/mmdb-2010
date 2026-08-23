@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_my_better_half_2010",
+  "title": "My Better Half",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6945023",
+    "imdb": "tt1634324",
+    "tmdb": 31927
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

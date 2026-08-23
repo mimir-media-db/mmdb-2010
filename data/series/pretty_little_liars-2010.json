@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_pretty_little_liars_2010",
+  "title": "Pretty Little Liars",
+  "start_year": 2010,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q32450",
+    "imdb": "tt1578873",
+    "tmdb": 31917
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 160,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

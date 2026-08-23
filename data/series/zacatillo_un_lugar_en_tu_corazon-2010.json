@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_zacatillo_un_lugar_en_tu_corazon_2010",
+  "title": "Zacatillo, un lugar en tu corazón",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q422527",
+    "imdb": "tt1614932",
+    "tmdb": 31983
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 130,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

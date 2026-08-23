@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cops_lac_2010",
+  "title": "Cops L.A.C.",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5168990",
+    "imdb": "tt1661114",
+    "tmdb": 33286
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

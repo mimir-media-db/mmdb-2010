@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_seducing_cindy_2010",
+  "title": "Seducing Cindy",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7445395",
+    "imdb": "tt1504161",
+    "tmdb": 30861
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

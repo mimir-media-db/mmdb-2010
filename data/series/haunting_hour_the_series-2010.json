@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_haunting_hour_the_series_2010",
+  "title": "The Haunting Hour: The Series",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1639107",
+    "imdb": "tt1765510",
+    "tmdb": 33841
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 76,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

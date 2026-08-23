@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_aurora_2010",
+  "title": "Aurora",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q335256",
+    "imdb": "tt1807106",
+    "tmdb": 34035
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 135,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

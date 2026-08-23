@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_uitgesproken_2010",
+  "title": "Uitgesproken",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q14510495"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 235,
+  "genres": [
+    "current affairs"
+  ],
+  "is_adult": false,
+  "countries": []
+}

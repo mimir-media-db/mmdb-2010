@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_head_rush_2010",
+  "title": "Head Rush",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5689220",
+    "imdb": "tt2720902",
+    "tmdb": 42037
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 40,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_police_women_of_memphis_2010",
+  "title": "Police Women of Memphis",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7209548",
+    "imdb": "tt1657753",
+    "tmdb": 32832
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

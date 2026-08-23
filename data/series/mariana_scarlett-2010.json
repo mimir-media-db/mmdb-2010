@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mariana_scarlett_2010",
+  "title": "Mariana & Scarlett",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4279866",
+    "imdb": "tt5333406",
+    "tmdb": 59254
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 112,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

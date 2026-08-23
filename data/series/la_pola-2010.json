@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_pola_2010",
+  "title": "La Pola",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5964895",
+    "imdb": "tt1773176",
+    "tmdb": 107148
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 200,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

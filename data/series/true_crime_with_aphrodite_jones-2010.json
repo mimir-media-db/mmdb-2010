@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_true_crime_with_aphrodite_jones_2010",
+  "title": "True Crime with Aphrodite Jones",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7847392",
+    "imdb": "tt1492627",
+    "tmdb": 25979
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 43,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

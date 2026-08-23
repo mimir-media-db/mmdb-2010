@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ancient_xfiles_2010",
+  "title": "Ancient X-Files",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4752937",
+    "imdb": "tt1734568",
+    "tmdb": 69916
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

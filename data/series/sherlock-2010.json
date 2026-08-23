@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sherlock_2010",
+  "title": "Sherlock",
+  "start_year": 2010,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q192837",
+    "imdb": "tt1475582",
+    "tmdb": 19885
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 13,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

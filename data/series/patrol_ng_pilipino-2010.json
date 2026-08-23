@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_patrol_ng_pilipino_2010",
+  "title": "Patrol ng Pilipino",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7148119",
+    "tmdb": 34372
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 119,
+  "countries": [
+    "PH"
+  ]
+}

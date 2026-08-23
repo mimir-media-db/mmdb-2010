@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vitamin_club_2010",
+  "title": "Vitamin Club",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q13055038"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 199,
+  "countries": [
+    "AM"
+  ]
+}

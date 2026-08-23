@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_storage_wars_2010",
+  "title": "Storage Wars",
+  "start_year": 2010,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q2502851",
+    "imdb": "tt1785123",
+    "tmdb": 34971
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 12,
+  "total_episodes": 269,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

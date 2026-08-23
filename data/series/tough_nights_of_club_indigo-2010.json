@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_tough_nights_of_club_indigo_2010",
+  "title": "Tough Nights of Club Indigo",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q21647221",
+    "imdb": "tt1608707",
+    "tmdb": 84496
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

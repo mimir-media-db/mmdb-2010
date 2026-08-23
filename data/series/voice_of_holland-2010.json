@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_of_holland_2010",
+  "title": "The Voice of Holland",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1652395",
+    "imdb": "tt2419212",
+    "tmdb": 37734
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 12,
+  "total_episodes": 118,
+  "genres": [
+    "Game-Show",
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": []
+}

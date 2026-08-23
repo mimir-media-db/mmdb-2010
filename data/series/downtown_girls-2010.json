@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_downtown_girls_2010",
+  "title": "Downtown Girls",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5303442",
+    "imdb": "tt1815031",
+    "tmdb": 32734
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_romance_2010",
+  "title": "The Last Romance",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7745982",
+    "tmdb": 32799
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "PH"
+  ]
+}

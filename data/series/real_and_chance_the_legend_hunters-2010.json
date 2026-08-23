@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_real_and_chance_the_legend_hunters_2010",
+  "title": "Real and Chance: The Legend Hunters",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7301120",
+    "imdb": "tt1723809",
+    "tmdb": 33807
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

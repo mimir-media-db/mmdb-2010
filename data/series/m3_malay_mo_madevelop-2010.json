@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_m3_malay_mo_madevelop_2010",
+  "title": "M3: Malay Mo Ma-develop",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6713765",
+    "tmdb": 32946
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 22,
+  "countries": [
+    "PH"
+  ]
+}

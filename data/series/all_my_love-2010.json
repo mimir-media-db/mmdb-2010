@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_all_my_love_2010",
+  "title": "All My Love",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q492761",
+    "imdb": "tt6150102",
+    "tmdb": 214252
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 210,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

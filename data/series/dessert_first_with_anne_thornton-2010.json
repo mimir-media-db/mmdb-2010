@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_dessert_first_with_anne_thornton_2010",
+  "title": "Dessert First with Anne Thornton",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q56063716",
+    "imdb": "tt1749299",
+    "tmdb": 38109
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

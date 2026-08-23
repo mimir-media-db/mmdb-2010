@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_mostro_de_amor_2010",
+  "title": "Mostro de Amor",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6024663"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 88,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "EC"
+  ]
+}

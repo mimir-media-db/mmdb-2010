@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_blondynka_2009",
+  "title": "Blondynka",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9174521",
+    "imdb": "tt1726304",
+    "tmdb": 48310
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 65,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

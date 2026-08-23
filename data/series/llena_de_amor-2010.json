@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_llena_de_amor_2010",
+  "title": "Llena de amor",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1247351",
+    "imdb": "tt1642530",
+    "tmdb": 32213
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 202,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

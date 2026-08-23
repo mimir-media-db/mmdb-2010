@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_republic_of_doyle_2010",
+  "title": "Republic of Doyle",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1953963",
+    "imdb": "tt1297754",
+    "tmdb": 31389
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 77,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

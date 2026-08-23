@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_poste_restante_2010",
+  "title": "Poste restante",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12046496",
+    "imdb": "tt1372578",
+    "tmdb": 91423
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

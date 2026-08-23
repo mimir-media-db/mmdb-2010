@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_rookie_blue_2010",
+  "title": "Rookie Blue",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q723",
+    "imdb": "tt1442065",
+    "tmdb": 31585
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 74,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

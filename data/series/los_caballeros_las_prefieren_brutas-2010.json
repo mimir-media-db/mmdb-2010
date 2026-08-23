@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_los_caballeros_las_prefieren_brutas_2010",
+  "title": "Los caballeros las prefieren brutas",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q9024236",
+    "imdb": "tt1615325",
+    "tmdb": 82863
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

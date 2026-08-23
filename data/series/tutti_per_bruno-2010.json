@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tutti_per_bruno_2010",
+  "title": "Tutti per Bruno",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4000850",
+    "imdb": "tt1467399",
+    "tmdb": 41639
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

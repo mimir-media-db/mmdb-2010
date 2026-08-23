@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_gigantic_2010",
+  "title": "Gigantic",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1301221",
+    "imdb": "tt1501515",
+    "tmdb": 31305
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

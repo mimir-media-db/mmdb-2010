@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bath_crashers_2010",
+  "title": "Bath Crashers",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18209969",
+    "imdb": "tt1602677",
+    "tmdb": 35761
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 9,
+  "total_episodes": 121,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

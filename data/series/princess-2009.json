@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_princess_2009",
+  "title": "Princess",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7244508"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_best_of_i_love_the_2010",
+  "title": "Best of I Love the...",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4896925",
+    "imdb": "tt0377192",
+    "tmdb": 6894
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

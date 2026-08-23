@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_im_in_a_rock_n_roll_band_2010",
+  "title": "I'm in a Rock 'n' Roll Band!",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5967090",
+    "imdb": "tt1654583",
+    "tmdb": 136111
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

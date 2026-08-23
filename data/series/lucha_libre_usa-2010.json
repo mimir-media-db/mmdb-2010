@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lucha_libre_usa_2010",
+  "title": "Lucha Libre USA",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6696547",
+    "imdb": "tt1714801"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Action",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

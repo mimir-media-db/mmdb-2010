@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_grid_2010",
+  "title": "The Grid",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7738285",
+    "imdb": "tt1740130"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

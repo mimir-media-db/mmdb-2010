@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cuando_me_enamoro_2010",
+  "title": "Cuando Me Enamoro",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1080808",
+    "imdb": "tt1688210",
+    "tmdb": 32778
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 181,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

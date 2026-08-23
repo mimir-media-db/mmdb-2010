@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_unnatural_history_2010",
+  "title": "Unnatural History",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q323818",
+    "imdb": "tt1494829",
+    "tmdb": 32616
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

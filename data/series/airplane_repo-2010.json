@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_airplane_repo_2010",
+  "title": "Airplane Repo",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16002226",
+    "imdb": "tt1808720",
+    "tmdb": 36275
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 25,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

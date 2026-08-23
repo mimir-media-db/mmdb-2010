@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dino_dan_2010",
+  "title": "Dino Dan",
+  "start_year": 2010,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q3279395",
+    "imdb": "tt1447487",
+    "tmdb": 36554
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 52,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

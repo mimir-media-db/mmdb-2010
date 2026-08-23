@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_wir_mussen_reden_2010",
+  "title": "Wir müssen reden!",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1629471",
+    "imdb": "tt1714814"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

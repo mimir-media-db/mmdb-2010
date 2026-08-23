@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_running_wilde_2010",
+  "title": "Running Wilde",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7380004",
+    "imdb": "tt1615926",
+    "tmdb": 32757
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

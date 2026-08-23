@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_albanias_got_talent_2010",
+  "title": "Albania's Got Talent",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1113841",
+    "tmdb": 33618
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AL"
+  ]
+}

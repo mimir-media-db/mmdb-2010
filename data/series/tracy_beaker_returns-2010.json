@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_tracy_beaker_returns_2010",
+  "title": "Tracy Beaker Returns",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3235094",
+    "imdb": "tt1535096",
+    "tmdb": 31857
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 39,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

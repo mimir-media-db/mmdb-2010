@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_rev_2010",
+  "title": "Rev.",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7317667",
+    "imdb": "tt1588221",
+    "tmdb": 32539
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 19,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

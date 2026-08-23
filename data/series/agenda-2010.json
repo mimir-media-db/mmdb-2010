@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_agenda_2010",
+  "title": "Agenda",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17510089"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "news program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

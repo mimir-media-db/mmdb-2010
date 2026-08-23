@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_i_almost_got_away_with_it_2010",
+  "title": "I (Almost) Got Away with It",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5975776",
+    "imdb": "tt1420152",
+    "tmdb": 41552
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 93,
+  "genres": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

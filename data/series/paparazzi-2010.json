@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_paparazzi_2010",
+  "title": "Paparazzi",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7132491",
+    "tmdb": 32492
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 120,
+  "countries": [
+    "PH"
+  ]
+}

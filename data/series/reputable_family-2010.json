@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_reputable_family_2010",
+  "title": "The Reputable Family",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q493612",
+    "imdb": "tt6284020",
+    "tmdb": 35301
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

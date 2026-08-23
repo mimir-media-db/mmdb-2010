@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_io_e_mio_figlio_nuove_storie_per_il_commissario_vivaldi_2010",
+  "title": "Io e mio figlio – Nuove storie per il commissario Vivaldi",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3801154",
+    "imdb": "tt1233559",
+    "tmdb": 41582
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

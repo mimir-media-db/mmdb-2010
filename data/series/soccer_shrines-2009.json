@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_soccer_shrines_2009",
+  "title": "Soccer Shrines",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7550324",
+    "imdb": "tt1832770",
+    "tmdb": 39015
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

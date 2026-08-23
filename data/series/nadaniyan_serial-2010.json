@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nadaniyan_serial_2010",
+  "title": "Nadaniyan Serial",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21161079"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "IN"
+  ]
+}

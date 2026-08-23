@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_1dol_2010",
+  "title": "1DOL",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4595878",
+    "imdb": "tt1715229",
+    "tmdb": 33300
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 35,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

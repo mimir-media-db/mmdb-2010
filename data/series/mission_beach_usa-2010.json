@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_mission_beach_usa_2010",
+  "title": "Mission Beach USA",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6878528",
+    "imdb": "tt1532453"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 5,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IE"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sarah_janes_alien_files_2010",
+  "title": "Sarah Jane's Alien Files",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7422430",
+    "imdb": "tt1758416",
+    "tmdb": 34365
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Family",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

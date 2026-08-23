@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_el_fantasma_de_elena_2010",
+  "title": "El Fantasma de Elena",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q762321",
+    "imdb": "tt1730842",
+    "tmdb": 32786
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 117,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

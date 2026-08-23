@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_whole_19_yards_2010",
+  "title": "The Whole 19 Yards",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7774673"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

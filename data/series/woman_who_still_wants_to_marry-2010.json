@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_woman_who_still_wants_to_marry_2010",
+  "title": "The Woman Who Still Wants To Marry",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q488394",
+    "imdb": "tt5478360",
+    "tmdb": 38199
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

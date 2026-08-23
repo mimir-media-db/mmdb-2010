@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_increasingly_poor_decisions_of_todd_margaret_2010",
+  "title": "The Increasingly Poor Decisions of Todd Margaret",
+  "start_year": 2010,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7741713",
+    "imdb": "tt1695989",
+    "tmdb": 33858
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

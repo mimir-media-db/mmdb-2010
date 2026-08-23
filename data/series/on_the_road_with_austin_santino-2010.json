@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_road_with_austin_santino_2010",
+  "title": "On the Road with Austin & Santino",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7091511",
+    "imdb": "tt1697792",
+    "tmdb": 33884
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

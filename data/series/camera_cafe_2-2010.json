@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_camera_cafe_2_2010",
+  "title": "Caméra café 2",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2935700",
+    "imdb": "tt1587710",
+    "tmdb": 207543
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 100,
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

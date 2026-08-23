@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_journey_to_fearless_2010",
+  "title": "Journey to Fearless",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4808051",
+    "imdb": "tt1785129",
+    "tmdb": 34309
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

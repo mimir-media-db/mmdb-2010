@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_karabudjan_2010",
+  "title": "Karabudjan",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5958056",
+    "imdb": "tt1632902",
+    "tmdb": 74527
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

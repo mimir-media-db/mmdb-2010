@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fierce_wife_2010",
+  "title": "The Fierce Wife",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5932160",
+    "imdb": "tt4304720",
+    "tmdb": 40484
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 23,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

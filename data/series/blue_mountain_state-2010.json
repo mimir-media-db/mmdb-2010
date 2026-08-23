@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_mountain_state_2010",
+  "title": "Blue Mountain State",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q885807",
+    "imdb": "tt1344204",
+    "tmdb": 31941
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 39,
+  "genres": [
+    "Comedy",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

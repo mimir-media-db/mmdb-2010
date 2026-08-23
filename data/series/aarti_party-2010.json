@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_aarti_party_2010",
+  "title": "Aarti Party",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4662649",
+    "imdb": "tt1768757",
+    "tmdb": 33484
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 7,
+  "genres": [
+    "Reality-TV",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

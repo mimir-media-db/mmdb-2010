@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_rake_2010",
+  "title": "Rake",
+  "start_year": 2010,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q4945995",
+    "imdb": "tt1587000",
+    "tmdb": 34379
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 40,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_panday_kids_2010",
+  "title": "Panday Kids",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7130540",
+    "imdb": "tt1606491",
+    "tmdb": 31843
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 72,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

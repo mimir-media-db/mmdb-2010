@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_flames_of_desire_2010",
+  "title": "Flames of Desire",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q486629",
+    "imdb": "tt6201346",
+    "tmdb": 39037
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

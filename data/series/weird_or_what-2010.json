@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_weird_or_what_2010",
+  "title": "Weird or What?",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1307151",
+    "imdb": "tt1660286",
+    "tmdb": 36160
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_annie_mg_2010",
+  "title": "Annie M.G.",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2459052"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 7,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

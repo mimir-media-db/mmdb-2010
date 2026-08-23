@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_scarlet_letter_2010",
+  "title": "Scarlet Letter",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6798609"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 165,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_digging_for_britain_2010",
+  "title": "Digging for Britain",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5275664",
+    "imdb": "tt1715425",
+    "tmdb": 33901
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 13,
+  "total_episodes": 63,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

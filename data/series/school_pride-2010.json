@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_school_pride_2010",
+  "title": "School Pride",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7432296",
+    "imdb": "tt1640175",
+    "tmdb": 34219
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

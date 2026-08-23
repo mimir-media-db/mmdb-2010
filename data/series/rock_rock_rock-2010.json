@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_rock_rock_rock_2010",
+  "title": "Rock, Rock, Rock",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1960117",
+    "imdb": "tt2795782",
+    "tmdb": 46398
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

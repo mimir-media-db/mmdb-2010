@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_victor_sauvage_2010",
+  "title": "Victor Sauvage",
+  "start_year": 2010,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3557566",
+    "imdb": "tt1527226",
+    "tmdb": 113396
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

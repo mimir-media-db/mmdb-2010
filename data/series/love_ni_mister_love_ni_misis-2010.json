@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_love_ni_mister_love_ni_misis_2010",
+  "title": "Love ni Mister, Love ni Misis",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6691921",
+    "imdb": "tt7137064",
+    "tmdb": 33360
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 150,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

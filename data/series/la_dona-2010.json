@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_la_dona_2010",
+  "title": "La doña",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3214056",
+    "imdb": "tt2324541"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 134,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_growing_up_with_chinese_2009",
+  "title": "Growing up with Chinese",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5611679"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "CN"
+  ]
+}

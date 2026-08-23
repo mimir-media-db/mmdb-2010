@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_diva_2010",
+  "title": "Diva",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5283781",
+    "imdb": "tt1625386",
+    "tmdb": 31820
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 107,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

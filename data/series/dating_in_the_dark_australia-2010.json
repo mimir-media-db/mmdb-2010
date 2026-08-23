@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dating_in_the_dark_australia_2010",
+  "title": "Dating in the Dark Australia",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5227674"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

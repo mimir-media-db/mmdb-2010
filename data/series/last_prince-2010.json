@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_last_prince_2010",
+  "title": "The Last Prince",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7745954",
+    "imdb": "tt1585215",
+    "tmdb": 31484
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 117,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

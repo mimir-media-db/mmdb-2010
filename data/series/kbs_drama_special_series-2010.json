@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_kbs_drama_special_series_2010",
+  "title": "KBS Drama Special Series",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12581321"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

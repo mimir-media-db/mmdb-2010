@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_do_dzwonka_2010",
+  "title": "Do dzwonka",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5286408",
+    "imdb": "tt1851354"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 80,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

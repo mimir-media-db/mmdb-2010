@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mira_quien_baila_2010",
+  "title": "Mira quien baila",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6872251",
+    "imdb": "tt2955856",
+    "tmdb": 33767
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 9,
+  "total_episodes": 81,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

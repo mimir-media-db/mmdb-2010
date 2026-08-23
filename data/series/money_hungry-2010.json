@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_money_hungry_2010",
+  "title": "Money Hungry",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6899133"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

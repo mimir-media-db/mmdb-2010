@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_coach_trip_2010",
+  "title": "Celebrity Coach Trip",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63885095",
+    "imdb": "tt1855623",
+    "tmdb": 37821
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

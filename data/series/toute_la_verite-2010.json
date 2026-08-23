@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_toute_la_verite_2010",
+  "title": "Toute la vérité",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3535838",
+    "imdb": "tt1534993",
+    "tmdb": 87437
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 92,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

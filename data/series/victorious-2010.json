@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_victorious_2010",
+  "title": "Victorious",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4533",
+    "imdb": "tt1604099",
+    "tmdb": 31251
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 60,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

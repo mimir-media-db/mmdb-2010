@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kung_tayoy_magkakalayo_2010",
+  "title": "Kung Tayo'y Magkakalayo",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q12966820",
+    "imdb": "tt1731858",
+    "tmdb": 31474
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 110,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

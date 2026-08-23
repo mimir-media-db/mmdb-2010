@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_xfactor_2010",
+  "title": "X-Factor",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2021610"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": []
+}

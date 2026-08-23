@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_escrito_nas_estrelas_2010",
+  "title": "Escrito nas Estrelas",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3058003",
+    "imdb": "tt1692131",
+    "tmdb": 46142
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 143,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

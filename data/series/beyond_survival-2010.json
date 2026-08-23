@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_beyond_survival_2010",
+  "title": "Beyond Survival",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4900033",
+    "imdb": "tt1744861",
+    "tmdb": 33298
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

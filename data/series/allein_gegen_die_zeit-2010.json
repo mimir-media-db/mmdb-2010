@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_allein_gegen_die_zeit_2010",
+  "title": "Allein gegen die Zeit",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q824853",
+    "imdb": "tt1461962",
+    "tmdb": 39902
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

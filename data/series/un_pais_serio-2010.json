@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_un_pais_serio_2010",
+  "title": "Un país serio",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6155634"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

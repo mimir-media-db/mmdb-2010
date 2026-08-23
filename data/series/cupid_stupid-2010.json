@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_cupid_stupid_2010",
+  "title": "Cupid Stupid",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5194511",
+    "tmdb": 80123
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

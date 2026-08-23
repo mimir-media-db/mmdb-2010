@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_mujeres_de_lujo_2010",
+  "title": "Mujeres de lujo",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4707352",
+    "imdb": "tt1577398",
+    "tmdb": 84217
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 78,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

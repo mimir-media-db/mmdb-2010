@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dag_nacht_2010",
+  "title": "Dag & nacht",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q13510365",
+    "imdb": "tt1442562",
+    "tmdb": 37389
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

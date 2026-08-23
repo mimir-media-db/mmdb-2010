@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_beautys_rival_in_palace_2010",
+  "title": "Beauty's Rival in Palace",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q717197",
+    "imdb": "tt9636906",
+    "tmdb": 31162
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 40,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_shinees_hello_baby_2010",
+  "title": "Shinee's Hello Baby",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q498588"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

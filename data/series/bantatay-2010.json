@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bantatay_2010",
+  "title": "Bantatay",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4857192",
+    "imdb": "tt1743278",
+    "tmdb": 33843
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 115,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

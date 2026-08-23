@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_if_you_really_knew_me_2010",
+  "title": "If You Really Knew Me",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3792136",
+    "imdb": "tt1595548",
+    "tmdb": 33206
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

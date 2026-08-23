@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_liebe_am_fjord_2010",
+  "title": "Liebe am Fjord",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1823718",
+    "imdb": "tt1682201"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

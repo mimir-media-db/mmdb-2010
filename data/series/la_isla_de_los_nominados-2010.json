@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_isla_de_los_nominados_2010",
+  "title": "La isla de los nominados",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5967069",
+    "imdb": "tt1698616"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 31,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

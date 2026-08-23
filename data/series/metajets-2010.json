@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_metajets_2010",
+  "title": "MetaJets",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q626530",
+    "imdb": "tt2009083",
+    "tmdb": 33302
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 40,
+  "genres": [
+    "Action",
+    "Animation",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_vrijland_2010",
+  "title": "VRijland",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2725391",
+    "imdb": "tt1741688",
+    "tmdb": 246623
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 457,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": []
+}

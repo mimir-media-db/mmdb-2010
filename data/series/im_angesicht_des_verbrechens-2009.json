@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_im_angesicht_des_verbrechens_2009",
+  "title": "Im Angesicht des Verbrechens",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1659301",
+    "imdb": "tt1223917",
+    "tmdb": 37131
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

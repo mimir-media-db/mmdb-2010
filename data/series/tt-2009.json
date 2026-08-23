@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tt_2009",
+  "title": "TT",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4465233",
+    "imdb": "tt1712153",
+    "tmdb": 63445
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

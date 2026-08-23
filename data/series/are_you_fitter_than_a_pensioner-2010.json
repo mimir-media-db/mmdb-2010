@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_are_you_fitter_than_a_pensioner_2010",
+  "title": "Are You Fitter Than a Pensioner?",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4788396",
+    "imdb": "tt1706734",
+    "tmdb": 40301
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

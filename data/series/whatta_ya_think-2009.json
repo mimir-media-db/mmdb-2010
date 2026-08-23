@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_whatta_ya_think_2009",
+  "title": "Whatta Ya Think",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112848134",
+    "imdb": "tt1618356"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

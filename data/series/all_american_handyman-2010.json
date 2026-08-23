@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_all_american_handyman_2010",
+  "title": "All American Handyman",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4728585",
+    "imdb": "tt1738384"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

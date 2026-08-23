@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_mrs_mr_sharma_allahabadwale_2010",
+  "title": "Mrs. & Mr. Sharma Allahabadwale",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6929686",
+    "imdb": "tt1744865"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 148,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

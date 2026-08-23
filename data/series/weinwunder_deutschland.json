@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_weinwunder_deutschland",
+  "title": "Weinwunder Deutschland",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q15853870",
+    "imdb": "tt2133110"
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}

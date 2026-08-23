@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_for_one",
+  "title": "All for One",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4729961",
+    "imdb": "tt1629446",
+    "tmdb": 34024
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2010,
+  "total_seasons": 1,
+  "total_episodes": 7
+}

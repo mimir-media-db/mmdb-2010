@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_chopper_senior_vs_junior",
+  "title": "American Chopper: Senior vs. Junior",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3614048",
+    "imdb": "tt2069135",
+    "tmdb": 33481
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2010,
+  "total_seasons": 4,
+  "total_episodes": 70
+}

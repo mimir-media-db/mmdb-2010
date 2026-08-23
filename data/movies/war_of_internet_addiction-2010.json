@@ -8,6 +8,9 @@
     "wikidata": "Q7968655",
     "tmdb": 174604
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2010-01-20"
+  "last_updated": "2026-08-23",
+  "release_date": "2010-01-20",
+  "countries": [
+    "CN"
+  ]
 }

@@ -13,5 +13,8 @@
     "children's television series",
     "fantasy television program"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
 }

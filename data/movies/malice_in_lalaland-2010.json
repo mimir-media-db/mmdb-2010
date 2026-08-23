@@ -17,5 +17,9 @@
     "Adult",
     "Adventure"
   ],
-  "is_adult": true
+  "is_adult": true,
+  "countries": [
+    "BE",
+    "US"
+  ]
 }

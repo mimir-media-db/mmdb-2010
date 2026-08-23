@@ -17,5 +17,8 @@
     "Comedy",
     "Music"
   ],
-  "is_adult": true
+  "is_adult": true,
+  "countries": [
+    "US"
+  ]
 }

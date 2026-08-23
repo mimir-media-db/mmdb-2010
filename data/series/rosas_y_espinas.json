@@ -7,7 +7,10 @@
   "external_ids": {
     "wikidata": "Q16626607"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 379
+  "total_episodes": 379,
+  "countries": [
+    "MX"
+  ]
 }

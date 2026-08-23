@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_aha",
+  "title": "AHA!",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4651743",
+    "imdb": "tt3280718",
+    "tmdb": 32489
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_episodes": 405
+}

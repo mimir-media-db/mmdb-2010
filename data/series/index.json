@@ -112,11 +112,25 @@
     "path": "data/series/2010_idol_star_athletics_championships-2010.json"
   },
   {
+    "id": "s_24_hour_restaurant_battle",
+    "title": "24 Hour Restaurant Battle",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/24_hour_restaurant_battle.json"
+  },
+  {
     "id": "s_24_hour_restaurant_battle_2010",
     "title": "24 Hour Restaurant Battle",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/24_hour_restaurant_battle-2010.json"
+  },
+  {
+    "id": "s_3_2_1_a_ganar",
+    "title": "3, 2, 1 ¡A ganar!",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/3_2_1_a_ganar.json"
   },
   {
     "id": "s_3_2_1_a_ganar_2010",
@@ -126,11 +140,25 @@
     "path": "data/series/3_2_1_a_ganar-2010.json"
   },
   {
+    "id": "s_365_wun_haeng_rak",
+    "title": "365 Wun Haeng Rak",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/365_wun_haeng_rak.json"
+  },
+  {
     "id": "s_365_wun_haeng_rak_2010",
     "title": "365 Wun Haeng Rak",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/365_wun_haeng_rak-2010.json"
+  },
+  {
+    "id": "s_3three",
+    "title": "3@Three",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/3three.json"
   },
   {
     "id": "s_3three_2010",
@@ -140,11 +168,25 @@
     "path": "data/series/3three-2010.json"
   },
   {
+    "id": "s_40_y_tantos",
+    "title": "40 y Tantos",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/40_y_tantos.json"
+  },
+  {
     "id": "s_40_y_tantos_2010",
     "title": "40 y Tantos",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/40_y_tantos-2010.json"
+  },
+  {
+    "id": "s_4thoughttv",
+    "title": "4thought.tv",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/4thoughttv.json"
   },
   {
     "id": "s_4thoughttv_2010",
@@ -154,11 +196,25 @@
     "path": "data/series/4thoughttv-2010.json"
   },
   {
+    "id": "s_5_star_specials",
+    "title": "5 Star Specials",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/5_star_specials.json"
+  },
+  {
     "id": "s_5_star_specials_2010",
     "title": "5 Star Specials",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/5_star_specials-2010.json"
+  },
+  {
+    "id": "s_71_degrees_north",
+    "title": "71 Degrees North",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/71_degrees_north.json"
   },
   {
     "id": "s_71_degrees_north_2010",
@@ -173,6 +229,13 @@
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/853-2010.json"
+  },
+  {
+    "id": "s_9_by_design",
+    "title": "9 By Design",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/9_by_design.json"
   },
   {
     "id": "s_9_by_design_2010",
@@ -224,11 +287,25 @@
     "path": "data/series/aerial_america-2010.json"
   },
   {
+    "id": "s_afl_360",
+    "title": "AFL 360",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/afl_360.json"
+  },
+  {
     "id": "s_afl_360_2010",
     "title": "AFL 360",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/afl_360-2010.json"
+  },
+  {
+    "id": "s_afl_insider",
+    "title": "AFL Insider",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/afl_insider.json"
   },
   {
     "id": "s_afl_insider_2010",
@@ -278,6 +355,13 @@
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/ah_so_thats_how_it_is-2010.json"
+  },
+  {
+    "id": "s_aha",
+    "title": "AHA!",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/aha.json"
   },
   {
     "id": "s_aha_2010",
@@ -1757,6 +1841,13 @@
     "path": "data/series/cops_lac-2010.json"
   },
   {
+    "id": "s_corazon_abierto",
+    "title": "A Corazón Abierto",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/corazon_abierto.json"
+  },
+  {
     "id": "s_corazon_abierto_2010",
     "title": "A Corazón Abierto",
     "start_year": 2010,
@@ -2828,6 +2919,13 @@
     "path": "data/series/fish_warrior-2010.json"
   },
   {
+    "id": "s_fistful_of_stances",
+    "title": "A Fistful of Stances",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/fistful_of_stances.json"
+  },
+  {
     "id": "s_fistful_of_stances_2010",
     "title": "A Fistful of Stances",
     "start_year": 2010,
@@ -3283,6 +3381,13 @@
     "path": "data/series/gonulcelen-2010.json"
   },
   {
+    "id": "s_good_day_for_the_wind_to_blow",
+    "title": "A Good Day for the Wind to Blow",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/good_day_for_the_wind_to_blow.json"
+  },
+  {
     "id": "s_good_day_for_the_wind_to_blow_2010",
     "title": "A Good Day for the Wind to Blow",
     "start_year": 2010,
@@ -3470,6 +3575,13 @@
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/gumapang_ka_sa_lusak-2010.json"
+  },
+  {
+    "id": "s_gurls_wurld",
+    "title": "A Gurls Wurld",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/gurls_wurld.json"
   },
   {
     "id": "s_gurls_wurld_2010",
@@ -3750,6 +3862,13 @@
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/history_cold_case-2010.json"
+  },
+  {
+    "id": "s_history_of_horror_with_mark_gatiss",
+    "title": "A History of Horror with Mark Gatiss",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/history_of_horror_with_mark_gatiss.json"
   },
   {
     "id": "s_history_of_horror_with_mark_gatiss_2010",
@@ -5145,6 +5264,13 @@
     "path": "data/series/le_due_facce_dellamore-2010.json"
   },
   {
+    "id": "s_league_of_their_own",
+    "title": "A League of Their Own",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/league_of_their_own.json"
+  },
+  {
     "id": "s_league_of_their_own_2010",
     "title": "A League of Their Own",
     "start_year": 2010,
@@ -5654,6 +5780,13 @@
     "start_year": 2010,
     "end_year": 2012,
     "path": "data/series/mama_drama-2010.json"
+  },
+  {
+    "id": "s_man_called_god",
+    "title": "A Man Called God",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/man_called_god.json"
   },
   {
     "id": "s_man_called_god_2010",
@@ -7390,6 +7523,13 @@
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/quiereme_tonto-2010.json"
+  },
+  {
+    "id": "s_quiet_word_with",
+    "title": "A Quiet Word With ...",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/quiet_word_with.json"
   },
   {
     "id": "s_quiet_word_with_2010",
@@ -9616,6 +9756,13 @@
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/wayupak_montra-2010.json"
+  },
+  {
+    "id": "s_weaver_on_the_horizon",
+    "title": "A Weaver on the Horizon",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/weaver_on_the_horizon.json"
   },
   {
     "id": "s_weaver_on_the_horizon_2010",

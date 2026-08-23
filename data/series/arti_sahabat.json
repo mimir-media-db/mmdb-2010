@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_arti_sahabat",
+  "title": "Arti Sahabat",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q141133697",
+    "tmdb": 50018
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2011,
+  "total_seasons": 2,
+  "total_episodes": 330
+}

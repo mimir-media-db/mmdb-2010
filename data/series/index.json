@@ -882,11 +882,25 @@
     "path": "data/series/amor_virtual-2010.json"
   },
   {
+    "id": "s_ana_alquds",
+    "title": "Ana Al-Quds",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/ana_alquds.json"
+  },
+  {
     "id": "s_ana_alquds_2010",
     "title": "Ana Al-Quds",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/ana_alquds-2010.json"
+  },
+  {
+    "id": "s_ana_lulu",
+    "title": "Ana lu'lu",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/ana_lulu.json"
   },
   {
     "id": "s_ana_lulu_2010",
@@ -896,11 +910,25 @@
     "path": "data/series/ana_lulu-2010.json"
   },
   {
+    "id": "s_anatomy_of_a_disaster",
+    "title": "Anatomy of a Disaster",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/anatomy_of_a_disaster.json"
+  },
+  {
     "id": "s_anatomy_of_a_disaster_2010",
     "title": "Anatomy of a Disaster",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/anatomy_of_a_disaster-2010.json"
+  },
+  {
+    "id": "s_ancient_xfiles",
+    "title": "Ancient X-Files",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/ancient_xfiles.json"
   },
   {
     "id": "s_ancient_xfiles_2010",
@@ -924,11 +952,25 @@
     "path": "data/series/andreas_kieling_mitten_in_sudafrika-2009.json"
   },
   {
+    "id": "s_ang_shim_jung",
+    "title": "Ang Shim Jung",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/ang_shim_jung.json"
+  },
+  {
     "id": "s_ang_shim_jung_2010",
     "title": "Ang Shim Jung",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/ang_shim_jung-2010.json"
+  },
+  {
+    "id": "s_ang_yaman_ni_lola",
+    "title": "Ang Yaman ni Lola",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/ang_yaman_ni_lola.json"
   },
   {
     "id": "s_ang_yaman_ni_lola_2010",
@@ -938,6 +980,13 @@
     "path": "data/series/ang_yaman_ni_lola-2010.json"
   },
   {
+    "id": "s_annie_mg",
+    "title": "Annie M.G.",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/annie_mg.json"
+  },
+  {
     "id": "s_annie_mg_2010",
     "title": "Annie M.G.",
     "start_year": 2010,
@@ -945,11 +994,25 @@
     "path": "data/series/annie_mg-2010.json"
   },
   {
+    "id": "s_ant_decs_push_the_button",
+    "title": "Ant & Dec's Push the Button",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/ant_decs_push_the_button.json"
+  },
+  {
     "id": "s_ant_decs_push_the_button_2010",
     "title": "Ant & Dec's Push the Button",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/ant_decs_push_the_button-2010.json"
+  },
+  {
+    "id": "s_antiques_road_trip",
+    "title": "Antiques Road Trip",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/antiques_road_trip.json"
   },
   {
     "id": "s_antiques_road_trip_2010",
@@ -966,6 +1029,13 @@
     "path": "data/series/antonio_treatment-2010.json"
   },
   {
+    "id": "s_any_human_heart",
+    "title": "Any Human Heart",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/any_human_heart.json"
+  },
+  {
     "id": "s_any_human_heart_2010",
     "title": "Any Human Heart",
     "start_year": 2010,
@@ -980,11 +1050,25 @@
     "path": "data/series/apprentice_new_zealand-2010.json"
   },
   {
+    "id": "s_araguaia",
+    "title": "Araguaia",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/araguaia.json"
+  },
+  {
     "id": "s_araguaia_2010",
     "title": "Araguaia",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/araguaia-2010.json"
+  },
+  {
+    "id": "s_are_we_there_yet",
+    "title": "Are We There Yet?",
+    "start_year": 2010,
+    "end_year": 2013,
+    "path": "data/series/are_we_there_yet.json"
   },
   {
     "id": "s_are_we_there_yet_2010",
@@ -994,11 +1078,39 @@
     "path": "data/series/are_we_there_yet-2010.json"
   },
   {
+    "id": "s_are_you_fitter_than_a_pensioner",
+    "title": "Are You Fitter Than a Pensioner?",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/are_you_fitter_than_a_pensioner.json"
+  },
+  {
     "id": "s_are_you_fitter_than_a_pensioner_2010",
     "title": "Are You Fitter Than a Pensioner?",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/are_you_fitter_than_a_pensioner-2010.json"
+  },
+  {
+    "id": "s_arini",
+    "title": "Arini",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/arini.json"
+  },
+  {
+    "id": "s_arjuna_mencari_cinta",
+    "title": "Arjuna Mencari Cinta",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/arjuna_mencari_cinta.json"
+  },
+  {
+    "id": "s_ark",
+    "title": "Ark",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/ark.json"
   },
   {
     "id": "s_ark_2010",
@@ -1020,6 +1132,20 @@
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/arrangement-2010.json"
+  },
+  {
+    "id": "s_arti_sahabat",
+    "title": "Arti Sahabat",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/arti_sahabat.json"
+  },
+  {
+    "id": "s_arti_sahabat_musim_kedua",
+    "title": "Arti Sahabat Musim Kedua",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/arti_sahabat_musim_kedua.json"
   },
   {
     "id": "s_artzooka_2009",
@@ -4415,6 +4541,13 @@
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/identity-2010.json"
+  },
+  {
+    "id": "s_idiot_abroad",
+    "title": "An Idiot Abroad",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/idiot_abroad.json"
   },
   {
     "id": "s_idiot_abroad_2010",

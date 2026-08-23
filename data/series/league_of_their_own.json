@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_league_of_their_own",
+  "title": "A League of Their Own",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4657656",
+    "imdb": "tt2184186",
+    "tmdb": 32348
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_seasons": 11,
+  "total_episodes": 56
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_accused",
+  "title": "Accused",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2822905",
+    "imdb": "tt1769411",
+    "tmdb": 32940
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2012,
+  "total_seasons": 2,
+  "total_episodes": 10
+}

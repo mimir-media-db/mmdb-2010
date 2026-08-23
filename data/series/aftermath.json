@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_aftermath",
+  "title": "Aftermath",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q720650",
+    "imdb": "tt1470942",
+    "tmdb": 34982
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_episodes": 5
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_agent_osobogo_naznacheniya",
+  "title": "Agent osobogo naznacheniya",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q60851791",
+    "imdb": "tt1744910",
+    "tmdb": 86869
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}

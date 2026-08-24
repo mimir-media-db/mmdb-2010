@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bams_world_domination",
+  "title": "Bam's World Domination",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4853242",
+    "imdb": "tt1753474"
+  },
+  "last_updated": "2026-08-24",
+  "end_year": null,
+  "total_episodes": 1
+}

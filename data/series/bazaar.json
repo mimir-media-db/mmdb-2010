@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_bazaar",
+  "title": "Bazaar",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q111104476",
+    "imdb": "tt5613974"
+  },
+  "last_updated": "2026-08-24",
+  "end_year": 2021
+}

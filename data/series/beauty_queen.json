@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_beauty_queen",
+  "title": "Beauty Queen",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4877895",
+    "imdb": "tt1748711",
+    "tmdb": 33800
+  },
+  "last_updated": "2026-08-24",
+  "end_year": 2011,
+  "total_episodes": 80
+}

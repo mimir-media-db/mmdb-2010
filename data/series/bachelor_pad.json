@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bachelor_pad",
+  "title": "Bachelor Pad",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4838763",
+    "imdb": "tt1583428",
+    "tmdb": 33348
+  },
+  "last_updated": "2026-08-24",
+  "end_year": 2012,
+  "total_seasons": 3,
+  "total_episodes": 20
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_australian_families_of_crime",
+  "title": "Australian Families of Crime",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4824123",
+    "imdb": "tt1704291",
+    "tmdb": 33004
+  },
+  "last_updated": "2026-08-24",
+  "end_year": null,
+  "total_seasons": 1
+}

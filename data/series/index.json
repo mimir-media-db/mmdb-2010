@@ -1421,11 +1421,32 @@
     "path": "data/series/baggage-2010.json"
   },
   {
+    "id": "s_baghdad",
+    "title": "Baghdad",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/baghdad.json"
+  },
+  {
+    "id": "s_balgariya_tarsi_talant",
+    "title": "Balgariya tarsi talant",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/balgariya_tarsi_talant.json"
+  },
+  {
     "id": "s_balgariya_tarsi_talant_2010",
     "title": "Balgariya tarsi talant",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/balgariya_tarsi_talant-2010.json"
+  },
+  {
+    "id": "s_balitaang_tapat",
+    "title": "Balitaang Tapat",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/balitaang_tapat.json"
   },
   {
     "id": "s_balitaang_tapat_2010",
@@ -1435,11 +1456,25 @@
     "path": "data/series/balitaang_tapat-2010.json"
   },
   {
+    "id": "s_bams_world_domination",
+    "title": "Bam's World Domination",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/bams_world_domination.json"
+  },
+  {
     "id": "s_bams_world_domination_2010",
     "title": "Bam's World Domination",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/bams_world_domination-2010.json"
+  },
+  {
+    "id": "s_banded_brothers",
+    "title": "Banded Brothers",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/banded_brothers.json"
   },
   {
     "id": "s_banded_brothers_2010",
@@ -1449,11 +1484,25 @@
     "path": "data/series/banded_brothers-2010.json"
   },
   {
+    "id": "s_bantatay",
+    "title": "Bantatay",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/bantatay.json"
+  },
+  {
     "id": "s_bantatay_2010",
     "title": "Bantatay",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/bantatay-2010.json"
+  },
+  {
+    "id": "s_basahang_ginto",
+    "title": "Basahang Ginto",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/basahang_ginto.json"
   },
   {
     "id": "s_basahang_ginto_2010",
@@ -1470,6 +1519,13 @@
     "path": "data/series/basketball_wives-2010.json"
   },
   {
+    "id": "s_bath_crashers",
+    "title": "Bath Crashers",
+    "start_year": 2010,
+    "end_year": 2016,
+    "path": "data/series/bath_crashers.json"
+  },
+  {
     "id": "s_bath_crashers_2010",
     "title": "Bath Crashers",
     "start_year": 2010,
@@ -1477,11 +1533,25 @@
     "path": "data/series/bath_crashers-2010.json"
   },
   {
+    "id": "s_baxter",
+    "title": "Baxter",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/baxter.json"
+  },
+  {
     "id": "s_baxter_2010",
     "title": "Baxter",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/baxter-2010.json"
+  },
+  {
+    "id": "s_bazaar",
+    "title": "Bazaar",
+    "start_year": 2010,
+    "end_year": 2021,
+    "path": "data/series/bazaar.json"
   },
   {
     "id": "s_bazaar_2009",
@@ -1505,11 +1575,25 @@
     "path": "data/series/bbc_janala_mojay_mojay_shekha-2010.json"
   },
   {
+    "id": "s_be_good_johnny_weir",
+    "title": "Be Good Johnny Weir",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/be_good_johnny_weir.json"
+  },
+  {
     "id": "s_be_good_johnny_weir_2009",
     "title": "Be Good Johnny Weir",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/be_good_johnny_weir-2009.json"
+  },
+  {
+    "id": "s_beach_heat_miami",
+    "title": "Beach Heat: Miami",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/beach_heat_miami.json"
   },
   {
     "id": "s_beach_heat_miami_2010",
@@ -1519,11 +1603,25 @@
     "path": "data/series/beach_heat_miami-2010.json"
   },
   {
+    "id": "s_beast_legends",
+    "title": "Beast Legends",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/beast_legends.json"
+  },
+  {
     "id": "s_beast_legends_2010",
     "title": "Beast Legends",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/beast_legends-2010.json"
+  },
+  {
+    "id": "s_beautiful_minds",
+    "title": "Beautiful Minds",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/beautiful_minds.json"
   },
   {
     "id": "s_beautiful_minds_2010",
@@ -1533,11 +1631,25 @@
     "path": "data/series/beautiful_minds-2010.json"
   },
   {
+    "id": "s_beauty_queen",
+    "title": "Beauty Queen",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/beauty_queen.json"
+  },
+  {
     "id": "s_beauty_queen_2010",
     "title": "Beauty Queen",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/beauty_queen-2010.json"
+  },
+  {
+    "id": "s_beautys_rival_in_palace",
+    "title": "Beauty's Rival in Palace",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/beautys_rival_in_palace.json"
   },
   {
     "id": "s_beautys_rival_in_palace_2010",
@@ -1547,11 +1659,25 @@
     "path": "data/series/beautys_rival_in_palace-2010.json"
   },
   {
+    "id": "s_bebe_and_me",
+    "title": "Bebe and Me",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/bebe_and_me.json"
+  },
+  {
     "id": "s_bebe_and_me_2010",
     "title": "Bebe and Me",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/bebe_and_me-2010.json"
+  },
+  {
+    "id": "s_becoming_a_billionaire",
+    "title": "Becoming a Billionaire",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/becoming_a_billionaire.json"
   },
   {
     "id": "s_becoming_a_billionaire_2010",
@@ -1561,6 +1687,13 @@
     "path": "data/series/becoming_a_billionaire-2010.json"
   },
   {
+    "id": "s_behzat_c_bir_ankara_polisiyesi",
+    "title": "Behzat Ç. Bir Ankara Polisiyesi",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/behzat_c_bir_ankara_polisiyesi.json"
+  },
+  {
     "id": "s_behzat_c_bir_ankara_polisiyesi_2010",
     "title": "Behzat Ç. Bir Ankara Polisiyesi",
     "start_year": 2010,
@@ -1568,11 +1701,25 @@
     "path": "data/series/behzat_c_bir_ankara_polisiyesi-2010.json"
   },
   {
+    "id": "s_being_ndubz",
+    "title": "Being... N-Dubz",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/being_ndubz.json"
+  },
+  {
     "id": "s_being_ndubz_2010",
     "title": "Being... N-Dubz",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/being_ndubz-2010.json"
+  },
+  {
+    "id": "s_being_victor",
+    "title": "Being Victor",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/being_victor.json"
   },
   {
     "id": "s_being_victor_2010",

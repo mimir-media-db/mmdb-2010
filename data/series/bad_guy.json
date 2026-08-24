@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_guy",
+  "title": "Bad Guy",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q486176",
+    "imdb": "tt2090230",
+    "tmdb": 32784
+  },
+  "last_updated": "2026-08-24",
+  "end_year": 2010,
+  "total_episodes": 17
+}

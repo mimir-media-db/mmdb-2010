@@ -1148,11 +1148,25 @@
     "path": "data/series/arti_sahabat_musim_kedua.json"
   },
   {
+    "id": "s_artzooka",
+    "title": "Artzooka!",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/artzooka.json"
+  },
+  {
     "id": "s_artzooka_2009",
     "title": "Artzooka!",
     "start_year": 2009,
     "end_year": 2012,
     "path": "data/series/artzooka-2009.json"
+  },
+  {
+    "id": "s_as_the_bell_rings",
+    "title": "As the Bell Rings",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/as_the_bell_rings.json"
   },
   {
     "id": "s_as_the_bell_rings_2009",
@@ -1162,11 +1176,25 @@
     "path": "data/series/as_the_bell_rings-2009.json"
   },
   {
+    "id": "s_asar_talo_lahat_panalo",
+    "title": "Asar Talo Lahat Panalo!",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/asar_talo_lahat_panalo.json"
+  },
+  {
     "id": "s_asar_talo_lahat_panalo_2010",
     "title": "Asar Talo Lahat Panalo!",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/asar_talo_lahat_panalo-2010.json"
+  },
+  {
+    "id": "s_asfur",
+    "title": "Asfur",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/asfur.json"
   },
   {
     "id": "s_asfur_2010",
@@ -1176,11 +1204,25 @@
     "path": "data/series/asfur-2010.json"
   },
   {
+    "id": "s_ask_rhod_gilbert",
+    "title": "Ask Rhod Gilbert",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/ask_rhod_gilbert.json"
+  },
+  {
     "id": "s_ask_rhod_gilbert_2010",
     "title": "Ask Rhod Gilbert",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/ask_rhod_gilbert-2010.json"
+  },
+  {
+    "id": "s_ask_ve_ceza",
+    "title": "Aşk ve Ceza",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/ask_ve_ceza.json"
   },
   {
     "id": "s_ask_ve_ceza_2010",
@@ -1190,11 +1232,25 @@
     "path": "data/series/ask_ve_ceza-2010.json"
   },
   {
+    "id": "s_astana_my_love",
+    "title": "Astana - My Love",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/astana_my_love.json"
+  },
+  {
     "id": "s_astana_my_love_2010",
     "title": "Astana - My Love",
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/astana_my_love-2010.json"
+  },
+  {
+    "id": "s_asu_no_hikari_wo_tsukame",
+    "title": "Asu no Hikari wo Tsukame",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/asu_no_hikari_wo_tsukame.json"
   },
   {
     "id": "s_asu_no_hikari_wo_tsukame_2010",
@@ -1204,11 +1260,25 @@
     "path": "data/series/asu_no_hikari_wo_tsukame-2010.json"
   },
   {
+    "id": "s_athena_goddess_of_war",
+    "title": "Athena: Goddess of War",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/athena_goddess_of_war.json"
+  },
+  {
     "id": "s_athena_goddess_of_war_2010",
     "title": "Athena: Goddess of War",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/athena_goddess_of_war-2010.json"
+  },
+  {
+    "id": "s_auction_hunters",
+    "title": "Auction Hunters",
+    "start_year": 2010,
+    "end_year": 2015,
+    "path": "data/series/auction_hunters.json"
   },
   {
     "id": "s_auction_hunters_2010",
@@ -1218,11 +1288,25 @@
     "path": "data/series/auction_hunters-2010.json"
   },
   {
+    "id": "s_auction_kings",
+    "title": "Auction Kings",
+    "start_year": 2010,
+    "end_year": 2013,
+    "path": "data/series/auction_kings.json"
+  },
+  {
     "id": "s_auction_kings_2010",
     "title": "Auction Kings",
     "start_year": 2010,
     "end_year": 2013,
     "path": "data/series/auction_kings-2010.json"
+  },
+  {
+    "id": "s_aurora",
+    "title": "Aurora",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/aurora.json"
   },
   {
     "id": "s_aurora_2010",
@@ -1232,11 +1316,25 @@
     "path": "data/series/aurora-2010.json"
   },
   {
+    "id": "s_australia_versus",
+    "title": "Australia Versus",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/australia_versus.json"
+  },
+  {
     "id": "s_australia_versus_2010",
     "title": "Australia Versus",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/australia_versus-2010.json"
+  },
+  {
+    "id": "s_australian_families_of_crime",
+    "title": "Australian Families of Crime",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/australian_families_of_crime.json"
   },
   {
     "id": "s_australian_families_of_crime_2010",
@@ -1253,11 +1351,25 @@
     "path": "data/series/aviators-2010.json"
   },
   {
+    "id": "s_baat_hamari_pakki_hai",
+    "title": "Baat Hamari Pakki Hai",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/baat_hamari_pakki_hai.json"
+  },
+  {
     "id": "s_baat_hamari_pakki_hai_2010",
     "title": "Baat Hamari Pakki Hai",
     "start_year": 2010,
     "end_year": 2011,
     "path": "data/series/baat_hamari_pakki_hai-2010.json"
+  },
+  {
+    "id": "s_bachelor_pad",
+    "title": "Bachelor Pad",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/bachelor_pad.json"
   },
   {
     "id": "s_bachelor_pad_2010",
@@ -1267,6 +1379,13 @@
     "path": "data/series/bachelor_pad-2010.json"
   },
   {
+    "id": "s_bad_dog",
+    "title": "Bad Dog!",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/bad_dog.json"
+  },
+  {
     "id": "s_bad_dog_2010",
     "title": "Bad Dog!",
     "start_year": 2010,
@@ -1274,11 +1393,25 @@
     "path": "data/series/bad_dog-2010.json"
   },
   {
+    "id": "s_bad_guy",
+    "title": "Bad Guy",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/bad_guy.json"
+  },
+  {
     "id": "s_bad_guy_2010",
     "title": "Bad Guy",
     "start_year": 2010,
     "end_year": 2010,
     "path": "data/series/bad_guy-2010.json"
+  },
+  {
+    "id": "s_baggage",
+    "title": "Baggage",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/baggage.json"
   },
   {
     "id": "s_baggage_2010",
@@ -1356,6 +1489,13 @@
     "start_year": 2009,
     "end_year": 2020,
     "path": "data/series/bazaar-2009.json"
+  },
+  {
+    "id": "s_bbc_janala_mojay_mojay_shekha",
+    "title": "BBC Janala Mojay Mojay Shekha",
+    "start_year": 2010,
+    "end_year": 2012,
+    "path": "data/series/bbc_janala_mojay_mojay_shekha.json"
   },
   {
     "id": "s_bbc_janala_mojay_mojay_shekha_2010",
@@ -1545,6 +1685,13 @@
     "start_year": 2010,
     "end_year": null,
     "path": "data/series/beyond_survival-2010.json"
+  },
+  {
+    "id": "s_bfgf",
+    "title": "BFGF",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/bfgf.json"
   },
   {
     "id": "s_bfgf_2010",

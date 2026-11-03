@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rammbock_berlin_undead_2010",
+  "title": "Rammbock: Berlin Undead",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q698906",
+    "imdb": "tt1583356",
+    "tmdb": 49901
+  },
+  "last_updated": "2026-11-03",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 63
+}

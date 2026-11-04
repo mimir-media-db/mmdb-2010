@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_48_hours",
+  "title": "48 Hours",
+  "start_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4031546",
+    "imdb": "tt31114944",
+    "tmdb": 35666
+  },
+  "last_updated": "2026-11-04",
+  "end_year": 2004,
+  "total_seasons": 29,
+  "total_episodes": 991
+}

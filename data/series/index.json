@@ -182,6 +182,13 @@
     "path": "data/series/40_y_tantos-2010.json"
   },
   {
+    "id": "s_48_hours",
+    "title": "48 Hours",
+    "start_year": 2010,
+    "end_year": 2004,
+    "path": "data/series/48_hours.json"
+  },
+  {
     "id": "s_4thoughttv",
     "title": "4thought.tv",
     "start_year": 2010,

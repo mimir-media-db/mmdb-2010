@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cassenoisette_lhistoire_jamais_racontee_2010",
+  "title": "Casse-Noisette, l'histoire jamais racontée",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q221020",
+    "imdb": "tt1041804",
+    "tmdb": 49852
+  },
+  "last_updated": "2026-11-10",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 110
+}

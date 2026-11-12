@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_dernier_maitre_de_lair_2010",
+  "title": "Le Dernier Maître de l'air",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11593",
+    "imdb": "tt0938283",
+    "tmdb": 10196
+  },
+  "last_updated": "2026-11-12",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 99
+}

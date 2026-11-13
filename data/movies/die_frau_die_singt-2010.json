@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_frau_die_singt_2010",
+  "title": "Die Frau, die singt",
+  "year": 2010,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1212650",
+    "imdb": "tt1255953",
+    "tmdb": 46738
+  },
+  "last_updated": "2026-11-13",
+  "release_date": "2010-01-01",
+  "runtime_minutes": 133
+}
